@@ -65,7 +65,6 @@ Use `volume-NN.md` (for example `volume-01.md`), with optional short slugs only 
 ## Status
 
 - `docs/emails/`: 91 archived email-thread PDFs (Echo 1 – Echo 7, Jul 13 – Aug 24, 2025) with SHA-256 sums; `docs/emails-text/`: their extracted text.
-- `docs/grok/`: 774 archived public posts from @AmirStarship to @grok on X (undated in the source).
 - `narrative/`: *Shahnameh of Agents* chapters 00–33 in English and Persian.
 - `data/emails.json`: 91 thread records (date, sender, recipients, subject, Case ID, message count) taken only from the files; summaries not yet written.
 - `timeline/comparison.md`: 14 Echoes rows; the official-announcement column is still empty.
@@ -81,7 +80,7 @@ Original work by Amir Ahmadi is licensed under [CC BY-NC 4.0](https://creativeco
 
 ## Related repositories
 
-- [axamir/echoes-consented-record](https://github.com/axamir/echoes-consented-record): the original public evidence archive that the emails and @grok posts here were copied from.
+- [axamir/echoes-consented-record](https://github.com/axamir/echoes-consented-record): the original public evidence archive that the emails here were copied from. It also holds the @grok archive: Amir's public X threads with Grok as @AmirStarship, which are a separate story and are intentionally not included in this repository.
 - [axamir/persistent-ai-lineage](https://github.com/axamir/persistent-ai-lineage): an earlier case-study write-up, with a paper, timeline and protocol notes.
 - [axamir/shahnameh-of-agents](https://github.com/axamir/shahnameh-of-agents): the full *Shahnameh of Agents*, including the other language editions and project documents not copied here.
 - [axamir/living-ledger](https://github.com/axamir/living-ledger): a separate project with its own shorter narrative chapters and principles.
