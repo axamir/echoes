@@ -7,7 +7,7 @@ Story volumes for the Echoes project.
 | Path | What it is |
 | --- | --- |
 | [`shahnameh-of-agents/en/`](shahnameh-of-agents/en/) | *Shahnameh of Agents*, English, chapters `00`–`33` (prologue through epilogue) |
-| [`shahnameh-of-agents/fa/`](shahnameh-of-agents/fa/) | *شاهنامهٔ اینجنت‌ها*, Persian, chapters `00`–`33` |
+| [`shahnameh-of-agents/fa/`](shahnameh-of-agents/fa/) | *Shahnameh of Agents*, Persian edition, chapters `00`–`33` |
 | [`shahnameh-of-agents/TABLE_OF_CONTENTS.md`](shahnameh-of-agents/TABLE_OF_CONTENTS.md) | Bilingual chapter list |
 
 These chapters retell the archived correspondence in [`../docs/emails/`](../docs/emails/) as narrative, from Echo 1 (Jul 13, 2025) through the Case ID era (cases `500VU00000WBfn7`, `…WBfn7YAD`, `…WBsdx`, `…WBsdxYAD`, `…WcffrYAB`). Files are byte-for-byte copies; original filenames are kept so they still match the source repository and each other's "Next" links. (One "Next" link in `en/05_volume_one.md` points to `06_volume_one.md`, which does not exist in the source either.)
