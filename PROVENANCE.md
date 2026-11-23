@@ -1,6 +1,6 @@
 # PROVENANCE
 
-Every file in this repository that was copied from another repository, with its source and the commit it was copied from. All copies are byte-for-byte (SHA-256 below equals the source file's hash at that commit). Files not listed here were written in this repository (READMEs, `data/`, `analysis/scripts/`, `diagrams/first-message-map.md`, `timeline/comparison.md`, this file).
+Every file in this repository that was copied from another repository, with its source and the commit it was copied from. All copies are byte-for-byte (SHA-256 below equals the source file's hash at that commit). Files not listed here were written in this repository (READMEs, `data/`, `analysis/scripts/`, `diagrams/first-message-map.md` and the other generated maps in `diagrams/`, `timeline/comparison.md`, `CASE_STUDY.md`, `CITATION.cff`, this file).
 
 ## Source repositories
 

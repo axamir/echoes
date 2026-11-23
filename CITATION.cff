@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this archive, please cite it as below."
+type: dataset
+title: "Echoes: archive of a human-AI co-creation case study (July 2025)"
+authors:
+  - family-names: Ahmadi
+    given-names: Amir
+repository-code: "https://github.com/axamir/echoes"
+url: "https://github.com/axamir/echoes"
+license: CC-BY-NC-4.0
+abstract: >-
+  Primary-source archive of the Echoes correspondence (July-September 2025): 91 email-thread
+  exports between Amir Ahmadi and OpenAI support, with derived data, reproducible linguistic and
+  temporal analysis, a dated comparison with official AI announcements, and generated interaction
+  diagrams. Third-party messages are reproduced as records; the license covers the author's own work.
+keywords:
+  - human-AI interaction
+  - human-AI co-creation
+  - case study
+  - archive
+  - AI support agents
