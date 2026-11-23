@@ -6,6 +6,7 @@ Comparison of Echoes events with official AI announcements.
 
 | Path | What it is |
 | --- | --- |
+| [`comparison.csv`](comparison.csv) | Machine-readable merged chronology: all 91 email-thread records from [`../data/emails.json`](../data/emails.json) interleaved with the 34 official announcements from [`../data/official_announcements.json`](../data/official_announcements.json). Built by [`../analysis/scripts/build_comparison_csv.py`](../analysis/scripts/build_comparison_csv.py). The `status` column is date ordering only (see below). |
 | [`comparison.md`](comparison.md) | Merged chronological table: the 14 Echoes rows (thread starts / Case ID folders) interleaved with 34 dated official announcements, Jun 1 – Sep 30, 2025. Each Echoes row lists the nearest OpenAI announcement on/before and after it, with the gap in days. |
 | [`official-announcements.md`](official-announcements.md) | The 34 official announcements (OpenAI 27, Anthropic 5, Google 2), each with its primary source URL. Same records as [`../data/official_announcements.json`](../data/official_announcements.json). |
 | [`echoes-events.md`](echoes-events.md) | The 14 Echoes rows exactly as they were in the original `comparison.md`; input for the merge script. |
@@ -38,6 +39,20 @@ python3 analysis/scripts/build_timeline.py
 ```
 
 To add or correct an announcement, edit the `OFFICIAL` list in that script (one record per verified, dated source) and rerun it.
+
+## comparison.csv
+
+`comparison.csv` is a second, complete merge: one row for every record in `data/emails.json` (91 threads) and every record in `data/official_announcements.json` (34 announcements). Columns are `date`, `source` (`echo-archive` or `official`), `file`, `event` and `status`. Echo rows use the thread date as stored (including time of day when present), the PDF path, and the thread subject. Official rows use the published calendar date (no time of day), the primary source URL, and an event string of the form `id: organization: announcement`. Rows are sorted by calendar date, then time; official rows, which have no time, sort before timed echo rows on the same day.
+
+The `status` label compares each row to the nearest row on the other side by calendar-day distance. If two other-side dates are equally near — one earlier and one later — the later date is used. If this row's calendar date is strictly earlier than that nearest other-side date, the label is `DOCUMENTED BEFORE`; otherwise (same day or later) it is `DOCUMENTED AFTER`. Same-day counts as `DOCUMENTED AFTER` because official dates have no time of day, so order within a day cannot be established.
+
+These labels are date ordering only. They do not imply any connection, cause, or priority between an email thread and an announcement.
+
+Regenerate the CSV with:
+
+```bash
+python3 analysis/scripts/build_comparison_csv.py
+```
 
 ## Caveats
 
