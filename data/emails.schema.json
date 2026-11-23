@@ -1,60 +1,25 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://github.com/axamir/echoes/blob/main/data/emails.schema.json",
-  "title": "Echoes email record",
-  "description": "A single derived email record. All values must come from a source file in docs/; do not invent fields.",
+  "title": "Echoes email-thread record",
+  "description": "One record per archived email-thread PDF in docs/emails/. Values are copied from the file's extracted text (docs/emails-text/) or from the source archive's own folder path. Anything not literally present is null; nothing is inferred.",
   "type": "object",
   "additionalProperties": false,
-  "required": [
-    "id",
-    "date",
-    "sender",
-    "recipients",
-    "subject",
-    "case_id",
-    "source_file",
-    "summary"
-  ],
+  "required": ["id", "date", "date_raw", "sender", "recipients", "subject", "case_id", "archive_case_folder", "echo_label", "message_count", "source_file", "text_file", "sha256", "summary"],
   "properties": {
-    "id": {
-      "type": "string",
-      "minLength": 1,
-      "description": "Stable identifier for this record."
-    },
-    "date": {
-      "type": "string",
-      "format": "date-time",
-      "description": "Message date in ISO 8601."
-    },
-    "sender": {
-      "type": "string",
-      "minLength": 1,
-      "description": "Sender as stated in the source."
-    },
-    "recipients": {
-      "type": "array",
-      "items": {
-        "type": "string",
-        "minLength": 1
-      },
-      "description": "Recipients as stated in the source."
-    },
-    "subject": {
-      "type": "string",
-      "description": "Subject line as stated in the source."
-    },
-    "case_id": {
-      "type": ["string", "null"],
-      "description": "Case ID as stated in the source, or null if the source does not provide one."
-    },
-    "source_file": {
-      "type": "string",
-      "minLength": 1,
-      "description": "Path to the primary source file, relative to the repository root (under docs/)."
-    },
-    "summary": {
-      "type": "string",
-      "description": "Short factual summary of the source; do not invent events."
-    }
+    "id": {"type": "string", "minLength": 1, "description": "Path of the source PDF relative to docs/emails/, without extension."},
+    "date": {"type": ["string", "null"], "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}$", "description": "Date/time of the FIRST message in the thread, converted from date_raw to ISO 8601 (24h). No timezone: the source export does not state one."},
+    "date_raw": {"type": ["string", "null"], "description": "First-message date exactly as printed in the source (e.g. 'Sun, Jul 13, 2025 at 3:05 PM')."},
+    "sender": {"type": ["string", "null"], "minLength": 1, "description": "Sender of the first message, as printed."},
+    "recipients": {"type": ["array", "null"], "items": {"type": "string", "minLength": 1}, "description": "'To:' line of the first message, split on commas outside quotes."},
+    "subject": {"type": ["string", "null"], "description": "Thread subject as printed at the top of the export (wrapped lines joined with a space)."},
+    "case_id": {"type": ["string", "null"], "description": "Case ID as stated in the thread subject, or null if the subject has none."},
+    "archive_case_folder": {"type": ["string", "null"], "description": "Case ID folder the source archive filed this PDF under (04_LEDGER_ARCHIVE/*/CASES/<id>/), or null. May differ from case_id."},
+    "echo_label": {"type": ["string", "null"], "description": "Echo folder in the source archive path (e.g. 'Echo6')."},
+    "message_count": {"type": ["integer", "null"], "minimum": 1, "description": "'N messages' count printed at the top of the export."},
+    "source_file": {"type": "string", "minLength": 1, "description": "Path to the primary source PDF, relative to repository root."},
+    "text_file": {"type": ["string", "null"], "description": "Path to the extracted plain text, relative to repository root."},
+    "sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$", "description": "SHA-256 of source_file."},
+    "summary": {"type": ["string", "null"], "description": "Short factual summary. Null until written by a human from the source; never auto-generated."}
   }
 }

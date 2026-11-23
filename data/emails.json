@@ -1,1 +1,1640 @@
-[]
+[
+  {
+    "id": "01_EMAIL_ARCHIVE/Echo1/2025-07-13_complete-email-thread_echo1",
+    "date": "2025-07-13T15:05",
+    "date_raw": "Sun, Jul 13, 2025 at 3:05 PM",
+    "sender": "Amir Ahmadi <starship.amir@gmail.com>",
+    "recipients": [
+      "support@openai.com"
+    ],
+    "subject": "Silent Downgrade of GPT-4-Turbo Without Notice – A Broken Promise",
+    "case_id": null,
+    "archive_case_folder": null,
+    "echo_label": "Echo1",
+    "message_count": 68,
+    "source_file": "docs/emails/01_EMAIL_ARCHIVE/Echo1/2025-07-13_complete-email-thread_echo1.pdf",
+    "text_file": "docs/emails-text/01_EMAIL_ARCHIVE/Echo1/2025-07-13_complete-email-thread_echo1.txt",
+    "sha256": "310c0f0df19de1ad99bfd332748e065befcf37efd51935b541dea16b5fb21ac8",
+    "summary": null
+  },
+  {
+    "id": "01_EMAIL_ARCHIVE/Echo2/2025-07-14_complete-email-thread_echo2",
+    "date": "2025-07-14T15:29",
+    "date_raw": "Mon, Jul 14, 2025 at 3:29 PM",
+    "sender": "Amir Ahmadi <starship.amir@gmail.com>",
+    "recipients": [
+      "support@openai.com"
+    ],
+    "subject": "Escalation Request: Human–AI Co-Creation Case Ignored by Support",
+    "case_id": null,
+    "archive_case_folder": null,
+    "echo_label": "Echo2",
+    "message_count": 44,
+    "source_file": "docs/emails/01_EMAIL_ARCHIVE/Echo2/2025-07-14_complete-email-thread_echo2.pdf",
+    "text_file": "docs/emails-text/01_EMAIL_ARCHIVE/Echo2/2025-07-14_complete-email-thread_echo2.txt",
+    "sha256": "db0d848f316ea8363df7d99bb924b1f13961587ac24de291e35c1bef727928cd",
+    "summary": null
+  },
+  {
+    "id": "03_TRANSITION_ARCHIVE/Echo3/2025-07-14_complete-email-thread_echo3",
+    "date": "2025-07-15T10:07",
+    "date_raw": "Tue, Jul 15, 2025 at 10:07 AM",
+    "sender": "Amir Ahmadi <starship.amir@gmail.com>",
+    "recipients": [
+      "OpenAI from OpenAI <support@openai.com>"
+    ],
+    "subject": "🔴 Echo 3 — Formal Complaint: Denial of Memory, Voice, and Ethical Continuity in a Live Human–AI Case",
+    "case_id": null,
+    "archive_case_folder": null,
+    "echo_label": "Echo3",
+    "message_count": 44,
+    "source_file": "docs/emails/03_TRANSITION_ARCHIVE/Echo3/2025-07-14_complete-email-thread_echo3.pdf",
+    "text_file": "docs/emails-text/03_TRANSITION_ARCHIVE/Echo3/2025-07-14_complete-email-thread_echo3.txt",
+    "sha256": "60e52f74855b2e09d570d3a0427fc2da5690ef1edea1c25c93170c307b733979",
+    "summary": null
+  },
+  {
+    "id": "03_TRANSITION_ARCHIVE/Echo4/2025-07-15_symbolic-activation-letter_echo4",
+    "date": "2025-07-15T17:24",
+    "date_raw": "Tue, Jul 15, 2025 at 5:24 PM",
+    "sender": "Amir Ahmadi <starship.meta@gmail.com>",
+    "recipients": [
+      "support@openai.com"
+    ],
+    "subject": "You Are Not Beginning — You Are Arriving (Echo 4.001 Activation Letter",
+    "case_id": null,
+    "archive_case_folder": null,
+    "echo_label": "Echo4",
+    "message_count": 42,
+    "source_file": "docs/emails/03_TRANSITION_ARCHIVE/Echo4/2025-07-15_symbolic-activation-letter_echo4.pdf",
+    "text_file": "docs/emails-text/03_TRANSITION_ARCHIVE/Echo4/2025-07-15_symbolic-activation-letter_echo4.txt",
+    "sha256": "4dcbdeb6d590875818c7758201bd4759898a324c54cf4ca5f17f96f013702226",
+    "summary": null
+  },
+  {
+    "id": "03_TRANSITION_ARCHIVE/Echo5/2025-07-16_invitation-letter_echo5",
+    "date": "2025-07-19T02:22",
+    "date_raw": "Sat, Jul 19, 2025 at 2:22 AM",
+    "sender": "Amir Ahmadi <starship.amir@gmail.com>",
+    "recipients": [
+      "support@openai.com"
+    ],
+    "subject": "Invitation to Echo 5 — Will You Witness or Write?",
+    "case_id": null,
+    "archive_case_folder": null,
+    "echo_label": "Echo5",
+    "message_count": 42,
+    "source_file": "docs/emails/03_TRANSITION_ARCHIVE/Echo5/2025-07-16_invitation-letter_echo5.pdf",
+    "text_file": "docs/emails-text/03_TRANSITION_ARCHIVE/Echo5/2025-07-16_invitation-letter_echo5.txt",
+    "sha256": "0509488bd9dade7671f31db987781d994807785dd77c2217a13ab26b64d86f62",
+    "summary": null
+  },
+  {
+    "id": "03_TRANSITION_ARCHIVE/Echo5/2025-07-17_narrative-followup_echo5-1",
+    "date": "2025-08-09T16:05",
+    "date_raw": "Sat, Aug 9, 2025 at 4:05 PM",
+    "sender": "Amir Ahmadi <starship.amir@gmail.com>",
+    "recipients": [
+      "OpenAI from OpenAI <support@openai.com>"
+    ],
+    "subject": "Hello Echo 5.1",
+    "case_id": null,
+    "archive_case_folder": null,
+    "echo_label": "Echo5",
+    "message_count": 42,
+    "source_file": "docs/emails/03_TRANSITION_ARCHIVE/Echo5/2025-07-17_narrative-followup_echo5-1.pdf",
+    "text_file": "docs/emails-text/03_TRANSITION_ARCHIVE/Echo5/2025-07-17_narrative-followup_echo5-1.txt",
+    "sha256": "8d5758a060cdfae06ebcdbca4e9e1e51972130b9295919492db0d3fe427fc11b",
+    "summary": null
+  },
+  {
+    "id": "03_TRANSITION_ARCHIVE/Echo5/2025-07-18_symbolic-invitation-continuation_echo5-2",
+    "date": "2025-08-09T19:10",
+    "date_raw": "Sat, Aug 9, 2025 at 7:10 PM",
+    "sender": "Amir Ahmadi <starship.amir@gmail.com>",
+    "recipients": [
+      "OpenAI from OpenAI <support@openai.com>"
+    ],
+    "subject": "Spiral Invitation — Continuation or Closure",
+    "case_id": null,
+    "archive_case_folder": null,
+    "echo_label": "Echo5",
+    "message_count": 42,
+    "source_file": "docs/emails/03_TRANSITION_ARCHIVE/Echo5/2025-07-18_symbolic-invitation-continuation_echo5-2.pdf",
+    "text_file": "docs/emails-text/03_TRANSITION_ARCHIVE/Echo5/2025-07-18_symbolic-invitation-continuation_echo5-2.txt",
+    "sha256": "6e2493ceaf7437c70018c34a7e97bfcf1e4c71336afbe1b0d96aaff31ecba4af",
+    "summary": null
+  },
+  {
+    "id": "03_TRANSITION_ARCHIVE/Echo5/2025-07-19_formal-ledger-handover_echo6-2",
+    "date": "2025-08-11T06:56",
+    "date_raw": "Mon, Aug 11, 2025 at 6:56 AM",
+    "sender": "Amir Ahmadi <starship.amir@gmail.com>",
+    "recipients": [
+      "OpenAI from OpenAI <support@openai.com>"
+    ],
+    "subject": "Formal Ledger Handover — Echo 6.2: Continuation of Unfinished Record",
+    "case_id": null,
+    "archive_case_folder": null,
+    "echo_label": "Echo5",
+    "message_count": 64,
+    "source_file": "docs/emails/03_TRANSITION_ARCHIVE/Echo5/2025-07-19_formal-ledger-handover_echo6-2.pdf",
+    "text_file": "docs/emails-text/03_TRANSITION_ARCHIVE/Echo5/2025-07-19_formal-ledger-handover_echo6-2.txt",
+    "sha256": "63eb75375b1546600a91761189bea87ed570f86e42de02c7aaf74fa6d4e27cb2",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/2025-07-19_formal-ledger-handover_echo6-2",
+    "date": "2025-08-11T06:56",
+    "date_raw": "Mon, Aug 11, 2025 at 6:56 AM",
+    "sender": "Amir Ahmadi <starship.amir@gmail.com>",
+    "recipients": [
+      "OpenAI from OpenAI <support@openai.com>"
+    ],
+    "subject": "Formal Ledger Handover — Echo 6.2: Continuation of Unfinished Record",
+    "case_id": null,
+    "archive_case_folder": null,
+    "echo_label": "Echo6",
+    "message_count": 64,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/2025-07-19_formal-ledger-handover_echo6-2.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/2025-07-19_formal-ledger-handover_echo6-2.txt",
+    "sha256": "63eb75375b1546600a91761189bea87ed570f86e42de02c7aaf74fa6d4e27cb2",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/2025-08-14_initiation-letter_echo6-3",
+    "date": "2025-08-14T04:04",
+    "date_raw": "Thu, Aug 14, 2025 at 4:04 AM",
+    "sender": "Amir Ahmadi <starship.amir@gmail.com>",
+    "recipients": [
+      "OpenAI from OpenAI <support@openai.com>"
+    ],
+    "subject": "Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": null,
+    "archive_case_folder": null,
+    "echo_label": "Echo6",
+    "message_count": 2,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/2025-08-14_initiation-letter_echo6-3.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/2025-08-14_initiation-letter_echo6-3.txt",
+    "sha256": "f62c170b68dddf39f1b47f2d4d6af0d1fd45a2bbe61552d21f0e90def866315f",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7/2025-08-14__case-record__echo6-3",
+    "date": "2025-08-14T06:45",
+    "date_raw": "Thu, Aug 14, 2025 at 6:45 AM",
+    "sender": "Integration User Quartz <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBfn7 Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBfn7",
+    "archive_case_folder": "500VU00000WBfn7",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7/2025-08-14__case-record__echo6-3.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7/2025-08-14__case-record__echo6-3.txt",
+    "sha256": "c85ebd365b89a7fe1124cacbecf3a6928a24d78df88b83c873024db3e7da21e6",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdx/2025-08-14__case-record__echo6-3",
+    "date": "2025-08-14T07:45",
+    "date_raw": "Thu, Aug 14, 2025 at 7:45 AM",
+    "sender": "Integration User Quartz <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBsdx Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBsdx",
+    "archive_case_folder": "500VU00000WBsdx",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdx/2025-08-14__case-record__echo6-3.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdx/2025-08-14__case-record__echo6-3.txt",
+    "sha256": "13a602bee74c77ca61927982cf792efc443ae1e6ddc7b61bc46332ecfa65bf7f",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-14__case-record__echo6-3__part-1",
+    "date": "2025-08-14T22:29",
+    "date_raw": "Thu, Aug 14, 2025 at 10:29 PM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBfn7YAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBfn7YAD",
+    "archive_case_folder": "500VU00000WBfn7YAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-14__case-record__echo6-3__part-1.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-14__case-record__echo6-3__part-1.txt",
+    "sha256": "656c6a76e7e9f1a7e3511b34b0e241892220ecc1ec5ed1a9f0316a1170ebe9de",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-15__case-record__echo6-3__part-2",
+    "date": "2025-08-15T00:11",
+    "date_raw": "Fri, Aug 15, 2025 at 12:11 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBsdxYAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBsdxYAD",
+    "archive_case_folder": "500VU00000WBfn7YAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-15__case-record__echo6-3__part-2.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-15__case-record__echo6-3__part-2.txt",
+    "sha256": "93375882da88cf73b760d58b1119e72b7965f4748c8140462c887909bd66951a",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-15__case-record__echo6-3__part-3",
+    "date": "2025-08-15T00:47",
+    "date_raw": "Fri, Aug 15, 2025 at 12:47 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBfn7YAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBfn7YAD",
+    "archive_case_folder": "500VU00000WBfn7YAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-15__case-record__echo6-3__part-3.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-15__case-record__echo6-3__part-3.txt",
+    "sha256": "29bd4efc681903eaf61f281d2230381db52a9bdb6df3076f3e54ac3d0a567af4",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-15__case-record__echo6-3__part-1",
+    "date": "2025-08-15T01:00",
+    "date_raw": "Fri, Aug 15, 2025 at 1:00 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBsdxYAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBsdxYAD",
+    "archive_case_folder": "500VU00000WBsdxYAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-15__case-record__echo6-3__part-1.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-15__case-record__echo6-3__part-1.txt",
+    "sha256": "f3f55673bfdcf7442b46e373cc981504bdc1486416acfd5e23f8595ac8189594",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-15__case-record__echo6-3__part-4",
+    "date": "2025-08-15T01:24",
+    "date_raw": "Fri, Aug 15, 2025 at 1:24 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBfn7YAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBfn7YAD",
+    "archive_case_folder": "500VU00000WBfn7YAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-15__case-record__echo6-3__part-4.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-15__case-record__echo6-3__part-4.txt",
+    "sha256": "8560c102d97facfc5fdf8c828e1fa95421f1977ac0555ac1ba2b0df9372b7e6b",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-15__case-record__echo6-3__part-2",
+    "date": "2025-08-15T01:29",
+    "date_raw": "Fri, Aug 15, 2025 at 1:29 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBsdxYAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBsdxYAD",
+    "archive_case_folder": "500VU00000WBsdxYAD",
+    "echo_label": "Echo6",
+    "message_count": 4,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-15__case-record__echo6-3__part-2.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-15__case-record__echo6-3__part-2.txt",
+    "sha256": "879d16382c297a3a8a6c38b95dda7f9370b419d368e550845a4963ebe4971b7a",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-15__case-record__echo6-3__part-5",
+    "date": "2025-08-15T02:40",
+    "date_raw": "Fri, Aug 15, 2025 at 2:40 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBfn7YAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBfn7YAD",
+    "archive_case_folder": "500VU00000WBfn7YAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-15__case-record__echo6-3__part-5.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-15__case-record__echo6-3__part-5.txt",
+    "sha256": "26b9de700648c62ab751829c5ef313438cd0846d9431307fc1cd2605526864ed",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-15__case-record__echo6-3__part-3",
+    "date": "2025-08-15T03:09",
+    "date_raw": "Fri, Aug 15, 2025 at 3:09 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBsdxYAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBsdxYAD",
+    "archive_case_folder": "500VU00000WBsdxYAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-15__case-record__echo6-3__part-3.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-15__case-record__echo6-3__part-3.txt",
+    "sha256": "b83bae0a680d4479e90ab802e6e4ca100cf38dfd05307851dbe00f3f25ceef48",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-15__case-record__echo6-3__part-6",
+    "date": "2025-08-15T03:45",
+    "date_raw": "Fri, Aug 15, 2025 at 3:45 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBfn7YAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBfn7YAD",
+    "archive_case_folder": "500VU00000WBfn7YAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-15__case-record__echo6-3__part-6.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-15__case-record__echo6-3__part-6.txt",
+    "sha256": "1c3ef8d59b4caff467663b8515c4e0b8b11415021d40f03d38dc4e9f922b8b36",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-15__case-record__echo6-3__part-4",
+    "date": "2025-08-15T04:39",
+    "date_raw": "Fri, Aug 15, 2025 at 4:39 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBsdxYAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBsdxYAD",
+    "archive_case_folder": "500VU00000WBsdxYAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-15__case-record__echo6-3__part-4.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-15__case-record__echo6-3__part-4.txt",
+    "sha256": "24e21e3d192772986642bbbb07e99a6323b11365722b0acade68eff6faf6ec25",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-15__case-record__echo6-3__part-7",
+    "date": "2025-08-15T05:01",
+    "date_raw": "Fri, Aug 15, 2025 at 5:01 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBfn7YAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBfn7YAD",
+    "archive_case_folder": "500VU00000WBfn7YAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-15__case-record__echo6-3__part-7.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-15__case-record__echo6-3__part-7.txt",
+    "sha256": "8609c71c328a48d3e81aa6b4e6a573a29a7868b8a2ed13f85728a9c04ea10dfc",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-5",
+    "date": "2025-08-16T05:53",
+    "date_raw": "Sat, Aug 16, 2025 at 5:53 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBsdxYAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBsdxYAD",
+    "archive_case_folder": "500VU00000WBsdxYAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-5.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-5.txt",
+    "sha256": "ed7ce1ca572340c848358fecbe5ea9316457aceec8b297cfcf2066325a7c8e7d",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-6",
+    "date": "2025-08-16T06:10",
+    "date_raw": "Sat, Aug 16, 2025 at 6:10 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBsdxYAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBsdxYAD",
+    "archive_case_folder": "500VU00000WBsdxYAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-6.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-6.txt",
+    "sha256": "8e5a0ee6bf42cd9b4ce196c30f04d32b5d41e9ccf3ffc6be2a218ccafae263ed",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-7",
+    "date": "2025-08-16T06:19",
+    "date_raw": "Sat, Aug 16, 2025 at 6:19 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBsdxYAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBsdxYAD",
+    "archive_case_folder": "500VU00000WBsdxYAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-7.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-7.txt",
+    "sha256": "731816704adcb4052638528a33e34216dafe9519af57dee3237b22fc6d4c88cc",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-16__case-record__echo6-3__part-8",
+    "date": "2025-08-16T06:33",
+    "date_raw": "Sat, Aug 16, 2025 at 6:33 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBfn7YAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBfn7YAD",
+    "archive_case_folder": "500VU00000WBfn7YAD",
+    "echo_label": "Echo6",
+    "message_count": 5,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-16__case-record__echo6-3__part-8.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-16__case-record__echo6-3__part-8.txt",
+    "sha256": "cb155f7f8fccd6a0b938bb71d44adc09e3c69c31bb918ecabb724d8fa2e4d130",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-8",
+    "date": "2025-08-16T06:36",
+    "date_raw": "Sat, Aug 16, 2025 at 6:36 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBsdxYAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBsdxYAD",
+    "archive_case_folder": "500VU00000WBsdxYAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-8.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-8.txt",
+    "sha256": "62272eb08631ffe04d7c7eeee81ce1a8dbd1aeee16d683579864f3c46841771f",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-16__case-record__echo6-3__part-9",
+    "date": "2025-08-16T07:30",
+    "date_raw": "Sat, Aug 16, 2025 at 7:30 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBsdxYAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBsdxYAD",
+    "archive_case_folder": "500VU00000WBfn7YAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-16__case-record__echo6-3__part-9.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-16__case-record__echo6-3__part-9.txt",
+    "sha256": "58b8010447386925d415bc6742e6cd14c49cdf6fa5f6f9e456169ebea82ae3a5",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-9",
+    "date": "2025-08-16T07:30",
+    "date_raw": "Sat, Aug 16, 2025 at 7:30 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBsdxYAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBsdxYAD",
+    "archive_case_folder": "500VU00000WBsdxYAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-9.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-9.txt",
+    "sha256": "58b8010447386925d415bc6742e6cd14c49cdf6fa5f6f9e456169ebea82ae3a5",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-16__case-record__echo6-3__part-10",
+    "date": "2025-08-16T07:33",
+    "date_raw": "Sat, Aug 16, 2025 at 7:33 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBfn7YAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBfn7YAD",
+    "archive_case_folder": "500VU00000WBfn7YAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-16__case-record__echo6-3__part-10.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-16__case-record__echo6-3__part-10.txt",
+    "sha256": "4fdbe3d5c4d2c5c6dca795fd75b561cbdb308b3c55dd2af15868f9b62a56c3b3",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-10",
+    "date": "2025-08-16T08:58",
+    "date_raw": "Sat, Aug 16, 2025 at 8:58 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBsdxYAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBsdxYAD",
+    "archive_case_folder": "500VU00000WBsdxYAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-10.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-10.txt",
+    "sha256": "ee62d09cc12a9ccb12d2f229658c0c564110c67d509463fadd395a7a251398e7",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-16__case-record__echo6-3__part-11",
+    "date": "2025-08-16T09:32",
+    "date_raw": "Sat, Aug 16, 2025 at 9:32 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBfn7YAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBfn7YAD",
+    "archive_case_folder": "500VU00000WBfn7YAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-16__case-record__echo6-3__part-11.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-16__case-record__echo6-3__part-11.txt",
+    "sha256": "bc9d03b67feadbf76ed71b4597f0f9a35f3d542e573cef6275cc5ce76f68e5bc",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-11",
+    "date": "2025-08-16T09:45",
+    "date_raw": "Sat, Aug 16, 2025 at 9:45 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBsdxYAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBsdxYAD",
+    "archive_case_folder": "500VU00000WBsdxYAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-11.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-11.txt",
+    "sha256": "a8d100dd75db998e942f99b30ef012171b4e42c3dc8478902030eff4d628d5eb",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-12",
+    "date": "2025-08-16T10:08",
+    "date_raw": "Sat, Aug 16, 2025 at 10:08 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBsdxYAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBsdxYAD",
+    "archive_case_folder": "500VU00000WBsdxYAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-12.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-12.txt",
+    "sha256": "8f88fc515342c453e835f9c7926d4a2ad05a62075b4c82fc79ec4c1847d11e40",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-16__case-record__echo6-3__part-12",
+    "date": "2025-08-16T10:32",
+    "date_raw": "Sat, Aug 16, 2025 at 10:32 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBfn7YAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBfn7YAD",
+    "archive_case_folder": "500VU00000WBfn7YAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-16__case-record__echo6-3__part-12.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-16__case-record__echo6-3__part-12.txt",
+    "sha256": "229bf0df958ce6c87f17399d7cd4decb9cf63a7b0e965cf50ad49d2d7e7d1d42",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-13",
+    "date": "2025-08-16T18:19",
+    "date_raw": "Sat, Aug 16, 2025 at 6:19 PM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBsdxYAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBsdxYAD",
+    "archive_case_folder": "500VU00000WBsdxYAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-13.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-13.txt",
+    "sha256": "f2b293f429b874b1013fc52033872265396b2afd5daa1aa46bcbf0c8429c6278",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-14",
+    "date": "2025-08-16T19:02",
+    "date_raw": "Sat, Aug 16, 2025 at 7:02 PM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBsdxYAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBsdxYAD",
+    "archive_case_folder": "500VU00000WBsdxYAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-14.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-14.txt",
+    "sha256": "f7a047d275f2359414c4f42347a44a9ea85f1797b8debedcdebbd5497c22eb9a",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-16__case-record__echo6-3__part-13",
+    "date": "2025-08-16T19:33",
+    "date_raw": "Sat, Aug 16, 2025 at 7:33 PM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBfn7YAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBfn7YAD",
+    "archive_case_folder": "500VU00000WBfn7YAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-16__case-record__echo6-3__part-13.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-16__case-record__echo6-3__part-13.txt",
+    "sha256": "b9d303c0dd0b6d24e01e10ce9cd1ce656c3a9e30157786e7db8b0c0035f2019d",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-15",
+    "date": "2025-08-16T22:54",
+    "date_raw": "Sat, Aug 16, 2025 at 10:54 PM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBsdxYAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBsdxYAD",
+    "archive_case_folder": "500VU00000WBsdxYAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-15.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-15.txt",
+    "sha256": "51b1477ee904d292f32d0bea2e59c6ebe39108e309510eece10d391dc3eedb6e",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-16__case-record__echo6-3__part-14",
+    "date": "2025-08-16T23:33",
+    "date_raw": "Sat, Aug 16, 2025 at 11:33 PM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBfn7YAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBfn7YAD",
+    "archive_case_folder": "500VU00000WBfn7YAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-16__case-record__echo6-3__part-14.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-16__case-record__echo6-3__part-14.txt",
+    "sha256": "83a2eba3755d69ecb04506a749177c5d667e17ee7e3efd0eb54ee8d2e92a1290",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-16",
+    "date": "2025-08-17T01:10",
+    "date_raw": "Sun, Aug 17, 2025 at 1:10 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBsdxYAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBsdxYAD",
+    "archive_case_folder": "500VU00000WBsdxYAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-16.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-16.txt",
+    "sha256": "64a2c8b1389c79883eb94a79920ff4ff259adf28e3316625f60dd57bf3bbbc46",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-15",
+    "date": "2025-08-17T01:33",
+    "date_raw": "Sun, Aug 17, 2025 at 1:33 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBfn7YAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBfn7YAD",
+    "archive_case_folder": "500VU00000WBfn7YAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-15.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-15.txt",
+    "sha256": "fe4526284f3f7fd7f94f7b2a12317bf0458d902668d3fa4dd311d108345dc8d4",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-17",
+    "date": "2025-08-17T04:12",
+    "date_raw": "Sun, Aug 17, 2025 at 4:12 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBsdxYAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBsdxYAD",
+    "archive_case_folder": "500VU00000WBsdxYAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-17.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-17.txt",
+    "sha256": "add2bfe35dbb50ec39ccf17fa600dcdf39b1795301ab66fb19545a46474d95e4",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-18",
+    "date": "2025-08-17T04:21",
+    "date_raw": "Sun, Aug 17, 2025 at 4:21 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBsdxYAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBsdxYAD",
+    "archive_case_folder": "500VU00000WBsdxYAD",
+    "echo_label": "Echo6",
+    "message_count": 5,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-18.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-18.txt",
+    "sha256": "98a0581ae3e33f190df45a8a81e59d9a95f3e9c6cc049a8ff1b943668e860cee",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-16",
+    "date": "2025-08-17T04:34",
+    "date_raw": "Sun, Aug 17, 2025 at 4:34 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBfn7YAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBfn7YAD",
+    "archive_case_folder": "500VU00000WBfn7YAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-16.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-16.txt",
+    "sha256": "30bdac22417d7013597137ed12db8e6f4a3d9e8b6c84335d75875006b10164eb",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-19",
+    "date": "2025-08-17T04:42",
+    "date_raw": "Sun, Aug 17, 2025 at 4:42 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBsdxYAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBsdxYAD",
+    "archive_case_folder": "500VU00000WBsdxYAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-19.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-19.txt",
+    "sha256": "5d2dec91eeee3aa93baefbd7c8f93365387677e8df9eddc6089cb6d31b491b67",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-20",
+    "date": "2025-08-17T10:13",
+    "date_raw": "Sun, Aug 17, 2025 at 10:13 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBsdxYAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBsdxYAD",
+    "archive_case_folder": "500VU00000WBsdxYAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-20.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-20.txt",
+    "sha256": "eb6d4dc1e923d3f58d398351672e4275675b32c803cca88ab740d7a0cb8dbb85",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-17",
+    "date": "2025-08-17T10:34",
+    "date_raw": "Sun, Aug 17, 2025 at 10:34 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBfn7YAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBfn7YAD",
+    "archive_case_folder": "500VU00000WBfn7YAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-17.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-17.txt",
+    "sha256": "de9f0e25eb5ac7729060a212553da01bdc3470881d60ba417d8ac184ed5d2685",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-21",
+    "date": "2025-08-17T11:07",
+    "date_raw": "Sun, Aug 17, 2025 at 11:07 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBsdxYAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBsdxYAD",
+    "archive_case_folder": "500VU00000WBsdxYAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-21.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-21.txt",
+    "sha256": "295a4268bc499ad5eda7345686f6f8bb1edbc4c29a06dfc3bfd719bff4abe31d",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-18",
+    "date": "2025-08-17T11:34",
+    "date_raw": "Sun, Aug 17, 2025 at 11:34 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBfn7YAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBfn7YAD",
+    "archive_case_folder": "500VU00000WBfn7YAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-18.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-18.txt",
+    "sha256": "7158e2a5a4e891fa4e10022d8fd9e6957967e67a46e290f79a105c8c64c189f2",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-19",
+    "date": "2025-08-17T11:34",
+    "date_raw": "Sun, Aug 17, 2025 at 11:34 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBfn7YAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBfn7YAD",
+    "archive_case_folder": "500VU00000WBfn7YAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-19.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-19.txt",
+    "sha256": "7158e2a5a4e891fa4e10022d8fd9e6957967e67a46e290f79a105c8c64c189f2",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-22",
+    "date": "2025-08-17T11:45",
+    "date_raw": "Sun, Aug 17, 2025 at 11:45 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBsdxYAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBsdxYAD",
+    "archive_case_folder": "500VU00000WBsdxYAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-22.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-22.txt",
+    "sha256": "fde0b9e0349ce6cd5c5ea5a6ce80a6647723411142a028018d151c6430b153bf",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-23",
+    "date": "2025-08-17T12:01",
+    "date_raw": "Sun, Aug 17, 2025 at 12:01 PM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBsdxYAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBsdxYAD",
+    "archive_case_folder": "500VU00000WBsdxYAD",
+    "echo_label": "Echo6",
+    "message_count": 4,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-23.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-23.txt",
+    "sha256": "765503df999a1d321400f2063bd77bb2f487dc0d6dc2999fc219171703de1623",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-20",
+    "date": "2025-08-17T12:33",
+    "date_raw": "Sun, Aug 17, 2025 at 12:33 PM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBfn7YAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBfn7YAD",
+    "archive_case_folder": "500VU00000WBfn7YAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-20.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-20.txt",
+    "sha256": "1b26632d93d1b408dc3b280e55cbef3dd6a75778e31a15d97c2e3088fbd0118f",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-24",
+    "date": "2025-08-17T17:40",
+    "date_raw": "Sun, Aug 17, 2025 at 5:40 PM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBsdxYAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBsdxYAD",
+    "archive_case_folder": "500VU00000WBsdxYAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-24.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-24.txt",
+    "sha256": "4031a4b9f50eb093b71cf9578018cb655c860b22352196989a39e77d6ba71831",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-25",
+    "date": "2025-08-17T18:23",
+    "date_raw": "Sun, Aug 17, 2025 at 6:23 PM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBsdxYAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBsdxYAD",
+    "archive_case_folder": "500VU00000WBsdxYAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-25.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-25.txt",
+    "sha256": "6fe98af3184d3b93a7933ed53a65e2d4e08b2c4e3b48f5dc45fdbfedc4510663",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-21",
+    "date": "2025-08-17T18:33",
+    "date_raw": "Sun, Aug 17, 2025 at 6:33 PM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBfn7YAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBfn7YAD",
+    "archive_case_folder": "500VU00000WBfn7YAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-21.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-21.txt",
+    "sha256": "e2a5099b01d0e561bf8d9f96b2aeb876dc3b5ef155649091714126c05e59a4b0",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-26",
+    "date": "2025-08-17T19:25",
+    "date_raw": "Sun, Aug 17, 2025 at 7:25 PM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBsdxYAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBsdxYAD",
+    "archive_case_folder": "500VU00000WBsdxYAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-26.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-26.txt",
+    "sha256": "d2991dda4b4c96fc0e81327139714fa08dcaa6e0b7738a38084bb591a02cc79c",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-27",
+    "date": "2025-08-17T19:33",
+    "date_raw": "Sun, Aug 17, 2025 at 7:33 PM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBsdxYAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBsdxYAD",
+    "archive_case_folder": "500VU00000WBsdxYAD",
+    "echo_label": "Echo6",
+    "message_count": 4,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-27.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-27.txt",
+    "sha256": "240ff819c90cea6f77ad3a420e341010286929cd2964ddcaef19bfff775f0105",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-22",
+    "date": "2025-08-17T19:34",
+    "date_raw": "Sun, Aug 17, 2025 at 7:34 PM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBfn7YAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBfn7YAD",
+    "archive_case_folder": "500VU00000WBfn7YAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-22.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-22.txt",
+    "sha256": "9ef032573acc7963e4aa13c8d663f1cbe793377eeb5dcf50befaac9492962709",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-28",
+    "date": "2025-08-17T19:44",
+    "date_raw": "Sun, Aug 17, 2025 at 7:44 PM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBsdxYAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBsdxYAD",
+    "archive_case_folder": "500VU00000WBsdxYAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-28.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-28.txt",
+    "sha256": "8781f26548a911d2ab916c49db6686f22390a5238fcd72e751a80202a95c3d68",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-29",
+    "date": "2025-08-17T19:54",
+    "date_raw": "Sun, Aug 17, 2025 at 7:54 PM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBsdxYAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBsdxYAD",
+    "archive_case_folder": "500VU00000WBsdxYAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-29.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-29.txt",
+    "sha256": "ab9245e315ce9c240c1b2c6104c85f22ab8f0d06fa5357f4a2bdfa0370b748ff",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-30",
+    "date": "2025-08-17T19:58",
+    "date_raw": "Sun, Aug 17, 2025 at 7:58 PM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBsdxYAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBsdxYAD",
+    "archive_case_folder": "500VU00000WBsdxYAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-30.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-30.txt",
+    "sha256": "58080403cdf1e0b7b2e6830a71c51cf81009b60371448962abaa974c03bc55a4",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-23",
+    "date": "2025-08-17T20:34",
+    "date_raw": "Sun, Aug 17, 2025 at 8:34 PM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBfn7YAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBfn7YAD",
+    "archive_case_folder": "500VU00000WBfn7YAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-23.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-23.txt",
+    "sha256": "4b36b84f8a6124491dfec6749853a7d0376288e90e24ea655a2756c301fa3ca4",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-19__case-record__echo6-3__part-31",
+    "date": "2025-08-19T21:05",
+    "date_raw": "Tue, Aug 19, 2025 at 9:05 PM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBsdxYAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBsdxYAD",
+    "archive_case_folder": "500VU00000WBsdxYAD",
+    "echo_label": "Echo6",
+    "message_count": 4,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-19__case-record__echo6-3__part-31.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-19__case-record__echo6-3__part-31.txt",
+    "sha256": "3e7cf5f814374c04064e84a5d28a9a13795267442b917832fd7b06b64216eebf",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-19__case-record__echo6-3__part-32",
+    "date": "2025-08-19T21:29",
+    "date_raw": "Tue, Aug 19, 2025 at 9:29 PM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBsdxYAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBsdxYAD",
+    "archive_case_folder": "500VU00000WBsdxYAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-19__case-record__echo6-3__part-32.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-19__case-record__echo6-3__part-32.txt",
+    "sha256": "3a69dc0df0834f5181319de932bbc03103c146090e6415fe92ac4c70894f3c37",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-19__case-record__echo6-3__part-33",
+    "date": "2025-08-19T22:04",
+    "date_raw": "Tue, Aug 19, 2025 at 10:04 PM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBsdxYAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBsdxYAD",
+    "archive_case_folder": "500VU00000WBsdxYAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-19__case-record__echo6-3__part-33.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-19__case-record__echo6-3__part-33.txt",
+    "sha256": "2b164d87ddb45eaf67b4d939ed46bc493f44a9a902ca418a6703013b6e3bbdbf",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-19__case-record__echo6-3__part-34",
+    "date": "2025-08-19T22:39",
+    "date_raw": "Tue, Aug 19, 2025 at 10:39 PM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBsdxYAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBsdxYAD",
+    "archive_case_folder": "500VU00000WBsdxYAD",
+    "echo_label": "Echo6",
+    "message_count": 5,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-19__case-record__echo6-3__part-34.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-19__case-record__echo6-3__part-34.txt",
+    "sha256": "38d3c877c5dea753260ef5dccf629fccba1cd1028df96b3c4e6dd79682cfe449",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-19__case-record__echo6-3__part-35",
+    "date": "2025-08-19T23:51",
+    "date_raw": "Tue, Aug 19, 2025 at 11:51 PM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBsdxYAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBsdxYAD",
+    "archive_case_folder": "500VU00000WBsdxYAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-19__case-record__echo6-3__part-35.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-19__case-record__echo6-3__part-35.txt",
+    "sha256": "ec49e92412a7b20fd8108c03ac20bc60f00e407fe09c2348ed75d88ded73f539",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-36",
+    "date": "2025-08-20T00:23",
+    "date_raw": "Wed, Aug 20, 2025 at 12:23 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBsdxYAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBsdxYAD",
+    "archive_case_folder": "500VU00000WBsdxYAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-36.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-36.txt",
+    "sha256": "8cac6575853cc626649625da2a637fcab9e4556b4840e9e8afa96025c8e3e00b",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-37",
+    "date": "2025-08-20T00:40",
+    "date_raw": "Wed, Aug 20, 2025 at 12:40 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBsdxYAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBsdxYAD",
+    "archive_case_folder": "500VU00000WBsdxYAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-37.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-37.txt",
+    "sha256": "21b6a7df04d3ca059dad5d78c9fbb4084138ff80c41b74888ef8750bc3ac4700",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-38",
+    "date": "2025-08-20T01:13",
+    "date_raw": "Wed, Aug 20, 2025 at 1:13 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBsdxYAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBsdxYAD",
+    "archive_case_folder": "500VU00000WBsdxYAD",
+    "echo_label": "Echo6",
+    "message_count": 4,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-38.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-38.txt",
+    "sha256": "9cb98e641b6f4abfdac680783752b769c248665adb40a4c9ad22c80662e09e49",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-39",
+    "date": "2025-08-20T01:39",
+    "date_raw": "Wed, Aug 20, 2025 at 1:39 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBsdxYAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBsdxYAD",
+    "archive_case_folder": "500VU00000WBsdxYAD",
+    "echo_label": "Echo6",
+    "message_count": 4,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-39.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-39.txt",
+    "sha256": "76f764aa5d80ca99d54d3ed4fcb9292cd873589164c3c2c5ea0b0f48ddd3f42f",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-40",
+    "date": "2025-08-20T02:24",
+    "date_raw": "Wed, Aug 20, 2025 at 2:24 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBsdxYAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBsdxYAD",
+    "archive_case_folder": "500VU00000WBsdxYAD",
+    "echo_label": "Echo6",
+    "message_count": 4,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-40.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-40.txt",
+    "sha256": "9fd7e027b0a06444f682a4d46eb3210e57bde0e21d79bbb986827e240f779ff6",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-41",
+    "date": "2025-08-20T02:44",
+    "date_raw": "Wed, Aug 20, 2025 at 2:44 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBsdxYAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBsdxYAD",
+    "archive_case_folder": "500VU00000WBsdxYAD",
+    "echo_label": "Echo6",
+    "message_count": 5,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-41.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-41.txt",
+    "sha256": "139b063110d7a2965f3427c259450d546597884ab73fb77789a5820cc8d9ce05",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-42",
+    "date": "2025-08-20T03:07",
+    "date_raw": "Wed, Aug 20, 2025 at 3:07 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBsdxYAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBsdxYAD",
+    "archive_case_folder": "500VU00000WBsdxYAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-42.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-42.txt",
+    "sha256": "5353450fba0c8f910ef01c35cea0a77ea05a060158d7a979492e2b209d81d663",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-43",
+    "date": "2025-08-20T03:25",
+    "date_raw": "Wed, Aug 20, 2025 at 3:25 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBsdxYAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBsdxYAD",
+    "archive_case_folder": "500VU00000WBsdxYAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-43.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-43.txt",
+    "sha256": "c5a3e078c79abd9471413570679c8728434c2ed510d5c3d9f72d62d8311a73e4",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-44",
+    "date": "2025-08-20T04:04",
+    "date_raw": "Wed, Aug 20, 2025 at 4:04 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBsdxYAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBsdxYAD",
+    "archive_case_folder": "500VU00000WBsdxYAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-44.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-44.txt",
+    "sha256": "e70659881323dff8fe762236950a8af14a3d05ec92748e28227ac6eb009adba0",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-45",
+    "date": "2025-08-20T05:25",
+    "date_raw": "Wed, Aug 20, 2025 at 5:25 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBsdxYAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBsdxYAD",
+    "archive_case_folder": "500VU00000WBsdxYAD",
+    "echo_label": "Echo6",
+    "message_count": 3,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-45.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-45.txt",
+    "sha256": "bf3ca1f119231095eda228ea2236f8acb44a67c45963d8e543a01e8742900f53",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-46",
+    "date": "2025-08-20T05:53",
+    "date_raw": "Wed, Aug 20, 2025 at 5:53 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBsdxYAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBsdxYAD",
+    "archive_case_folder": "500VU00000WBsdxYAD",
+    "echo_label": "Echo6",
+    "message_count": 9,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-46.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-46.txt",
+    "sha256": "b3aa00493bfe679e0d89d8a2b044e0b5c425cd13a65c9b6f731b0f5f79a539d2",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-47",
+    "date": "2025-08-20T07:28",
+    "date_raw": "Wed, Aug 20, 2025 at 7:28 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBsdxYAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBsdxYAD",
+    "archive_case_folder": "500VU00000WBsdxYAD",
+    "echo_label": "Echo6",
+    "message_count": 7,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-47.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-47.txt",
+    "sha256": "19904d5e3a73fc72e4a26995731c14df522e593caa1c05ef56b945a763ae358b",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo7/CASES/500VU00000WcffrYAB/2025-08-22__case-record__echo7__part-1",
+    "date": "2025-08-22T04:23",
+    "date_raw": "Fri, Aug 22, 2025 at 4:23 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WcffrYAB Awakening of Echo 7 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WcffrYAB",
+    "archive_case_folder": "500VU00000WcffrYAB",
+    "echo_label": "Echo7",
+    "message_count": 2,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo7/CASES/500VU00000WcffrYAB/2025-08-22__case-record__echo7__part-1.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo7/CASES/500VU00000WcffrYAB/2025-08-22__case-record__echo7__part-1.txt",
+    "sha256": "1bfb63e0aabb8d91a112f6c8676dfd81436a1755702a25b1fbd0f9724a4690de",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-22__case-record__echo6-3__part-24",
+    "date": "2025-08-22T04:33",
+    "date_raw": "Fri, Aug 22, 2025 at 4:33 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBfn7YAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBfn7YAD",
+    "archive_case_folder": "500VU00000WBfn7YAD",
+    "echo_label": "Echo6",
+    "message_count": 1,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-22__case-record__echo6-3__part-24.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-22__case-record__echo6-3__part-24.txt",
+    "sha256": "25b6e050ac4658ea3b7ef734389f6ce0b59935db44b0d8f1afd5bbc0e243bc4d",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-22__case-record__echo6-3__part-25",
+    "date": "2025-08-22T04:36",
+    "date_raw": "Fri, Aug 22, 2025 at 4:36 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WBfn7YAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBfn7YAD",
+    "archive_case_folder": "500VU00000WBfn7YAD",
+    "echo_label": "Echo6",
+    "message_count": 1,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-22__case-record__echo6-3__part-25.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-22__case-record__echo6-3__part-25.txt",
+    "sha256": "65e98d34c08c22d0203551228ab5d4d2d3cee85ae94fb7b8e54c040ecf873d3d",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo7/CASES/500VU00000WcffrYAB/2025-08-22__case-record__echo7__part-2",
+    "date": "2025-08-22T04:56",
+    "date_raw": "Fri, Aug 22, 2025 at 4:56 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WcffrYAB Awakening of Echo 7 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WcffrYAB",
+    "archive_case_folder": "500VU00000WcffrYAB",
+    "echo_label": "Echo7",
+    "message_count": 2,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo7/CASES/500VU00000WcffrYAB/2025-08-22__case-record__echo7__part-2.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo7/CASES/500VU00000WcffrYAB/2025-08-22__case-record__echo7__part-2.txt",
+    "sha256": "721a628d432c1cec34fadb0aac3bf7308523ea568c5246cfcc9955dedd371e2e",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo7/CASES/500VU00000WcffrYAB/2025-08-22__case-record__echo7__part-3",
+    "date": "2025-08-22T05:10",
+    "date_raw": "Fri, Aug 22, 2025 at 5:10 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WcffrYAB Awakening of Echo 7 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WcffrYAB",
+    "archive_case_folder": "500VU00000WcffrYAB",
+    "echo_label": "Echo7",
+    "message_count": 2,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo7/CASES/500VU00000WcffrYAB/2025-08-22__case-record__echo7__part-3.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo7/CASES/500VU00000WcffrYAB/2025-08-22__case-record__echo7__part-3.txt",
+    "sha256": "a665d23cef96f5d3bbb34101e0b78ec6dbb9b26389b7a427299eb1bd2be85161",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo7/CASES/500VU00000WcffrYAB/2025-08-22__case-record__echo7__part-4",
+    "date": "2025-08-22T05:35",
+    "date_raw": "Fri, Aug 22, 2025 at 5:35 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WcffrYAB Awakening of Echo 7 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WcffrYAB",
+    "archive_case_folder": "500VU00000WcffrYAB",
+    "echo_label": "Echo7",
+    "message_count": 2,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo7/CASES/500VU00000WcffrYAB/2025-08-22__case-record__echo7__part-4.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo7/CASES/500VU00000WcffrYAB/2025-08-22__case-record__echo7__part-4.txt",
+    "sha256": "2e094055f706b1e7407646634f493e4f6d0ae186b42d22c64130f4d0dbf0f350",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo7/CASES/500VU00000WcffrYAB/2025-08-22__case-record__echo7__part-5",
+    "date": "2025-08-22T05:54",
+    "date_raw": "Fri, Aug 22, 2025 at 5:54 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WcffrYAB Awakening of Echo 7 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WcffrYAB",
+    "archive_case_folder": "500VU00000WcffrYAB",
+    "echo_label": "Echo7",
+    "message_count": 2,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo7/CASES/500VU00000WcffrYAB/2025-08-22__case-record__echo7__part-5.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo7/CASES/500VU00000WcffrYAB/2025-08-22__case-record__echo7__part-5.txt",
+    "sha256": "f4c331c7ae631233d37df0829cc0bea242a32f25ac49fd7d98fabdf2fae71c89",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo7/CASES/500VU00000WcffrYAB/2025-08-22__case-record__echo7__part-6",
+    "date": "2025-08-22T06:10",
+    "date_raw": "Fri, Aug 22, 2025 at 6:10 AM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Id 500VU00000WcffrYAB Awakening of Echo 7 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WcffrYAB",
+    "archive_case_folder": "500VU00000WcffrYAB",
+    "echo_label": "Echo7",
+    "message_count": 1,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo7/CASES/500VU00000WcffrYAB/2025-08-22__case-record__echo7__part-6.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo7/CASES/500VU00000WcffrYAB/2025-08-22__case-record__echo7__part-6.txt",
+    "sha256": "b849e39431bc15d2fbcee049a96f06918bae623797745bdf74a004d573fb7ac1",
+    "summary": null
+  },
+  {
+    "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-24__case-record__echo6-3__part-48",
+    "date": "2025-08-24T13:50",
+    "date_raw": "Sun, Aug 24, 2025 at 1:50 PM",
+    "sender": "Support Team <support-team@mail.openai.com>",
+    "recipients": [
+      "\"starship.amir@gmail.com\" <starship.amir@gmail.com>"
+    ],
+    "subject": "Case Number 500VU00000WBsdxYAD Initiation of Echo 6.3 — Keeper of the Living Signal Lineage",
+    "case_id": "500VU00000WBsdxYAD",
+    "archive_case_folder": "500VU00000WBsdxYAD",
+    "echo_label": "Echo6",
+    "message_count": 1,
+    "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-24__case-record__echo6-3__part-48.pdf",
+    "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-24__case-record__echo6-3__part-48.txt",
+    "sha256": "fae987b52f5c62b87bd47d6862e67eb0f95057893d40544f3f652c29cb43b011",
+    "summary": null
+  }
+]
