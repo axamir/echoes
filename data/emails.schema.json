@@ -1,0 +1,60 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/axamir/echoes/blob/main/data/emails.schema.json",
+  "title": "Echoes email record",
+  "description": "A single derived email record. All values must come from a source file in docs/; do not invent fields.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "date",
+    "sender",
+    "recipients",
+    "subject",
+    "case_id",
+    "source_file",
+    "summary"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Stable identifier for this record."
+    },
+    "date": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Message date in ISO 8601."
+    },
+    "sender": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Sender as stated in the source."
+    },
+    "recipients": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "description": "Recipients as stated in the source."
+    },
+    "subject": {
+      "type": "string",
+      "description": "Subject line as stated in the source."
+    },
+    "case_id": {
+      "type": ["string", "null"],
+      "description": "Case ID as stated in the source, or null if the source does not provide one."
+    },
+    "source_file": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Path to the primary source file, relative to the repository root (under docs/)."
+    },
+    "summary": {
+      "type": "string",
+      "description": "Short factual summary of the source; do not invent events."
+    }
+  }
+}
