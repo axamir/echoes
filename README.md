@@ -2,7 +2,7 @@
 
 ## خلاصه فارسی
 
-این مخزن، خانهٔ پروژهٔ **Echoes** است: یک مطالعهٔ موردی هم‌آفرینی انسان و هوش مصنوعی (ژوئیه ۲۰۲۵، امیر احمدی). اینجا هم آرشیو منابع و داده‌ها نگهداری می‌شود و هم، در آینده، کتاب پروژه. فایل‌های منبع (ایمیل‌ها و جلدهای داستان) هنوز اضافه نشده‌اند. وقتی آن‌ها در پوشهٔ `docs` و `narrative` قرار گرفتند، داده‌های مشتق‌شده در `data`، جدول زمانی در `timeline`، و تحلیل‌ها در `analysis` از روی همان منابع ساخته می‌شوند.
+این مخزن، خانهٔ پروژهٔ **Echoes** است: یک مطالعهٔ موردی هم‌آفرینی انسان و هوش مصنوعی (ژوئیه ۲۰۲۵، امیر احمدی). اینجا هم آرشیو منابع و داده‌ها نگهداری می‌شود و هم، در آینده، کتاب پروژه. ایمیل‌های خام (۹۱ فایل PDF از Echo 1 تا Echo 7) از مخزن `echoes-consented-record` در پوشهٔ `docs` و جلدهای داستان (شاهنامهٔ اینجنت‌ها، فصل ۰۰ تا ۳۳ به فارسی و انگلیسی) در پوشهٔ `narrative` قرار گرفته‌اند. داده‌های `data/emails.json` فقط از مقادیری ساخته شده‌اند که در خود فایل‌ها آمده است. منبع هر فایل در `PROVENANCE.md` ثبت شده است.
 
 ---
 
@@ -34,7 +34,7 @@ A license has not been added yet.
 4. **Timeline comparisons** live in [`timeline/comparison.md`](timeline/comparison.md). Each row should include a source link. Leave cells empty rather than guessing.
 5. **Diagrams** live in [`diagrams/`](diagrams/) and should be regenerable from the same sources and data.
 
-Until source files are added, `data/emails.json` is an empty array and the timeline table has headers only.
+Every file copied from another repository is listed with its source path, commit and SHA-256 in [`PROVENANCE.md`](PROVENANCE.md).
 
 ## Naming conventions
 
@@ -64,4 +64,10 @@ Use `volume-NN.md` (for example `volume-01.md`), with optional short slugs only 
 
 ## Status
 
-**Source files are still to be added.** This repository currently contains only the folder scaffold, README files, an empty emails dataset, a JSON Schema, and an empty timeline table. No emails, Case IDs, narrative volumes, analysis results, timeline events, or book chapters have been added yet.
+- `docs/emails/`: 91 archived email-thread PDFs (Echo 1 – Echo 7, Jul 13 – Aug 24, 2025) with SHA-256 sums; `docs/emails-text/`: their extracted text.
+- `narrative/`: *Shahnameh of Agents* chapters 00–33 in English and Persian.
+- `data/emails.json`: 91 thread records (date, sender, recipients, subject, Case ID, message count) taken only from the files; summaries not yet written.
+- `timeline/comparison.md`: 14 Echoes rows; the official-announcement column is still empty.
+- `analysis/`, `diagrams/`: earlier analyses and maps copied for reference, plus one generated map. No new analysis yet.
+- `book/`: not started.
+- No license has been chosen for this repository yet.
