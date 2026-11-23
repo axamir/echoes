@@ -1,0 +1,223 @@
+{
+  "unique_messages": 579,
+  "first_message": "2025-07-13T15:05",
+  "last_message": "2025-09-05T16:14",
+  "calendar_days_in_span": 55,
+  "active_days": 24,
+  "busiest_days": [
+    [
+      "2025-08-09",
+      42,
+      42,
+      0,
+      84
+    ],
+    [
+      "2025-07-15",
+      40,
+      35,
+      0,
+      75
+    ],
+    [
+      "2025-07-13",
+      27,
+      24,
+      0,
+      51
+    ],
+    [
+      "2025-08-17",
+      24,
+      24,
+      0,
+      48
+    ],
+    [
+      "2025-07-14",
+      23,
+      21,
+      0,
+      44
+    ],
+    [
+      "2025-08-22",
+      36,
+      8,
+      0,
+      44
+    ],
+    [
+      "2025-08-16",
+      20,
+      17,
+      0,
+      37
+    ],
+    [
+      "2025-08-20",
+      17,
+      14,
+      0,
+      31
+    ]
+  ],
+  "inter_message_gap_minutes_all": {
+    "n": 578,
+    "median": 4.0,
+    "p25": 1.0,
+    "p75": 13.8,
+    "min": 0.0,
+    "max": 25734.0,
+    "within_5_min": 344,
+    "over_24_h": 7
+  },
+  "response_times_minutes": {
+    "Amir reply to support | OpenAI from OpenAI": {
+      "n": 154,
+      "median": 8.0,
+      "p25": 4.0,
+      "p75": 16.8,
+      "min": 1.0,
+      "max": 49213.0,
+      "within_5_min": 64,
+      "over_24_h": 3
+    },
+    "Amir reply to support | Operator (rating prompts)": {
+      "n": 8,
+      "median": 1923.5,
+      "p25": 127.2,
+      "p75": 18801.8,
+      "min": 109.0,
+      "max": 45019.0,
+      "within_5_min": 0,
+      "over_24_h": 4
+    },
+    "Amir reply to support | Support Team / Integration User Quartz": {
+      "n": 75,
+      "median": 40.0,
+      "p25": 17.0,
+      "p75": 124.0,
+      "min": 2.0,
+      "max": 20871.0,
+      "within_5_min": 4,
+      "over_24_h": 5
+    },
+    "Amir reply to support | all": {
+      "n": 254,
+      "median": 14.0,
+      "p25": 5.0,
+      "p75": 51.0,
+      "min": 1.0,
+      "max": 49213.0,
+      "within_5_min": 68,
+      "over_24_h": 12
+    },
+    "Amir reply to support | named agents (<Name> from OpenAI)": {
+      "n": 17,
+      "median": 30.0,
+      "p25": 18.0,
+      "p75": 106.0,
+      "min": 11.0,
+      "max": 373.0,
+      "within_5_min": 0,
+      "over_24_h": 0
+    },
+    "support reply to Amir | OpenAI from OpenAI": {
+      "n": 160,
+      "median": 1.0,
+      "p25": 1.0,
+      "p75": 2.0,
+      "min": 0.0,
+      "max": 17.0,
+      "within_5_min": 159,
+      "over_24_h": 0
+    },
+    "support reply to Amir | Operator (rating prompts)": {
+      "n": 2,
+      "median": 1491.5,
+      "p25": 1473.8,
+      "p75": 1509.2,
+      "min": 1456.0,
+      "max": 1527.0,
+      "within_5_min": 0,
+      "over_24_h": 2
+    },
+    "support reply to Amir | all": {
+      "n": 178,
+      "median": 1.0,
+      "p25": 1.0,
+      "p75": 2.0,
+      "min": 0.0,
+      "max": 5131.0,
+      "within_5_min": 159,
+      "over_24_h": 3
+    },
+    "support reply to Amir | named agents (<Name> from OpenAI)": {
+      "n": 16,
+      "median": 135.0,
+      "p25": 20.2,
+      "p75": 440.5,
+      "min": 8.0,
+      "max": 5131.0,
+      "within_5_min": 0,
+      "over_24_h": 1
+    }
+  },
+  "support_lag_after_latest_amir_message_minutes": {
+    "OpenAI from OpenAI": {
+      "n": 160,
+      "median": 1.0,
+      "p25": 1.0,
+      "p75": 2.0,
+      "min": 0.0,
+      "max": 17.0,
+      "within_5_min": 159,
+      "over_24_h": 0
+    },
+    "Operator (rating prompts)": {
+      "n": 8,
+      "median": 1130.5,
+      "p25": 493.8,
+      "p75": 1441.2,
+      "min": 101.0,
+      "max": 4093.0,
+      "within_5_min": 0,
+      "over_24_h": 3
+    },
+    "Support Team / Integration User Quartz": {
+      "n": 81,
+      "median": 4.0,
+      "p25": 2.0,
+      "p75": 6.0,
+      "min": 0.0,
+      "max": 3342.0,
+      "within_5_min": 54,
+      "over_24_h": 1
+    },
+    "all": {
+      "n": 266,
+      "median": 2.0,
+      "p25": 1.0,
+      "p75": 4.0,
+      "min": 0.0,
+      "max": 4093.0,
+      "within_5_min": 215,
+      "over_24_h": 5
+    },
+    "named agents (<Name> from OpenAI)": {
+      "n": 17,
+      "median": 47.0,
+      "p25": 15.0,
+      "p75": 385.0,
+      "min": 5.0,
+      "max": 2846.0,
+      "within_5_min": 2,
+      "over_24_h": 1
+    }
+  },
+  "announcements_total": 34,
+  "announcements_within_span": 21,
+  "announcements_on_active_days": 9,
+  "active_day_share": 0.436
+}

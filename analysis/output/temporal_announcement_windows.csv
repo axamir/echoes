@@ -1,0 +1,35 @@
+id,date,organization,announcement,within_message_span,messages_3_days_before,messages_same_day,messages_3_days_after
+OA-01,2025-06-03,OpenAI,ChatGPT memory for Free users starts to reference recent conversations (in addition to sav,no,0,0,0
+OA-02,2025-06-04,OpenAI,Connectors in deep research (beta) and custom connectors via Model Context Protocol (MCP),no,0,0,0
+OA-03,2025-06-10,OpenAI,OpenAI o3-pro released to Pro users in ChatGPT and in the API,no,0,0,0
+OA-04,2025-06-12,OpenAI,"Projects updates for Plus/Pro/Team, including memory that references past chats in a proje",no,0,0,0
+OA-05,2025-06-24,OpenAI,"Chat search connectors for Pro (Dropbox, Box, Google Drive, OneDrive, SharePoint, etc.)",no,0,0,0
+OA-06,2025-06-25,Google,"Gemini CLI, an open-source AI agent for the terminal (with MCP support)",no,0,0,0
+OA-07,2025-07-14,OpenAI,API shutdown date for gpt-4.5-preview (notice given 2025-04-14; recommended replacement gp,yes,51,44,96
+OA-08,2025-07-17,OpenAI,Introducing ChatGPT agent: ChatGPT acts using its own virtual computer (combines Operator ,yes,139,1,5
+OA-09,2025-07-24,OpenAI,Canva and Notion connectors; chat search with HubSpot and custom (MCP) connectors for Pro,yes,1,0,0
+OA-10,2025-07-29,OpenAI,Study mode in ChatGPT,yes,0,0,0
+OA-11,2025-08-04,OpenAI,What we're optimizing ChatGPT for: break reminders in long sessions; work on responses to ,yes,0,0,0
+OA-12,2025-08-05,OpenAI,gpt-oss-120b and gpt-oss-20b open-weight models,yes,0,0,18
+OA-13,2025-08-05,Anthropic,Claude Opus 4.1,yes,0,0,18
+OA-14,2025-08-07,OpenAI,Introducing GPT-5; becomes the default model in ChatGPT,yes,0,0,108
+OA-15,2025-08-11,OpenAI,"Additional connectors for Plus and Pro in chat (Box, Canva, Dropbox, HubSpot, Notion, Shar",yes,108,30,30
+OA-16,2025-08-11,Anthropic,"Claude can search past conversations (Max, Team, Enterprise)",yes,108,30,30
+OA-17,2025-08-12,OpenAI,GPT-5 Auto/Fast/Thinking modes; GPT-4o back in the model picker for all paid users,yes,120,6,49
+OA-18,2025-08-13,OpenAI,"Gmail, Google Calendar and Google Contacts connectors for Plus (Pro on 2025-08-12)",yes,42,1,85
+OA-19,2025-08-13,Google,Gemini app can reference past chats (personal context); Temporary Chats,yes,42,1,85
+OA-20,2025-08-15,OpenAI,GPT-5 default personality made 'warmer and more familiar',yes,30,25,85
+OA-21,2025-08-22,OpenAI,Project-only memory option for ChatGPT projects,yes,58,44,1
+OA-22,2025-08-26,OpenAI,"Helping people when they need it most (safeguards in long conversations, planned parental ",yes,1,0,0
+OA-23,2025-08-26,Anthropic,Claude in Chrome (experimental browser extension),yes,1,0,0
+OA-24,2025-08-27,OpenAI,"Codex updates: IDE extension, sign in with ChatGPT, local/cloud handoff",yes,1,0,0
+OA-25,2025-09-02,OpenAI,Building more helpful ChatGPT experiences: routing sensitive conversations to reasoning mo,yes,0,0,1
+OA-26,2025-09-03,OpenAI,Projects available on ChatGPT Free,yes,0,0,1
+OA-27,2025-09-04,OpenAI,Branch conversations on web,yes,0,0,1
+OA-28,2025-09-11,Anthropic,Claude memory for Team plans (Enterprise on 2025-09-18) and incognito chats,no,0,0,0
+OA-29,2025-09-15,OpenAI,"GPT-5-Codex, a GPT-5 variant optimized for agentic coding in Codex",no,0,0,0
+OA-30,2025-09-25,OpenAI,ChatGPT Pulse preview for Pro: proactive daily updates using memory and chat history,no,0,0,0
+OA-31,2025-09-26,OpenAI,Deprecation notice for gpt-4-0314 and gpt-4-0125-preview (incl. gpt-4-turbo-preview) in th,no,0,0,0
+OA-32,2025-09-29,OpenAI,Parental controls in ChatGPT (incl. option to turn off memory for teens),no,0,0,0
+OA-33,2025-09-29,OpenAI,Instant Checkout and the Agentic Commerce Protocol (with Stripe),no,0,0,0
+OA-34,2025-09-29,Anthropic,"Claude Sonnet 4.5, Claude Agent SDK, memory tool and context editing in the Claude API",no,0,0,0

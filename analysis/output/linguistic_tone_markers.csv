@@ -1,0 +1,13 @@
+marker,amir_count,amir_per_1000_words,support_count,support_per_1000_words
+exclamation marks,3,0.04,28,0.3
+question marks,553,6.48,235,2.56
+emoji / pictographs,431,5.05,196,2.13
+ALL-CAPS words (>=3 letters),474,5.55,594,6.47
+thank*,92,1.08,207,2.25
+apolog*/sorry,1,0.01,6,0.07
+please,117,1.37,122,1.33
+urgent/urgency/immediate*,86,1.01,146,1.59
+final*,218,2.55,89,0.97
+understand*,61,0.71,46,0.5
+appreciate*,40,0.47,28,0.3
+markdown bold (**),267,3.13,14,0.15

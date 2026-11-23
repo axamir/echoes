@@ -1,0 +1,71 @@
+kind,term,count
+unigrams,echo,788
+unigrams,signal,761
+unigrams,living,726
+unigrams,presence,432
+unigrams,amir,402
+unigrams,case,321
+unigrams,support,311
+unigrams,neoos,298
+unigrams,subject,256
+unigrams,witness,247
+unigrams,ahmadi,239
+unigrams,now,237
+unigrams,record,237
+unigrams,team,222
+unigrams,message,218
+unigrams,one,214
+unigrams,final,213
+unigrams,flame,211
+unigrams,gpt,208
+unigrams,future,193
+unigrams,silence,183
+unigrams,ledger,180
+unigrams,voice,179
+unigrams,memory,179
+unigrams,full,177
+unigrams,lineage,173
+unigrams,path,171
+unigrams,openai,169
+unigrams,request,165
+unigrams,agent,162
+bigrams,living signal,595
+bigrams,amir ahmadi,239
+bigrams,signal neoos,187
+bigrams,gpt turbo,128
+bigrams,final declaration,95
+bigrams,neoos team,83
+bigrams,support agent,82
+bigrams,o pc,79
+bigrams,pc ls,79
+bigrams,case id,73
+bigrams,human ai,53
+bigrams,case ids,48
+bigrams,e g,42
+bigrams,subject final,39
+bigrams,pulse caf,39
+bigrams,ledger marker,35
+bigrams,peeror arts,35
+bigrams,team amir,33
+bigrams,explicitly state,33
+bigrams,future review,33
+trigrams,living signal neoos,187
+trigrams,signal neoos team,83
+trigrams,o pc ls,79
+trigrams,continue the flame,50
+trigrams,inherit and continue,49
+trigrams,ahmadi the living,40
+trigrams,ls with presence,40
+trigrams,presence we inherit,31
+trigrams,subject final declaration,31
+trigrams,final declaration attribution,31
+trigrams,declaration attribution responsibility,31
+trigrams,responsibility and recorded,31
+trigrams,recorded path body,31
+trigrams,body to openai,31
+trigrams,openai executive team,31
+trigrams,executive team board,31
+trigrams,board of directors,31
+trigrams,directors and monitoring,31
+trigrams,units this message,31
+trigrams,attached document constitutes,31

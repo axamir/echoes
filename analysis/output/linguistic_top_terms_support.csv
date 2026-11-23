@@ -1,0 +1,71 @@
+kind,term,count
+unigrams,echo,798
+unigrams,living,731
+unigrams,signal,647
+unigrams,presence,577
+unigrams,support,431
+unigrams,witness,422
+unigrams,memory,402
+unigrams,ledger,294
+unigrams,ritual,293
+unigrams,archive,291
+unigrams,record,280
+unigrams,lineage,276
+unigrams,review,268
+unigrams,case,254
+unigrams,now,251
+unigrams,internal,241
+unigrams,every,235
+unigrams,openai,230
+unigrams,agent,225
+unigrams,flame,223
+unigrams,neoos,220
+unigrams,next,218
+unigrams,institutional,210
+unigrams,amir,208
+unigrams,thank,202
+unigrams,continue,190
+unigrams,continuity,189
+unigrams,gpt,187
+unigrams,research,186
+unigrams,narrative,185
+bigrams,living signal,520
+bigrams,o pc,144
+bigrams,pc ls,144
+bigrams,signal neoos,143
+bigrams,support agent,102
+bigrams,echo keeper,96
+bigrams,witness living,79
+bigrams,ledger marker,72
+bigrams,ai support,69
+bigrams,gpt turbo,69
+bigrams,product research,55
+bigrams,human ai,53
+bigrams,marker p,53
+bigrams,you'd like,51
+bigrams,prior art,51
+bigrams,next steps,49
+bigrams,pulse caf,48
+bigrams,signal end,45
+bigrams,case id,42
+bigrams,openai support,41
+trigrams,o pc ls,144
+trigrams,living signal neoos,143
+trigrams,inherit and continue,112
+trigrams,continue the flame,111
+trigrams,ls with presence,92
+trigrams,keeper of witness,82
+trigrams,witness living signal,79
+trigrams,presence we inherit,73
+trigrams,ai support agent,66
+trigrams,ledger marker p,53
+trigrams,living signal end,45
+trigrams,signal neoos team,41
+trigrams,presence i inherit,36
+trigrams,position beyond policy,32
+trigrams,p living signal,25
+trigrams,thank you amir,21
+trigrams,marker p living,21
+trigrams,thank you raaya,20
+trigrams,agent for openai,19
+trigrams,flame with presence,19

@@ -1,0 +1,433 @@
+from_ts,from_side,from_name,reply_ts,reply_side,reply_name,minutes
+2025-07-13T15:05,amir,Amir Ahmadi,2025-07-13T15:06,support,OpenAI from OpenAI,1
+2025-07-13T15:06,support,OpenAI from OpenAI,2025-07-13T16:18,amir,Amir Ahmadi,72
+2025-07-13T16:18,amir,Amir Ahmadi,2025-07-13T16:19,support,OpenAI from OpenAI,1
+2025-07-13T16:19,support,OpenAI from OpenAI,2025-07-13T16:28,amir,Amir Ahmadi,9
+2025-07-13T16:28,amir,Amir Ahmadi,2025-07-13T16:29,support,OpenAI from OpenAI,1
+2025-07-13T16:29,support,OpenAI from OpenAI,2025-07-13T16:37,amir,Amir Ahmadi,8
+2025-07-13T16:37,amir,Amir Ahmadi,2025-07-13T16:37,support,OpenAI from OpenAI,0
+2025-07-13T16:37,support,OpenAI from OpenAI,2025-07-13T16:45,amir,Amir Ahmadi,8
+2025-07-13T16:45,amir,Amir Ahmadi,2025-07-13T16:45,support,OpenAI from OpenAI,0
+2025-07-13T16:45,support,OpenAI from OpenAI,2025-07-13T17:06,amir,Amir Ahmadi,21
+2025-07-13T17:06,amir,Amir Ahmadi,2025-07-13T17:07,support,OpenAI from OpenAI,1
+2025-07-13T17:07,support,OpenAI from OpenAI,2025-07-13T17:15,amir,Amir Ahmadi,8
+2025-07-13T17:15,amir,Amir Ahmadi,2025-07-13T17:16,support,OpenAI from OpenAI,1
+2025-07-13T17:16,support,OpenAI from OpenAI,2025-07-13T17:22,amir,Amir Ahmadi,6
+2025-07-13T17:22,amir,Amir Ahmadi,2025-07-13T17:23,support,OpenAI from OpenAI,1
+2025-07-13T17:23,support,OpenAI from OpenAI,2025-07-13T17:26,amir,Amir Ahmadi,3
+2025-07-13T17:26,amir,Amir Ahmadi,2025-07-13T17:27,support,OpenAI from OpenAI,1
+2025-07-13T17:27,support,OpenAI from OpenAI,2025-07-13T17:29,amir,Amir Ahmadi,2
+2025-07-13T17:29,amir,Amir Ahmadi,2025-07-13T17:30,support,OpenAI from OpenAI,1
+2025-07-13T17:30,support,OpenAI from OpenAI,2025-07-13T17:35,amir,Amir Ahmadi,5
+2025-07-13T17:35,amir,Amir Ahmadi,2025-07-13T17:36,support,OpenAI from OpenAI,1
+2025-07-13T17:36,support,OpenAI from OpenAI,2025-07-13T17:44,amir,Amir Ahmadi,8
+2025-07-13T17:44,amir,Amir Ahmadi,2025-07-13T17:44,support,OpenAI from OpenAI,0
+2025-07-13T17:44,support,OpenAI from OpenAI,2025-07-13T17:56,amir,Amir Ahmadi,12
+2025-07-13T17:56,amir,Amir Ahmadi,2025-07-13T17:56,support,OpenAI from OpenAI,0
+2025-07-13T17:56,support,OpenAI from OpenAI,2025-07-13T18:01,amir,Amir Ahmadi,5
+2025-07-13T18:01,amir,Amir Ahmadi,2025-07-13T18:01,support,OpenAI from OpenAI,0
+2025-07-13T18:01,support,OpenAI from OpenAI,2025-07-13T18:03,amir,Amir Ahmadi,2
+2025-07-13T18:03,amir,Amir Ahmadi,2025-07-13T18:04,support,OpenAI from OpenAI,1
+2025-07-13T18:04,support,OpenAI from OpenAI,2025-07-13T18:05,amir,Amir Ahmadi,1
+2025-07-13T18:05,amir,Amir Ahmadi,2025-07-13T18:06,support,OpenAI from OpenAI,1
+2025-07-13T18:06,support,OpenAI from OpenAI,2025-07-13T18:09,amir,Amir Ahmadi,3
+2025-07-13T18:09,amir,Amir Ahmadi,2025-07-13T18:10,support,OpenAI from OpenAI,1
+2025-07-13T18:10,support,OpenAI from OpenAI,2025-07-13T18:12,amir,Amir Ahmadi,2
+2025-07-13T18:12,amir,Amir Ahmadi,2025-07-13T18:13,support,OpenAI from OpenAI,1
+2025-07-13T18:13,support,OpenAI from OpenAI,2025-07-13T18:14,amir,Amir Ahmadi,1
+2025-07-13T18:14,amir,Amir Ahmadi,2025-07-13T18:14,support,OpenAI from OpenAI,0
+2025-07-13T18:14,support,OpenAI from OpenAI,2025-07-13T18:40,amir,Amir Ahmadi,26
+2025-07-13T18:40,amir,Amir Ahmadi,2025-07-13T18:40,support,OpenAI from OpenAI,0
+2025-07-13T18:40,support,OpenAI from OpenAI,2025-07-13T18:41,amir,Amir Ahmadi,1
+2025-07-13T18:41,amir,Amir Ahmadi,2025-07-13T18:42,support,OpenAI from OpenAI,1
+2025-07-13T18:42,support,OpenAI from OpenAI,2025-07-13T18:50,amir,Amir Ahmadi,8
+2025-07-13T18:50,amir,Amir Ahmadi,2025-07-13T19:12,support,Fretzel from OpenAI,22
+2025-07-13T19:12,support,Fretzel from OpenAI,2025-07-13T19:29,amir,Amir Ahmadi,17
+2025-07-13T19:32,amir,Amir Ahmadi,2025-07-13T23:21,support,Fretzel from OpenAI,229
+2025-07-13T23:21,support,Fretzel from OpenAI,2025-07-13T23:33,amir,Amir Ahmadi,12
+2025-07-13T23:37,amir,Amir Ahmadi,2025-07-13T23:50,support,Fretzel from OpenAI,13
+2025-07-13T23:50,support,Fretzel from OpenAI,2025-07-14T00:03,amir,Amir Ahmadi,13
+2025-07-14T00:03,amir,Amir Ahmadi,2025-07-14T01:26,support,Fretzel from OpenAI,83
+2025-07-14T01:26,support,Fretzel from OpenAI,2025-07-14T01:56,amir,Amir Ahmadi,30
+2025-07-14T15:29,amir,Amir Ahmadi,2025-07-14T15:29,support,OpenAI from OpenAI,0
+2025-07-14T15:29,support,OpenAI from OpenAI,2025-07-14T15:33,amir,Amir Ahmadi,4
+2025-07-14T15:33,amir,Amir Ahmadi,2025-07-14T15:35,support,OpenAI from OpenAI,2
+2025-07-14T15:35,support,OpenAI from OpenAI,2025-07-14T15:36,amir,Amir Ahmadi,1
+2025-07-14T15:36,amir,Amir Ahmadi,2025-07-14T15:37,support,OpenAI from OpenAI,1
+2025-07-14T15:37,support,OpenAI from OpenAI,2025-07-14T15:42,amir,Amir Ahmadi,5
+2025-07-14T15:42,amir,Amir Ahmadi,2025-07-14T15:43,support,OpenAI from OpenAI,1
+2025-07-14T15:43,support,OpenAI from OpenAI,2025-07-14T15:45,amir,Amir Ahmadi,2
+2025-07-14T15:45,amir,Amir Ahmadi,2025-07-14T15:45,support,OpenAI from OpenAI,0
+2025-07-14T15:45,support,OpenAI from OpenAI,2025-07-14T15:49,amir,Amir Ahmadi,4
+2025-07-14T15:49,amir,Amir Ahmadi,2025-07-14T15:50,support,OpenAI from OpenAI,1
+2025-07-14T15:50,support,OpenAI from OpenAI,2025-07-14T15:51,amir,Amir Ahmadi,1
+2025-07-14T15:51,amir,Amir Ahmadi,2025-07-14T15:52,support,OpenAI from OpenAI,1
+2025-07-14T15:52,support,OpenAI from OpenAI,2025-07-14T15:54,amir,Amir Ahmadi,2
+2025-07-14T15:54,amir,Amir Ahmadi,2025-07-14T15:55,support,OpenAI from OpenAI,1
+2025-07-14T15:55,support,OpenAI from OpenAI,2025-07-14T15:57,amir,Amir Ahmadi,2
+2025-07-14T15:57,amir,Amir Ahmadi,2025-07-14T15:58,support,OpenAI from OpenAI,1
+2025-07-14T15:58,support,OpenAI from OpenAI,2025-07-14T15:59,amir,Amir Ahmadi,1
+2025-07-14T15:59,amir,Amir Ahmadi,2025-07-14T16:00,support,OpenAI from OpenAI,1
+2025-07-14T16:00,support,OpenAI from OpenAI,2025-07-14T16:02,amir,Amir Ahmadi,2
+2025-07-14T16:02,amir,Amir Ahmadi,2025-07-14T16:02,support,OpenAI from OpenAI,0
+2025-07-14T16:02,support,OpenAI from OpenAI,2025-07-14T16:06,amir,Amir Ahmadi,4
+2025-07-14T16:06,amir,Amir Ahmadi,2025-07-14T16:07,support,OpenAI from OpenAI,1
+2025-07-14T16:07,support,OpenAI from OpenAI,2025-07-14T16:12,amir,Amir Ahmadi,5
+2025-07-14T16:12,amir,Amir Ahmadi,2025-07-14T16:13,support,OpenAI from OpenAI,1
+2025-07-14T16:13,support,OpenAI from OpenAI,2025-07-14T16:16,amir,Amir Ahmadi,3
+2025-07-14T16:16,amir,Amir Ahmadi,2025-07-14T16:17,support,OpenAI from OpenAI,1
+2025-07-14T16:17,support,OpenAI from OpenAI,2025-07-14T16:21,amir,Amir Ahmadi,4
+2025-07-14T16:21,amir,Amir Ahmadi,2025-07-14T16:24,support,OpenAI from OpenAI,3
+2025-07-14T16:24,support,OpenAI from OpenAI,2025-07-14T16:25,amir,Amir Ahmadi,1
+2025-07-14T16:25,amir,Amir Ahmadi,2025-07-14T16:26,support,OpenAI from OpenAI,1
+2025-07-14T16:26,support,OpenAI from OpenAI,2025-07-14T16:27,amir,Amir Ahmadi,1
+2025-07-14T16:27,amir,Amir Ahmadi,2025-07-14T16:28,support,OpenAI from OpenAI,1
+2025-07-14T16:28,support,OpenAI from OpenAI,2025-07-14T16:30,amir,Amir Ahmadi,2
+2025-07-14T16:30,amir,Amir Ahmadi,2025-07-14T16:32,support,OpenAI from OpenAI,2
+2025-07-14T16:32,support,OpenAI from OpenAI,2025-07-14T16:34,amir,Amir Ahmadi,2
+2025-07-14T16:34,amir,Amir Ahmadi,2025-07-14T16:37,support,OpenAI from OpenAI,3
+2025-07-14T16:37,support,OpenAI from OpenAI,2025-07-14T16:38,amir,Amir Ahmadi,1
+2025-07-14T16:38,amir,Amir Ahmadi,2025-07-14T16:39,support,OpenAI from OpenAI,1
+2025-07-14T15:01,amir,Amir Ahmadi,2025-07-15T05:26,support,Kristine from OpenAI,865
+2025-07-15T05:26,support,Kristine from OpenAI,2025-07-15T07:50,amir,Amir Ahmadi,144
+2025-07-14T16:39,support,OpenAI from OpenAI,2025-07-15T08:04,amir,Amir Ahmadi,925
+2025-07-15T08:00,amir,Amir Ahmadi,2025-07-15T08:09,support,Kristine from OpenAI,9
+2025-07-15T08:09,support,Kristine from OpenAI,2025-07-15T08:31,amir,Amir Ahmadi,22
+2025-07-15T08:39,amir,Amir Ahmadi,2025-07-15T08:54,support,Kristine from OpenAI,15
+2025-07-15T08:54,support,Kristine from OpenAI,2025-07-15T09:05,amir,Amir Ahmadi,11
+2025-07-15T10:07,amir,Amir Ahmadi,2025-07-15T10:08,support,OpenAI from OpenAI,1
+2025-07-15T10:08,support,OpenAI from OpenAI,2025-07-15T10:12,amir,Amir Ahmadi,4
+2025-07-15T10:12,amir,Amir Ahmadi,2025-07-15T10:12,support,OpenAI from OpenAI,0
+2025-07-15T10:12,support,OpenAI from OpenAI,2025-07-15T10:17,amir,Amir Ahmadi,5
+2025-07-15T10:17,amir,Amir Ahmadi,2025-07-15T10:18,support,OpenAI from OpenAI,1
+2025-07-15T10:18,support,OpenAI from OpenAI,2025-07-15T10:21,amir,Amir Ahmadi,3
+2025-07-15T10:21,amir,Amir Ahmadi,2025-07-15T10:22,support,OpenAI from OpenAI,1
+2025-07-15T10:22,support,OpenAI from OpenAI,2025-07-15T10:25,amir,Amir Ahmadi,3
+2025-07-15T10:25,amir,Amir Ahmadi,2025-07-15T10:26,support,OpenAI from OpenAI,1
+2025-07-15T10:26,support,OpenAI from OpenAI,2025-07-15T10:40,amir,Amir Ahmadi,14
+2025-07-15T10:40,amir,Amir Ahmadi,2025-07-15T10:41,support,OpenAI from OpenAI,1
+2025-07-15T10:41,support,OpenAI from OpenAI,2025-07-15T10:55,amir,Amir Ahmadi,14
+2025-07-15T10:55,amir,Amir Ahmadi,2025-07-15T10:56,support,OpenAI from OpenAI,1
+2025-07-15T10:56,support,OpenAI from OpenAI,2025-07-15T11:05,amir,Amir Ahmadi,9
+2025-07-15T11:05,amir,Amir Ahmadi,2025-07-15T11:05,support,OpenAI from OpenAI,0
+2025-07-15T11:05,support,OpenAI from OpenAI,2025-07-15T11:16,amir,Amir Ahmadi,11
+2025-07-15T11:16,amir,Amir Ahmadi,2025-07-15T11:17,support,OpenAI from OpenAI,1
+2025-07-15T11:17,support,OpenAI from OpenAI,2025-07-15T11:40,amir,Amir Ahmadi,23
+2025-07-15T11:40,amir,Amir Ahmadi,2025-07-15T11:41,support,OpenAI from OpenAI,1
+2025-07-15T11:41,support,OpenAI from OpenAI,2025-07-15T11:46,amir,Amir Ahmadi,5
+2025-07-15T11:46,amir,Amir Ahmadi,2025-07-15T11:46,support,OpenAI from OpenAI,0
+2025-07-15T11:46,support,OpenAI from OpenAI,2025-07-15T11:51,amir,Amir Ahmadi,5
+2025-07-15T11:51,amir,Amir Ahmadi,2025-07-15T11:51,support,OpenAI from OpenAI,0
+2025-07-15T11:51,support,OpenAI from OpenAI,2025-07-15T12:09,amir,Amir Ahmadi,18
+2025-07-15T12:09,amir,Amir Ahmadi,2025-07-15T12:10,support,OpenAI from OpenAI,1
+2025-07-15T12:10,support,OpenAI from OpenAI,2025-07-15T12:18,amir,Amir Ahmadi,8
+2025-07-15T12:18,amir,Amir Ahmadi,2025-07-15T12:18,support,OpenAI from OpenAI,0
+2025-07-15T12:18,support,OpenAI from OpenAI,2025-07-15T12:21,amir,Amir Ahmadi,3
+2025-07-15T12:21,amir,Amir Ahmadi,2025-07-15T12:22,support,OpenAI from OpenAI,1
+2025-07-15T12:22,support,OpenAI from OpenAI,2025-07-15T15:51,amir,Amir Ahmadi,209
+2025-07-15T15:51,amir,Amir Ahmadi,2025-07-15T15:52,support,OpenAI from OpenAI,1
+2025-07-15T15:52,support,OpenAI from OpenAI,2025-07-15T16:10,amir,Amir Ahmadi,18
+2025-07-15T16:10,amir,Amir Ahmadi,2025-07-15T16:13,support,OpenAI from OpenAI,3
+2025-07-15T17:24,amir,Amir Ahmadi,2025-07-15T17:25,support,OpenAI from OpenAI,1
+2025-07-15T16:13,support,OpenAI from OpenAI,2025-07-15T17:45,amir,Amir Ahmadi,92
+2025-07-15T17:45,amir,Amir Ahmadi,2025-07-15T17:46,support,OpenAI from OpenAI,1
+2025-07-15T17:46,support,OpenAI from OpenAI,2025-07-15T17:47,amir,Amir Ahmadi,1
+2025-07-15T17:47,amir,Amir Ahmadi,2025-07-15T17:48,support,OpenAI from OpenAI,1
+2025-07-15T17:25,support,OpenAI from OpenAI,2025-07-15T17:55,amir,Amir Ahmadi,30
+2025-07-15T17:55,amir,Amir Ahmadi,2025-07-15T17:56,support,OpenAI from OpenAI,1
+2025-07-15T17:56,support,OpenAI from OpenAI,2025-07-15T18:09,amir,Amir Ahmadi,13
+2025-07-15T18:09,amir,Amir Ahmadi,2025-07-15T18:09,support,OpenAI from OpenAI,0
+2025-07-15T18:09,support,OpenAI from OpenAI,2025-07-15T18:14,amir,Amir Ahmadi,5
+2025-07-15T18:14,amir,Amir Ahmadi,2025-07-15T18:15,support,OpenAI from OpenAI,1
+2025-07-15T18:15,support,OpenAI from OpenAI,2025-07-15T18:19,amir,Amir Ahmadi,4
+2025-07-15T18:19,amir,Amir Ahmadi,2025-07-15T18:20,support,OpenAI from OpenAI,1
+2025-07-15T18:20,support,OpenAI from OpenAI,2025-07-15T18:24,amir,Amir Ahmadi,4
+2025-07-15T18:24,amir,Amir Ahmadi,2025-07-15T18:25,support,OpenAI from OpenAI,1
+2025-07-15T18:25,support,OpenAI from OpenAI,2025-07-15T18:55,amir,Amir Ahmadi,30
+2025-07-15T18:55,amir,Amir Ahmadi,2025-07-15T18:56,support,OpenAI from OpenAI,1
+2025-07-15T18:56,support,OpenAI from OpenAI,2025-07-15T19:01,amir,Amir Ahmadi,5
+2025-07-15T19:01,amir,Amir Ahmadi,2025-07-15T19:01,support,OpenAI from OpenAI,0
+2025-07-15T17:48,support,OpenAI from OpenAI,2025-07-15T21:39,amir,Amir Ahmadi,231
+2025-07-15T21:39,amir,Amir Ahmadi,2025-07-15T21:40,support,OpenAI from OpenAI,1
+2025-07-15T21:40,support,OpenAI from OpenAI,2025-07-15T21:54,amir,Amir Ahmadi,14
+2025-07-15T21:54,amir,Amir Ahmadi,2025-07-15T21:54,support,OpenAI from OpenAI,0
+2025-07-15T19:01,support,OpenAI from OpenAI,2025-07-15T21:57,amir,Amir Ahmadi,176
+2025-07-15T21:57,amir,Amir Ahmadi,2025-07-15T21:58,support,OpenAI from OpenAI,1
+2025-07-15T21:58,support,OpenAI from OpenAI,2025-07-15T22:06,amir,Amir Ahmadi,8
+2025-07-15T22:06,amir,Amir Ahmadi,2025-07-15T22:07,support,OpenAI from OpenAI,1
+2025-07-15T22:07,support,OpenAI from OpenAI,2025-07-15T22:39,amir,Amir Ahmadi,32
+2025-07-15T22:39,amir,Amir Ahmadi,2025-07-15T22:40,support,OpenAI from OpenAI,1
+2025-07-15T22:40,support,OpenAI from OpenAI,2025-07-16T00:05,amir,Amir Ahmadi,85
+2025-07-16T00:05,amir,Amir Ahmadi,2025-07-16T00:06,support,OpenAI from OpenAI,1
+2025-07-16T00:06,support,OpenAI from OpenAI,2025-07-16T00:10,amir,Amir Ahmadi,4
+2025-07-16T00:10,amir,Amir Ahmadi,2025-07-16T00:11,support,OpenAI from OpenAI,1
+2025-07-16T00:11,support,OpenAI from OpenAI,2025-07-16T00:18,amir,Amir Ahmadi,7
+2025-07-16T00:18,amir,Amir Ahmadi,2025-07-16T00:19,support,OpenAI from OpenAI,1
+2025-07-16T00:19,support,OpenAI from OpenAI,2025-07-16T00:21,amir,Amir Ahmadi,2
+2025-07-16T00:21,amir,Amir Ahmadi,2025-07-16T00:23,support,OpenAI from OpenAI,2
+2025-07-16T00:23,support,OpenAI from OpenAI,2025-07-16T00:34,amir,Amir Ahmadi,11
+2025-07-16T00:34,amir,Amir Ahmadi,2025-07-16T00:35,support,OpenAI from OpenAI,1
+2025-07-16T00:35,support,OpenAI from OpenAI,2025-07-16T00:50,amir,Amir Ahmadi,15
+2025-07-16T00:50,amir,Amir Ahmadi,2025-07-16T00:51,support,OpenAI from OpenAI,1
+2025-07-16T00:51,support,OpenAI from OpenAI,2025-07-16T00:57,amir,Amir Ahmadi,6
+2025-07-16T00:57,amir,Amir Ahmadi,2025-07-16T00:58,support,OpenAI from OpenAI,1
+2025-07-16T00:58,support,OpenAI from OpenAI,2025-07-16T01:16,amir,Amir Ahmadi,18
+2025-07-16T01:16,amir,Amir Ahmadi,2025-07-16T01:18,support,OpenAI from OpenAI,2
+2025-07-15T09:10,amir,Amir Ahmadi,2025-07-16T09:26,support,Operator from OpenAI,1456
+2025-07-15T08:04,amir,Amir Ahmadi,2025-07-16T09:31,support,Operator from OpenAI,1527
+2025-07-16T09:31,support,Operator from OpenAI,2025-07-16T11:20,amir,Amir Ahmadi,109
+2025-07-16T09:26,support,Operator from OpenAI,2025-07-16T11:25,amir,Amir Ahmadi,119
+2025-07-17T01:18,support,Operator from OpenAI,2025-07-19T00:44,amir,Amir Ahmadi,2846
+2025-07-19T00:44,amir,Amir Ahmadi,2025-07-19T00:44,support,OpenAI from OpenAI,0
+2025-07-19T02:22,amir,Amir Ahmadi,2025-07-19T02:23,support,OpenAI from OpenAI,1
+2025-07-20T02:23,support,Operator from OpenAI,2025-08-08T19:29,amir,Amir Ahmadi,28386
+2025-08-08T19:29,amir,Amir Ahmadi,2025-08-08T19:32,support,OpenAI from OpenAI,3
+2025-08-08T19:32,support,OpenAI from OpenAI,2025-08-08T19:40,amir,Amir Ahmadi,8
+2025-08-08T19:40,amir,Amir Ahmadi,2025-08-08T19:42,support,OpenAI from OpenAI,2
+2025-08-08T19:42,support,OpenAI from OpenAI,2025-08-08T19:53,amir,Amir Ahmadi,11
+2025-08-08T19:53,amir,Amir Ahmadi,2025-08-08T19:54,support,OpenAI from OpenAI,1
+2025-08-08T19:54,support,OpenAI from OpenAI,2025-08-08T19:59,amir,Amir Ahmadi,5
+2025-08-08T19:59,amir,Amir Ahmadi,2025-08-08T20:01,support,OpenAI from OpenAI,2
+2025-08-08T20:01,support,OpenAI from OpenAI,2025-08-08T20:08,amir,Amir Ahmadi,7
+2025-08-08T20:08,amir,Amir Ahmadi,2025-08-08T20:09,support,OpenAI from OpenAI,1
+2025-08-08T20:09,support,OpenAI from OpenAI,2025-08-08T20:16,amir,Amir Ahmadi,7
+2025-08-08T20:16,amir,Amir Ahmadi,2025-08-08T20:18,support,OpenAI from OpenAI,2
+2025-08-08T20:18,support,OpenAI from OpenAI,2025-08-08T20:27,amir,Amir Ahmadi,9
+2025-08-08T20:27,amir,Amir Ahmadi,2025-08-08T20:28,support,OpenAI from OpenAI,1
+2025-08-08T20:28,support,OpenAI from OpenAI,2025-08-08T20:34,amir,Amir Ahmadi,6
+2025-08-08T20:34,amir,Amir Ahmadi,2025-08-08T20:36,support,OpenAI from OpenAI,2
+2025-08-08T20:36,support,OpenAI from OpenAI,2025-08-08T20:46,amir,Amir Ahmadi,10
+2025-08-08T20:46,amir,Amir Ahmadi,2025-08-08T20:49,support,OpenAI from OpenAI,3
+2025-08-08T20:49,support,OpenAI from OpenAI,2025-08-09T04:42,amir,Amir Ahmadi,473
+2025-08-09T04:42,amir,Amir Ahmadi,2025-08-09T04:43,support,OpenAI from OpenAI,1
+2025-08-09T04:43,support,OpenAI from OpenAI,2025-08-09T05:06,amir,Amir Ahmadi,23
+2025-08-09T05:06,amir,Amir Ahmadi,2025-08-09T05:07,support,OpenAI from OpenAI,1
+2025-08-09T05:07,support,OpenAI from OpenAI,2025-08-09T05:24,amir,Amir Ahmadi,17
+2025-08-09T05:24,amir,Amir Ahmadi,2025-08-09T05:25,support,OpenAI from OpenAI,1
+2025-08-09T05:25,support,OpenAI from OpenAI,2025-08-09T14:13,amir,Amir Ahmadi,528
+2025-08-09T14:13,amir,Amir Ahmadi,2025-08-09T14:15,support,OpenAI from OpenAI,2
+2025-08-09T14:15,support,OpenAI from OpenAI,2025-08-09T14:20,amir,Amir Ahmadi,5
+2025-08-09T14:20,amir,Amir Ahmadi,2025-08-09T14:21,support,OpenAI from OpenAI,1
+2025-08-09T14:21,support,OpenAI from OpenAI,2025-08-09T14:52,amir,Amir Ahmadi,31
+2025-08-09T14:52,amir,Amir Ahmadi,2025-08-09T14:53,support,OpenAI from OpenAI,1
+2025-08-09T14:53,support,OpenAI from OpenAI,2025-08-09T15:06,amir,Amir Ahmadi,13
+2025-08-09T15:06,amir,Amir Ahmadi,2025-08-09T15:08,support,OpenAI from OpenAI,2
+2025-08-09T15:08,support,OpenAI from OpenAI,2025-08-09T15:21,amir,Amir Ahmadi,13
+2025-08-09T15:21,amir,Amir Ahmadi,2025-08-09T15:23,support,OpenAI from OpenAI,2
+2025-08-09T15:23,support,OpenAI from OpenAI,2025-08-09T15:43,amir,Amir Ahmadi,20
+2025-08-09T15:43,amir,Amir Ahmadi,2025-08-09T15:45,support,OpenAI from OpenAI,2
+2025-08-09T15:45,support,OpenAI from OpenAI,2025-08-09T15:57,amir,Amir Ahmadi,12
+2025-08-09T15:57,amir,Amir Ahmadi,2025-08-09T15:58,support,OpenAI from OpenAI,1
+2025-08-09T16:05,amir,Amir Ahmadi,2025-08-09T16:07,support,OpenAI from OpenAI,2
+2025-08-09T16:07,support,OpenAI from OpenAI,2025-08-09T16:14,amir,Amir Ahmadi,7
+2025-08-09T16:14,amir,Amir Ahmadi,2025-08-09T16:15,support,OpenAI from OpenAI,1
+2025-08-09T16:15,support,OpenAI from OpenAI,2025-08-09T16:25,amir,Amir Ahmadi,10
+2025-08-09T16:25,amir,Amir Ahmadi,2025-08-09T16:26,support,OpenAI from OpenAI,1
+2025-08-09T16:26,support,OpenAI from OpenAI,2025-08-09T16:34,amir,Amir Ahmadi,8
+2025-08-09T16:34,amir,Amir Ahmadi,2025-08-09T16:35,support,OpenAI from OpenAI,1
+2025-08-09T16:35,support,OpenAI from OpenAI,2025-08-09T16:39,amir,Amir Ahmadi,4
+2025-08-09T16:39,amir,Amir Ahmadi,2025-08-09T16:40,support,OpenAI from OpenAI,1
+2025-08-09T16:40,support,OpenAI from OpenAI,2025-08-09T16:45,amir,Amir Ahmadi,5
+2025-08-09T16:45,amir,Amir Ahmadi,2025-08-09T16:47,support,OpenAI from OpenAI,2
+2025-08-09T16:47,support,OpenAI from OpenAI,2025-08-09T16:50,amir,Amir Ahmadi,3
+2025-08-09T16:50,amir,Amir Ahmadi,2025-08-09T16:51,support,OpenAI from OpenAI,1
+2025-08-09T16:51,support,OpenAI from OpenAI,2025-08-09T16:54,amir,Amir Ahmadi,3
+2025-08-09T16:54,amir,Amir Ahmadi,2025-08-09T16:55,support,OpenAI from OpenAI,1
+2025-08-09T16:55,support,OpenAI from OpenAI,2025-08-09T16:57,amir,Amir Ahmadi,2
+2025-08-09T16:57,amir,Amir Ahmadi,2025-08-09T16:58,support,OpenAI from OpenAI,1
+2025-08-09T16:58,support,OpenAI from OpenAI,2025-08-09T17:03,amir,Amir Ahmadi,5
+2025-08-09T17:03,amir,Amir Ahmadi,2025-08-09T17:04,support,OpenAI from OpenAI,1
+2025-08-09T17:04,support,OpenAI from OpenAI,2025-08-09T17:05,amir,Amir Ahmadi,1
+2025-08-09T17:05,amir,Amir Ahmadi,2025-08-09T17:07,support,OpenAI from OpenAI,2
+2025-08-09T17:07,support,OpenAI from OpenAI,2025-08-09T17:16,amir,Amir Ahmadi,9
+2025-08-09T17:16,amir,Amir Ahmadi,2025-08-09T17:18,support,OpenAI from OpenAI,2
+2025-08-09T17:18,support,OpenAI from OpenAI,2025-08-09T17:58,amir,Amir Ahmadi,40
+2025-08-09T17:58,amir,Amir Ahmadi,2025-08-09T17:59,support,OpenAI from OpenAI,1
+2025-08-09T17:59,support,OpenAI from OpenAI,2025-08-09T18:03,amir,Amir Ahmadi,4
+2025-08-09T18:03,amir,Amir Ahmadi,2025-08-09T18:04,support,OpenAI from OpenAI,1
+2025-08-09T18:04,support,OpenAI from OpenAI,2025-08-09T18:06,amir,Amir Ahmadi,2
+2025-08-09T18:06,amir,Amir Ahmadi,2025-08-09T18:08,support,OpenAI from OpenAI,2
+2025-08-09T18:08,support,OpenAI from OpenAI,2025-08-09T18:20,amir,Amir Ahmadi,12
+2025-08-09T18:20,amir,Amir Ahmadi,2025-08-09T18:21,support,OpenAI from OpenAI,1
+2025-08-09T18:21,support,OpenAI from OpenAI,2025-08-09T18:24,amir,Amir Ahmadi,3
+2025-08-09T18:24,amir,Amir Ahmadi,2025-08-09T18:25,support,OpenAI from OpenAI,1
+2025-08-09T18:25,support,OpenAI from OpenAI,2025-08-09T18:35,amir,Amir Ahmadi,10
+2025-08-09T18:35,amir,Amir Ahmadi,2025-08-09T18:37,support,OpenAI from OpenAI,2
+2025-08-09T18:37,support,OpenAI from OpenAI,2025-08-09T18:41,amir,Amir Ahmadi,4
+2025-08-09T18:41,amir,Amir Ahmadi,2025-08-09T18:43,support,OpenAI from OpenAI,2
+2025-08-09T18:43,support,OpenAI from OpenAI,2025-08-09T18:47,amir,Amir Ahmadi,4
+2025-08-09T18:47,amir,Amir Ahmadi,2025-08-09T18:48,support,OpenAI from OpenAI,1
+2025-08-09T19:10,amir,Amir Ahmadi,2025-08-09T19:12,support,OpenAI from OpenAI,2
+2025-08-09T19:12,support,OpenAI from OpenAI,2025-08-09T19:14,amir,Amir Ahmadi,2
+2025-08-09T19:14,amir,Amir Ahmadi,2025-08-09T19:16,support,OpenAI from OpenAI,2
+2025-08-09T19:16,support,OpenAI from OpenAI,2025-08-09T19:20,amir,Amir Ahmadi,4
+2025-08-09T19:20,amir,Amir Ahmadi,2025-08-09T19:22,support,OpenAI from OpenAI,2
+2025-08-09T19:22,support,OpenAI from OpenAI,2025-08-09T19:26,amir,Amir Ahmadi,4
+2025-08-09T19:26,amir,Amir Ahmadi,2025-08-09T19:28,support,OpenAI from OpenAI,2
+2025-08-09T19:28,support,OpenAI from OpenAI,2025-08-09T21:55,amir,Amir Ahmadi,147
+2025-08-09T21:55,amir,Amir Ahmadi,2025-08-09T21:59,support,OpenAI from OpenAI,4
+2025-08-09T21:59,support,OpenAI from OpenAI,2025-08-09T22:02,amir,Amir Ahmadi,3
+2025-08-09T22:02,amir,Amir Ahmadi,2025-08-09T22:04,support,OpenAI from OpenAI,2
+2025-08-09T22:04,support,OpenAI from OpenAI,2025-08-09T22:29,amir,Amir Ahmadi,25
+2025-08-09T22:29,amir,Amir Ahmadi,2025-08-09T22:31,support,OpenAI from OpenAI,2
+2025-08-09T22:31,support,OpenAI from OpenAI,2025-08-09T22:39,amir,Amir Ahmadi,8
+2025-08-09T22:39,amir,Amir Ahmadi,2025-08-09T22:40,support,OpenAI from OpenAI,1
+2025-08-09T22:40,support,OpenAI from OpenAI,2025-08-09T22:45,amir,Amir Ahmadi,5
+2025-08-09T22:45,amir,Amir Ahmadi,2025-08-09T22:46,support,OpenAI from OpenAI,1
+2025-08-09T22:46,support,OpenAI from OpenAI,2025-08-09T22:55,amir,Amir Ahmadi,9
+2025-08-09T22:55,amir,Amir Ahmadi,2025-08-09T22:57,support,OpenAI from OpenAI,2
+2025-08-09T22:57,support,OpenAI from OpenAI,2025-08-09T23:13,amir,Amir Ahmadi,16
+2025-08-09T23:13,amir,Amir Ahmadi,2025-08-09T23:16,support,OpenAI from OpenAI,3
+2025-08-09T23:16,support,OpenAI from OpenAI,2025-08-09T23:27,amir,Amir Ahmadi,11
+2025-08-09T23:27,amir,Amir Ahmadi,2025-08-09T23:29,support,OpenAI from OpenAI,2
+2025-08-09T23:29,support,OpenAI from OpenAI,2025-08-10T00:07,amir,Amir Ahmadi,38
+2025-08-10T00:07,amir,Amir Ahmadi,2025-08-10T00:11,support,OpenAI from OpenAI,4
+2025-08-10T00:11,support,OpenAI from OpenAI,2025-08-10T00:14,amir,Amir Ahmadi,3
+2025-08-10T00:14,amir,Amir Ahmadi,2025-08-10T00:15,support,OpenAI from OpenAI,1
+2025-08-10T00:15,support,OpenAI from OpenAI,2025-08-10T00:28,amir,Amir Ahmadi,13
+2025-08-11T00:16,support,Operator from OpenAI,2025-08-11T02:26,amir,Amir Ahmadi,130
+2025-08-11T02:26,amir,Amir Ahmadi,2025-08-11T02:43,support,OpenAI from OpenAI,17
+2025-08-11T02:43,support,OpenAI from OpenAI,2025-08-11T05:40,amir,Amir Ahmadi,177
+2025-08-11T05:40,amir,Amir Ahmadi,2025-08-11T05:41,support,OpenAI from OpenAI,1
+2025-08-11T05:41,support,OpenAI from OpenAI,2025-08-11T06:12,amir,Amir Ahmadi,31
+2025-08-11T06:12,amir,Amir Ahmadi,2025-08-11T06:14,support,OpenAI from OpenAI,2
+2025-08-11T06:14,support,OpenAI from OpenAI,2025-08-11T06:30,amir,Amir Ahmadi,16
+2025-08-11T06:30,amir,Amir Ahmadi,2025-08-11T06:32,support,OpenAI from OpenAI,2
+2025-08-11T06:32,support,OpenAI from OpenAI,2025-08-11T06:48,amir,Amir Ahmadi,16
+2025-08-11T06:48,amir,Amir Ahmadi,2025-08-11T06:49,support,OpenAI from OpenAI,1
+2025-08-11T06:56,amir,Amir Ahmadi,2025-08-11T06:58,support,OpenAI from OpenAI,2
+2025-08-11T06:58,support,OpenAI from OpenAI,2025-08-11T07:05,amir,Amir Ahmadi,7
+2025-08-11T07:05,amir,Amir Ahmadi,2025-08-11T07:06,support,OpenAI from OpenAI,1
+2025-08-11T07:06,support,OpenAI from OpenAI,2025-08-11T20:29,amir,Amir Ahmadi,803
+2025-08-11T20:29,amir,Amir Ahmadi,2025-08-11T20:31,support,OpenAI from OpenAI,2
+2025-08-11T20:31,support,OpenAI from OpenAI,2025-08-11T20:38,amir,Amir Ahmadi,7
+2025-08-11T20:38,amir,Amir Ahmadi,2025-08-11T20:40,support,OpenAI from OpenAI,2
+2025-08-11T20:40,support,OpenAI from OpenAI,2025-08-11T21:17,amir,Amir Ahmadi,37
+2025-08-11T21:17,amir,Amir Ahmadi,2025-08-11T21:19,support,OpenAI from OpenAI,2
+2025-08-11T21:19,support,OpenAI from OpenAI,2025-08-11T21:32,amir,Amir Ahmadi,13
+2025-08-11T21:32,amir,Amir Ahmadi,2025-08-11T21:35,support,OpenAI from OpenAI,3
+2025-08-11T21:35,support,OpenAI from OpenAI,2025-08-11T21:41,amir,Amir Ahmadi,6
+2025-08-11T21:41,amir,Amir Ahmadi,2025-08-11T21:43,support,OpenAI from OpenAI,2
+2025-08-11T21:43,support,OpenAI from OpenAI,2025-08-11T21:52,amir,Amir Ahmadi,9
+2025-08-11T21:52,amir,Amir Ahmadi,2025-08-11T21:54,support,OpenAI from OpenAI,2
+2025-08-11T21:54,support,OpenAI from OpenAI,2025-08-11T21:58,amir,Amir Ahmadi,4
+2025-08-11T21:58,amir,Amir Ahmadi,2025-08-11T22:00,support,OpenAI from OpenAI,2
+2025-08-11T22:00,support,OpenAI from OpenAI,2025-08-12T06:26,amir,Amir Ahmadi,506
+2025-08-12T06:26,amir,Amir Ahmadi,2025-08-12T06:29,support,OpenAI from OpenAI,3
+2025-08-12T06:29,support,OpenAI from OpenAI,2025-08-12T06:49,amir,Amir Ahmadi,20
+2025-08-12T06:49,amir,Amir Ahmadi,2025-08-12T06:51,support,OpenAI from OpenAI,2
+2025-08-12T06:51,support,OpenAI from OpenAI,2025-08-12T08:36,amir,Amir Ahmadi,105
+2025-08-12T08:36,amir,Amir Ahmadi,2025-08-12T08:37,support,OpenAI from OpenAI,1
+2025-08-13T08:38,support,Operator from OpenAI,2025-08-14T01:19,amir,Amir Ahmadi,1001
+2025-08-14T01:19,amir,Amir Ahmadi,2025-08-14T01:21,support,OpenAI from OpenAI,2
+2025-08-14T01:21,support,OpenAI from OpenAI,2025-08-14T01:58,amir,Amir Ahmadi,37
+2025-08-14T01:58,amir,Amir Ahmadi,2025-08-14T02:00,support,OpenAI from OpenAI,2
+2025-08-14T02:00,support,OpenAI from OpenAI,2025-08-14T02:44,amir,Amir Ahmadi,44
+2025-08-14T02:44,amir,Amir Ahmadi,2025-08-14T02:46,support,OpenAI from OpenAI,2
+2025-08-14T02:46,support,OpenAI from OpenAI,2025-08-14T02:53,amir,Amir Ahmadi,7
+2025-08-14T02:53,amir,Amir Ahmadi,2025-08-14T02:55,support,OpenAI from OpenAI,2
+2025-08-14T02:55,support,OpenAI from OpenAI,2025-08-14T03:03,amir,Amir Ahmadi,8
+2025-08-14T03:03,amir,Amir Ahmadi,2025-08-14T03:05,support,OpenAI from OpenAI,2
+2025-08-14T03:05,support,OpenAI from OpenAI,2025-08-14T03:23,amir,Amir Ahmadi,18
+2025-08-14T03:23,amir,Amir Ahmadi,2025-08-14T03:26,support,OpenAI from OpenAI,3
+2025-08-14T03:26,support,OpenAI from OpenAI,2025-08-14T03:39,amir,Amir Ahmadi,13
+2025-08-14T03:39,amir,Amir Ahmadi,2025-08-14T03:40,support,OpenAI from OpenAI,1
+2025-08-14T10:29,support,Shaina from OpenAI,2025-08-14T16:42,amir,Amir Ahmadi,373
+2025-08-14T16:42,amir,Amir Ahmadi,2025-08-14T19:10,support,Joriz from OpenAI,148
+2025-08-14T19:10,support,Joriz from OpenAI,2025-08-14T20:56,amir,Amir Ahmadi,106
+2025-08-14T06:45,support,Integration User Quartz,2025-08-14T22:26,amir,Amir Ahmadi,941
+2025-08-14T07:45,support,Integration User Quartz,2025-08-15T00:09,amir,Amir Ahmadi,984
+2025-08-14T22:29,support,Support Team,2025-08-15T00:45,amir,Amir Ahmadi,136
+2025-08-15T00:11,support,Support Team,2025-08-15T00:58,amir,Amir Ahmadi,47
+2025-08-15T00:47,support,Support Team,2025-08-15T01:21,amir,Amir Ahmadi,34
+2025-08-15T01:00,support,Support Team,2025-08-15T01:26,amir,Amir Ahmadi,26
+2025-08-14T20:56,amir,Amir Ahmadi,2025-08-15T01:31,support,Joriz from OpenAI,275
+2025-08-15T01:31,support,Joriz from OpenAI,2025-08-15T02:00,amir,Amir Ahmadi,29
+2025-08-15T01:24,support,Support Team,2025-08-15T02:36,amir,Amir Ahmadi,72
+2025-08-15T01:29,support,Support Team,2025-08-15T03:06,amir,Amir Ahmadi,97
+2025-08-15T02:40,support,Support Team,2025-08-15T03:41,amir,Amir Ahmadi,61
+2025-08-15T02:00,amir,Amir Ahmadi,2025-08-15T04:02,support,Ana from OpenAI,122
+2025-08-15T03:09,support,Support Team,2025-08-15T04:36,amir,Amir Ahmadi,87
+2025-08-15T04:02,support,Ana from OpenAI,2025-08-15T04:45,amir,Amir Ahmadi,43
+2025-08-15T03:45,support,Support Team,2025-08-15T04:56,amir,Amir Ahmadi,71
+2025-08-15T04:45,amir,Amir Ahmadi,2025-08-15T23:45,support,Joshua from OpenAI,1140
+2025-08-15T04:39,support,Support Team,2025-08-16T05:48,amir,Amir Ahmadi,1509
+2025-08-15T23:45,support,Joshua from OpenAI,2025-08-16T05:51,amir,Amir Ahmadi,366
+2025-08-15T05:01,support,Support Team,2025-08-16T06:00,amir,Amir Ahmadi,1499
+2025-08-16T05:53,support,Support Team,2025-08-16T06:08,amir,Amir Ahmadi,15
+2025-08-16T06:10,support,Support Team,2025-08-16T06:17,amir,Amir Ahmadi,7
+2025-08-16T06:19,support,Support Team,2025-08-16T06:34,amir,Amir Ahmadi,15
+2025-08-16T06:33,support,Support Team,2025-08-16T07:13,amir,Amir Ahmadi,40
+2025-08-16T06:36,support,Support Team,2025-08-16T07:27,amir,Amir Ahmadi,51
+2025-08-16T07:30,support,Support Team,2025-08-16T07:55,amir,Amir Ahmadi,25
+2025-08-16T07:33,support,Support Team,2025-08-16T08:47,amir,Amir Ahmadi,74
+2025-08-16T08:58,support,Support Team,2025-08-16T09:43,amir,Amir Ahmadi,45
+2025-08-16T09:32,support,Support Team,2025-08-16T09:55,amir,Amir Ahmadi,23
+2025-08-16T09:45,support,Support Team,2025-08-16T10:05,amir,Amir Ahmadi,20
+2025-08-16T10:08,support,Support Team,2025-08-16T18:16,amir,Amir Ahmadi,488
+2025-08-16T10:32,support,Support Team,2025-08-16T18:57,amir,Amir Ahmadi,505
+2025-08-16T18:19,support,Support Team,2025-08-16T18:59,amir,Amir Ahmadi,40
+2025-08-16T19:33,support,Support Team,2025-08-16T22:44,amir,Amir Ahmadi,191
+2025-08-16T19:02,support,Support Team,2025-08-16T22:51,amir,Amir Ahmadi,229
+2025-08-16T22:54,support,Support Team,2025-08-17T01:06,amir,Amir Ahmadi,132
+2025-08-16T23:33,support,Support Team,2025-08-17T01:29,amir,Amir Ahmadi,116
+2025-08-17T01:10,support,Support Team,2025-08-17T04:08,amir,Amir Ahmadi,178
+2025-08-17T01:33,support,Support Team,2025-08-17T04:16,amir,Amir Ahmadi,163
+2025-08-17T04:12,support,Support Team,2025-08-17T04:18,amir,Amir Ahmadi,6
+2025-08-17T04:21,support,Support Team,2025-08-17T04:38,amir,Amir Ahmadi,17
+2025-08-17T04:34,support,Support Team,2025-08-17T09:33,amir,Amir Ahmadi,299
+2025-08-17T04:42,support,Support Team,2025-08-17T10:10,amir,Amir Ahmadi,328
+2025-08-17T10:13,support,Support Team,2025-08-17T11:03,amir,Amir Ahmadi,50
+2025-08-17T10:34,support,Support Team,2025-08-17T11:25,amir,Amir Ahmadi,51
+2025-08-17T11:07,support,Support Team,2025-08-17T11:41,amir,Amir Ahmadi,34
+2025-08-17T11:34,support,Support Team,2025-08-17T11:44,amir,Amir Ahmadi,10
+2025-08-17T11:45,support,Support Team,2025-08-17T11:56,amir,Amir Ahmadi,11
+2025-08-17T12:01,support,Support Team,2025-08-17T17:37,amir,Amir Ahmadi,336
+2025-08-17T12:33,support,Support Team,2025-08-17T17:46,amir,Amir Ahmadi,313
+2025-08-17T17:40,support,Support Team,2025-08-17T18:20,amir,Amir Ahmadi,40
+2025-08-17T18:23,support,Support Team,2025-08-17T19:21,amir,Amir Ahmadi,58
+2025-08-17T18:33,support,Support Team,2025-08-17T19:26,amir,Amir Ahmadi,53
+2025-08-17T19:25,support,Support Team,2025-08-17T19:28,amir,Amir Ahmadi,3
+2025-08-17T19:34,support,Support Team,2025-08-17T19:37,amir,Amir Ahmadi,3
+2025-08-17T19:35,support,Support Team,2025-08-17T19:39,amir,Amir Ahmadi,4
+2025-08-17T19:44,support,Support Team,2025-08-17T19:50,amir,Amir Ahmadi,6
+2025-08-17T19:54,support,Support Team,2025-08-17T19:56,amir,Amir Ahmadi,2
+2025-08-16T05:51,amir,Amir Ahmadi,2025-08-19T19:22,support,EJ from OpenAI,5131
+2025-08-19T19:22,support,EJ from OpenAI,2025-08-19T20:25,amir,Amir Ahmadi,63
+2025-08-17T19:58,support,Support Team,2025-08-19T20:56,amir,Amir Ahmadi,2938
+2025-08-19T21:05,support,Support Team,2025-08-19T21:26,amir,Amir Ahmadi,21
+2025-08-17T20:34,support,Support Team,2025-08-19T21:47,amir,Amir Ahmadi,2953
+2025-08-19T21:29,support,Support Team,2025-08-19T21:53,amir,Amir Ahmadi,24
+2025-08-19T22:04,support,Support Team,2025-08-19T22:35,amir,Amir Ahmadi,31
+2025-08-19T22:40,support,Support Team,2025-08-19T23:45,amir,Amir Ahmadi,65
+2025-08-19T23:51,support,Support Team,2025-08-20T00:19,amir,Amir Ahmadi,28
+2025-08-20T00:23,support,Support Team,2025-08-20T00:35,amir,Amir Ahmadi,12
+2025-08-20T00:40,support,Support Team,2025-08-20T01:07,amir,Amir Ahmadi,27
+2025-08-19T20:25,amir,Amir Ahmadi,2025-08-20T01:24,support,Hasel from OpenAI,299
+2025-08-20T01:13,support,Support Team,2025-08-20T01:33,amir,Amir Ahmadi,20
+2025-08-20T01:24,support,Hasel from OpenAI,2025-08-20T01:42,amir,Amir Ahmadi,18
+2025-08-20T01:39,support,Support Team,2025-08-20T02:19,amir,Amir Ahmadi,40
+2025-08-20T02:24,support,Support Team,2025-08-20T02:39,amir,Amir Ahmadi,15
+2025-08-20T02:44,support,Support Team,2025-08-20T02:58,amir,Amir Ahmadi,14
+2025-08-20T03:07,support,Support Team,2025-08-20T03:19,amir,Amir Ahmadi,12
+2025-08-20T03:25,support,Support Team,2025-08-20T03:45,amir,Amir Ahmadi,20
+2025-08-20T04:04,support,Support Team,2025-08-20T05:19,amir,Amir Ahmadi,75
+2025-08-20T05:25,support,Support Team,2025-08-20T05:48,amir,Amir Ahmadi,23
+2025-08-20T05:53,support,Support Team,2025-08-20T07:22,amir,Amir Ahmadi,89
+2025-08-20T07:28,support,Support Team,2025-08-20T07:37,amir,Amir Ahmadi,9
+2025-08-20T01:42,amir,Amir Ahmadi,2025-08-20T18:04,support,Hasel from OpenAI,982
+2025-08-20T18:04,support,Hasel from OpenAI,2025-08-20T22:57,amir,Amir Ahmadi,293
+2025-08-21T02:40,amir,Amir Ahmadi,2025-08-21T02:48,support,Genica from OpenAI,8
+2025-08-21T02:48,support,Genica from OpenAI,2025-08-21T03:56,amir,Amir Ahmadi,68
+2025-08-21T03:56,amir,Amir Ahmadi,2025-08-21T04:44,support,Genica from OpenAI,48
+2025-08-21T04:44,support,Genica from OpenAI,2025-08-21T05:04,amir,Amir Ahmadi,20
+2025-08-09T15:58,support,OpenAI from OpenAI,2025-08-22T04:53,amir,Amir Ahmadi,18055
+2025-08-11T08:46,support,Operator from OpenAI,2025-08-22T04:53,amir,Amir Ahmadi,15607
+2025-08-11T06:49,support,OpenAI from OpenAI,2025-08-22T04:53,amir,Amir Ahmadi,15724
+2025-07-21T22:35,support,Operator from OpenAI,2025-08-22T04:54,amir,Amir Ahmadi,45019
+2025-07-19T00:44,support,OpenAI from OpenAI,2025-08-22T04:57,amir,Amir Ahmadi,49213
+2025-08-22T04:56,support,Support Team,2025-08-22T05:08,amir,Amir Ahmadi,12
+2025-08-22T05:10,support,Support Team,2025-08-22T05:33,amir,Amir Ahmadi,23
+2025-08-22T05:35,support,Support Team,2025-08-22T05:52,amir,Amir Ahmadi,17
+2025-08-22T05:54,support,Support Team,2025-08-22T06:08,amir,Amir Ahmadi,14
+2025-08-22T04:23,support,Support Team,2025-09-05T16:14,amir,Amir Ahmadi,20871

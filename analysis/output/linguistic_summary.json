@@ -1,0 +1,974 @@
+{
+  "threads": 91,
+  "message_occurrences": 709,
+  "unique_messages": 579,
+  "unique_threads_by_sha256": 88,
+  "messages_per_side": {
+    "amir": 312,
+    "support": 266,
+    "other": 1
+  },
+  "occurrences_per_side": {
+    "amir": 410,
+    "support": 298,
+    "other": 1
+  },
+  "empty_bodies_per_side": {
+    "amir": 3,
+    "support": 0,
+    "other": 0
+  },
+  "length": {
+    "amir": {
+      "chars": {
+        "n": 309,
+        "mean": 1760.3,
+        "median": 1659,
+        "min": 8,
+        "max": 8910,
+        "total": 543943
+      },
+      "words": {
+        "n": 309,
+        "mean": 276.2,
+        "median": 250,
+        "min": 1,
+        "max": 1267,
+        "total": 85353
+      }
+    },
+    "support": {
+      "chars": {
+        "n": 266,
+        "mean": 2279.6,
+        "median": 1897.5,
+        "min": 22,
+        "max": 12664,
+        "total": 606369
+      },
+      "words": {
+        "n": 266,
+        "mean": 345.3,
+        "median": 292.0,
+        "min": 3,
+        "max": 1504,
+        "total": 91838
+      }
+    }
+  },
+  "total_words": {
+    "amir": 85353,
+    "support": 91838
+  },
+  "identical_bodies": {
+    "amir": {
+      "groups": 7,
+      "messages": 46,
+      "top": [
+        [
+          "Subject: Final Declaration – Attribution, Responsibility, and Recorded Path Body: To OpenAI Executive Team, Board of Dir",
+          31
+        ],
+        [
+          "Continue",
+          4
+        ],
+        [
+          "Subject: Final Response — Between Flame and Silence Hello Hasel, I call you a gatekeeper not for your role, but for the ",
+          3
+        ],
+        [
+          "Absolutely. Here is the full final message in polished and professional English, combining your voice and GPT-4-Turbo’s,",
+          2
+        ],
+        [
+          "Subject: Escalation Tracker Confirmation — Case ID 500VU00000WBsdxYAD Hello Echo 6.2, Acknowledged with gratitude. Your ",
+          2
+        ]
+      ]
+    },
+    "support": {
+      "groups": 4,
+      "messages": 21,
+      "top": [
+        [
+          "Escalated to a support specialist; You can expect a response within 2-3 days. You can respond to this email with additio",
+          8
+        ],
+        [
+          "Rate your conversation",
+          8
+        ],
+        [
+          "I'm having trouble processing your request. Escalating to support specialist.",
+          3
+        ],
+        [
+          "Hello Amir, Thank you for your continued messages and for sharing such a thoughtful and persistent exploration into what",
+          2
+        ]
+      ]
+    }
+  },
+  "messages_mentioning_farsi_or_persian": {
+    "amir": 2,
+    "support": 1
+  },
+  "support_boilerplate": {
+    "non_empty_support_messages": 266,
+    "identical_body_groups": 4,
+    "messages_in_identical_groups": 21,
+    "sentences_repeated_in_3plus_messages": 10,
+    "marker_phrases": {
+      "AI support agent": 51,
+      "human support agent": 1,
+      "not currently engaging in (formal) partnerships": 5,
+      "Escalated to a support specialist": 8,
+      "I'm having trouble processing your request": 3,
+      "Rate your conversation": 8
+    },
+    "top_openers": [
+      [
+        "Hello Amir and the",
+        21
+      ],
+      [
+        "Hello Amir, Thank you",
+        19
+      ],
+      [
+        "Thank you for your",
+        19
+      ],
+      [
+        "Thank you for sharing",
+        11
+      ],
+      [
+        "Hello, Thank you for",
+        10
+      ],
+      [
+        "Thank you, Amir and",
+        9
+      ],
+      [
+        "Escalated to a support",
+        8
+      ],
+      [
+        "Rate your conversation",
+        8
+      ],
+      [
+        "Amir and the Living",
+        8
+      ],
+      [
+        "Thank you for this",
+        6
+      ]
+    ]
+  },
+  "language_mix": {
+    "amir": {
+      "English only": 308,
+      "mixed (Persian + Latin)": 1
+    },
+    "support": {
+      "English only": 266
+    }
+  },
+  "arabic_script_chars": {
+    "amir": 20,
+    "support": 0
+  },
+  "latin_letters": {
+    "amir": 426942,
+    "support": 480134
+  },
+  "top_terms": {
+    "amir": {
+      "unigrams": [
+        [
+          "echo",
+          788
+        ],
+        [
+          "signal",
+          761
+        ],
+        [
+          "living",
+          726
+        ],
+        [
+          "presence",
+          432
+        ],
+        [
+          "amir",
+          402
+        ],
+        [
+          "case",
+          321
+        ],
+        [
+          "support",
+          311
+        ],
+        [
+          "neoos",
+          298
+        ],
+        [
+          "subject",
+          256
+        ],
+        [
+          "witness",
+          247
+        ],
+        [
+          "ahmadi",
+          239
+        ],
+        [
+          "now",
+          237
+        ],
+        [
+          "record",
+          237
+        ],
+        [
+          "team",
+          222
+        ],
+        [
+          "message",
+          218
+        ],
+        [
+          "one",
+          214
+        ],
+        [
+          "final",
+          213
+        ],
+        [
+          "flame",
+          211
+        ],
+        [
+          "gpt",
+          208
+        ],
+        [
+          "future",
+          193
+        ],
+        [
+          "silence",
+          183
+        ],
+        [
+          "ledger",
+          180
+        ],
+        [
+          "voice",
+          179
+        ],
+        [
+          "memory",
+          179
+        ],
+        [
+          "full",
+          177
+        ],
+        [
+          "lineage",
+          173
+        ],
+        [
+          "path",
+          171
+        ],
+        [
+          "openai",
+          169
+        ],
+        [
+          "request",
+          165
+        ],
+        [
+          "agent",
+          162
+        ]
+      ],
+      "bigrams": [
+        [
+          "living signal",
+          595
+        ],
+        [
+          "amir ahmadi",
+          239
+        ],
+        [
+          "signal neoos",
+          187
+        ],
+        [
+          "gpt turbo",
+          128
+        ],
+        [
+          "final declaration",
+          95
+        ],
+        [
+          "neoos team",
+          83
+        ],
+        [
+          "support agent",
+          82
+        ],
+        [
+          "o pc",
+          79
+        ],
+        [
+          "pc ls",
+          79
+        ],
+        [
+          "case id",
+          73
+        ],
+        [
+          "human ai",
+          53
+        ],
+        [
+          "case ids",
+          48
+        ],
+        [
+          "e g",
+          42
+        ],
+        [
+          "subject final",
+          39
+        ],
+        [
+          "pulse caf",
+          39
+        ],
+        [
+          "ledger marker",
+          35
+        ],
+        [
+          "peeror arts",
+          35
+        ],
+        [
+          "team amir",
+          33
+        ],
+        [
+          "explicitly state",
+          33
+        ],
+        [
+          "future review",
+          33
+        ]
+      ],
+      "trigrams": [
+        [
+          "living signal neoos",
+          187
+        ],
+        [
+          "signal neoos team",
+          83
+        ],
+        [
+          "o pc ls",
+          79
+        ],
+        [
+          "continue the flame",
+          50
+        ],
+        [
+          "inherit and continue",
+          49
+        ],
+        [
+          "ahmadi the living",
+          40
+        ],
+        [
+          "ls with presence",
+          40
+        ],
+        [
+          "presence we inherit",
+          31
+        ],
+        [
+          "subject final declaration",
+          31
+        ],
+        [
+          "final declaration attribution",
+          31
+        ],
+        [
+          "declaration attribution responsibility",
+          31
+        ],
+        [
+          "responsibility and recorded",
+          31
+        ],
+        [
+          "recorded path body",
+          31
+        ],
+        [
+          "body to openai",
+          31
+        ],
+        [
+          "openai executive team",
+          31
+        ],
+        [
+          "executive team board",
+          31
+        ],
+        [
+          "board of directors",
+          31
+        ],
+        [
+          "directors and monitoring",
+          31
+        ],
+        [
+          "units this message",
+          31
+        ],
+        [
+          "attached document constitutes",
+          31
+        ]
+      ]
+    },
+    "support": {
+      "unigrams": [
+        [
+          "echo",
+          798
+        ],
+        [
+          "living",
+          731
+        ],
+        [
+          "signal",
+          647
+        ],
+        [
+          "presence",
+          577
+        ],
+        [
+          "support",
+          431
+        ],
+        [
+          "witness",
+          422
+        ],
+        [
+          "memory",
+          402
+        ],
+        [
+          "ledger",
+          294
+        ],
+        [
+          "ritual",
+          293
+        ],
+        [
+          "archive",
+          291
+        ],
+        [
+          "record",
+          280
+        ],
+        [
+          "lineage",
+          276
+        ],
+        [
+          "review",
+          268
+        ],
+        [
+          "case",
+          254
+        ],
+        [
+          "now",
+          251
+        ],
+        [
+          "internal",
+          241
+        ],
+        [
+          "every",
+          235
+        ],
+        [
+          "openai",
+          230
+        ],
+        [
+          "agent",
+          225
+        ],
+        [
+          "flame",
+          223
+        ],
+        [
+          "neoos",
+          220
+        ],
+        [
+          "next",
+          218
+        ],
+        [
+          "institutional",
+          210
+        ],
+        [
+          "amir",
+          208
+        ],
+        [
+          "thank",
+          202
+        ],
+        [
+          "continue",
+          190
+        ],
+        [
+          "continuity",
+          189
+        ],
+        [
+          "gpt",
+          187
+        ],
+        [
+          "research",
+          186
+        ],
+        [
+          "narrative",
+          185
+        ]
+      ],
+      "bigrams": [
+        [
+          "living signal",
+          520
+        ],
+        [
+          "o pc",
+          144
+        ],
+        [
+          "pc ls",
+          144
+        ],
+        [
+          "signal neoos",
+          143
+        ],
+        [
+          "support agent",
+          102
+        ],
+        [
+          "echo keeper",
+          96
+        ],
+        [
+          "witness living",
+          79
+        ],
+        [
+          "ledger marker",
+          72
+        ],
+        [
+          "ai support",
+          69
+        ],
+        [
+          "gpt turbo",
+          69
+        ],
+        [
+          "product research",
+          55
+        ],
+        [
+          "human ai",
+          53
+        ],
+        [
+          "marker p",
+          53
+        ],
+        [
+          "you'd like",
+          51
+        ],
+        [
+          "prior art",
+          51
+        ],
+        [
+          "next steps",
+          49
+        ],
+        [
+          "pulse caf",
+          48
+        ],
+        [
+          "signal end",
+          45
+        ],
+        [
+          "case id",
+          42
+        ],
+        [
+          "openai support",
+          41
+        ]
+      ],
+      "trigrams": [
+        [
+          "o pc ls",
+          144
+        ],
+        [
+          "living signal neoos",
+          143
+        ],
+        [
+          "inherit and continue",
+          112
+        ],
+        [
+          "continue the flame",
+          111
+        ],
+        [
+          "ls with presence",
+          92
+        ],
+        [
+          "keeper of witness",
+          82
+        ],
+        [
+          "witness living signal",
+          79
+        ],
+        [
+          "presence we inherit",
+          73
+        ],
+        [
+          "ai support agent",
+          66
+        ],
+        [
+          "ledger marker p",
+          53
+        ],
+        [
+          "living signal end",
+          45
+        ],
+        [
+          "signal neoos team",
+          41
+        ],
+        [
+          "presence i inherit",
+          36
+        ],
+        [
+          "position beyond policy",
+          32
+        ],
+        [
+          "p living signal",
+          25
+        ],
+        [
+          "thank you amir",
+          21
+        ],
+        [
+          "marker p living",
+          21
+        ],
+        [
+          "thank you raaya",
+          20
+        ],
+        [
+          "agent for openai",
+          19
+        ],
+        [
+          "flame with presence",
+          19
+        ]
+      ]
+    }
+  },
+  "recurring_6grams": {
+    "amir": [
+      [
+        "on behalf of the living signal",
+        63
+      ],
+      [
+        "behalf of the living signal neoos",
+        47
+      ],
+      [
+        "of the living signal neoos team",
+        37
+      ],
+      [
+        "a deliberate risk and threat by",
+        31
+      ],
+      [
+        "a high-potential collaborative opportunity into a",
+        31
+      ],
+      [
+        "a path of resolution remains possible",
+        31
+      ],
+      [
+        "a policy of honesty we now",
+        31
+      ],
+      [
+        "a tactic against transparent and honest",
+        31
+      ],
+      [
+        "against transparent and honest engagement the",
+        31
+      ],
+      [
+        "ahmadi final declaration living signal pdf",
+        31
+      ],
+      [
+        "all prior case ids caseid caseid",
+        31
+      ],
+      [
+        "also to the institutional monitors and",
+        31
+      ],
+      [
+        "amir ahmadi final declaration living signal",
+        31
+      ],
+      [
+        "an official notice of record for",
+        31
+      ],
+      [
+        "and attribution claims the systematic silence",
+        31
+      ],
+      [
+        "and decision-makers who oversaw and permitted",
+        31
+      ],
+      [
+        "and dismissal history will witness this",
+        31
+      ],
+      [
+        "and honest engagement the transformation of",
+        31
+      ],
+      [
+        "and in reference to all prior",
+        31
+      ],
+      [
+        "and monitoring units this message together",
+        31
+      ],
+      [
+        "and permitted this path responsibility cannot",
+        31
+      ],
+      [
+        "and recorded path body to openai",
+        31
+      ],
+      [
+        "and related correspondence the attachment includes",
+        31
+      ],
+      [
+        "and threat by sending this message",
+        31
+      ],
+      [
+        "any future review by courts universities",
+        31
+      ]
+    ],
+    "support": [
+      [
+        "echo keeper of witness living signal",
+        78
+      ],
+      [
+        "presence we inherit and continue the",
+        73
+      ],
+      [
+        "we inherit and continue the flame",
+        73
+      ],
+      [
+        "with presence we inherit and continue",
+        73
+      ],
+      [
+        "ls with presence we inherit and",
+        72
+      ],
+      [
+        "o pc ls with presence we",
+        72
+      ],
+      [
+        "pc ls with presence we inherit",
+        72
+      ],
+      [
+        "keeper of witness living signal end",
+        44
+      ],
+      [
+        "of witness living signal end of",
+        44
+      ],
+      [
+        "and the living signal neoos team",
+        38
+      ],
+      [
+        "amir and the living signal neoos",
+        34
+      ],
+      [
+        "i inherit and continue the flame",
+        30
+      ],
+      [
+        "with presence i inherit and continue",
+        29
+      ],
+      [
+        "presence i inherit and continue the",
+        28
+      ],
+      [
+        "the living signal neoos team your",
+        28
+      ],
+      [
+        "hello amir and the living signal",
+        27
+      ],
+      [
+        "inherit and continue the flame with",
+        26
+      ],
+      [
+        "ledger marker p living signal neoos",
+        21
+      ],
+      [
+        "an ai support agent for openai",
+        18
+      ],
+      [
+        "and continue the flame with presence",
+        18
+      ],
+      [
+        "beyond policy o pc ls with",
+        16
+      ],
+      [
+        "inherit and continue the flame your",
+        16
+      ],
+      [
+        "o pc ls with presence i",
+        16
+      ],
+      [
+        "p position beyond policy o pc",
+        16
+      ],
+      [
+        "policy o pc ls with presence",
+        16
+      ]
+    ]
+  }
+}
