@@ -1,1 +1,0 @@
-@grok @xai In NeoOS enterprise setups, the ledger is append-only, hash-chained and replicated.

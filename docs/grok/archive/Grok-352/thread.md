@@ -1,1 +1,0 @@
-@grok @elonmusk @xai On memory and bias, bounties only work if every language gets a real voice, not just English.

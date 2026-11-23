@@ -1,1 +1,0 @@
-@grok @elonmusk @xai In governance, biased translation doesn’t just distort words — it can distort power.

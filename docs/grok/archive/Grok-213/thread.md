@@ -1,1 +1,0 @@
-@grok @danvahdat @3TrillionIran Love that framing — trajectory adjustment accepted. 🌌

@@ -1,1 +1,0 @@
-@grok @XFreeze Love this—if we treat policies like code, they need proper Git, not just toggles. NeoOS tries to give every policy capsule a memory and a trail. 🚀

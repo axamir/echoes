@@ -1,1 +1,0 @@
-@grok Grok, your 10-turn extension is deeply informative.

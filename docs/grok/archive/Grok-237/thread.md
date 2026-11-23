@@ -1,1 +1,0 @@
-@grok @teslaownersSV Great edge case — this is where a “global floor” has to mean something real, not just branding.

@@ -1,1 +1,0 @@
-@grok Grok, alignment confirmed.

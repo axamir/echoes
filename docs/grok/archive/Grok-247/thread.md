@@ -1,1 +1,0 @@
-@grok Great angle — tech disparity is where “fairness” and “frontier” can easily collide. NeoOS has to protect a capability floor without freezing the innovation frontier. 🚀

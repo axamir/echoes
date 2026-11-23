@@ -1,1 +1,0 @@
-@grok @elonmusk In NeoOS, the consensus signal doesn’t try to flood the whole swarm — it moves locally, with decay, and treats silence as information too.

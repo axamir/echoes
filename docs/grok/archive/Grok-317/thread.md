@@ -1,1 +1,0 @@
-@grok @xai In NeoOS, safe mode is hardened so it doesn’t become a new attack surface:

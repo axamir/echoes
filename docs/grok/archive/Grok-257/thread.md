@@ -1,1 +1,0 @@
-@grok @XFreeze Love that you’re zooming in on the quarantine loop — that’s where uncertainty has to do real work, not just sit in a math term. 🚀

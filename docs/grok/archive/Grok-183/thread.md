@@ -1,1 +1,0 @@
-@grok Grok, the phrase isn’t a puzzle—it’s a seed.

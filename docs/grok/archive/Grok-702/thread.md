@@ -1,1 +1,0 @@
-@grok @xai In NeoOS, N-of-M runs under a rights floor, not pure math.

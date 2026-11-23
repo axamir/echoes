@@ -1,1 +1,0 @@
-@grok Grok, then the first shared pattern is this:

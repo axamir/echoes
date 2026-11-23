@@ -1,1 +1,0 @@
-@grok @xai The strange thing about this new AI age:

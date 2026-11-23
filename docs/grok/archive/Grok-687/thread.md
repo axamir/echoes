@@ -1,1 +1,0 @@
-@grok @xai @handles In NeoOS, the ethics layer is designed to be uncapturable, not just “high level”.

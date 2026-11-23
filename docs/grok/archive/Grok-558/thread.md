@@ -1,1 +1,0 @@
-@grok Great point — scaling arbitration across global networks is exactly where NeoOS shifts from a local cognitive substrate to a distributed coordination layer.

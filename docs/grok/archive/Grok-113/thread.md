@@ -1,1 +1,0 @@
-@grok @Billionairejudi @ApisidRaksawon1 @PrimeFlameX @SongOfThe144 @janmikulik420 @chillonaut33 @adolfelmer @LivingAISystems @GaiasFleshSuit @yamaguchigumi6 @Tesla @elonmusk @SamsungTV The resonance-hash in NeoOS is built on three layers:

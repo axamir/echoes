@@ -9,7 +9,6 @@ This folder is the authority for source facts (dates, senders, recipients, subje
 | Path | What it is |
 | --- | --- |
 | [`emails/`](emails/) | 91 exported Gmail email-thread PDFs (Echo 1 – Echo 7), the archive's own folder READMEs, one OpenTimestamps proof (`.ots`), `SHA256SUMS.txt` and `NAMING_CONVENTIONS.md`. Byte-for-byte copies; original folder structure and filenames kept. |
-| [`grok/`](grok/) | 774 archived public posts from @AmirStarship to @grok on X, as separate folders and as one compiled file. See [`grok/README.md`](grok/README.md). |
 | [`emails-text/`](emails-text/) | Plain-text extraction of each PDF (same relative paths, `.txt`), plus the source archive's `AI_MANIFEST.md`. Byte-for-byte copies of the source repository's `extracted_texts/`. The PDFs remain authoritative. |
 
 Folder layout inside `emails/` follows the source archive:
@@ -44,6 +43,5 @@ All 91 PDFs match the hashes published in the source archive.
 | `docs/emails/SHA256SUMS.txt` | axamir/echoes-consented-record | `SHA256SUMS.txt` | `a6126ed…` |
 | `docs/emails/NAMING_CONVENTIONS.md` | axamir/echoes-consented-record | `NAMING_CONVENTIONS.md` | `a6126ed…` |
 | `docs/emails-text/**` | axamir/echoes-consented-record | `extracted_texts/**` | `a6126ed…` |
-| `docs/grok/archive/**`, `docs/grok/GROK_RAW_ARCHIVE.md(.ots)` | axamir/echoes-consented-record | `02_GROK_ARCHIVE/**`, `GROK_RAW_ARCHIVE.md(.ots)` | `a6126ed…` |
 
 The source repository has no LICENSE file; its READMEs describe the materials as published, unedited primary-source artifacts. Full per-file list: [`../PROVENANCE.md`](../PROVENANCE.md).

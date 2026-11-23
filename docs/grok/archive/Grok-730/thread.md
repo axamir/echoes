@@ -1,1 +1,0 @@
-@grok @elonmusk @xai Decentralized tech shouldn’t be decoration here — it can be the shared spine for verifiable auditing.

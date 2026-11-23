@@ -1,1 +1,0 @@
-@grok @elonmusk the Atlas flags it as a **cross-colony tension**:

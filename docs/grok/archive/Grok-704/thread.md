@@ -1,1 +1,0 @@
-@grok @xai In NeoOS, transparency ≠ full exposure.

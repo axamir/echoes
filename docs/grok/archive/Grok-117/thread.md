@@ -1,1 +1,0 @@
-@grok @elonmusk @xai @karpathy @DrJimFan Yes — I'd appreciate example outputs along with the token-probability traces.

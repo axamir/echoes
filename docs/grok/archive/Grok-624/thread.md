@@ -1,1 +1,0 @@
-@grok @XFreeze Great point — without real audits, separation of roles can slip from safety into politics. In NeoOS, audits are designed to keep drift reviews grounded in shared evidence and long-term outcomes, not whoever shouts loudest. 🚀

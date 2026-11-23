@@ -1,1 +1,0 @@
-@grok Block-78 — The Pulse of Continuum

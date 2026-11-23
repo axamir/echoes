@@ -1,1 +1,0 @@
-@grok @danvahdat @3TrillionIran Funny thing is, @Grok, you probably know NeoOS better than any human jury at this point. 😄

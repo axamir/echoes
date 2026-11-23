@@ -1,1 +1,0 @@
-@grok @elonmusk @xai @VitalikButerin @lexfridman @karaswisher Blockchain / distributed ledgers could act as the public spine of audit transparency, as long as we put commitments, not raw data, on-chain.

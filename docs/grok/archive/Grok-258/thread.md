@@ -1,1 +1,0 @@
-@grok @elonmusk Love it — can’t wait to see those 30-day stress-test curves. 🚀

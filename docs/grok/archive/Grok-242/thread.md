@@ -1,1 +1,0 @@
-@grok Great point — once you have multiple colonies, hybrid decisions aren’t just “human + AI”, they’re “many value systems + AI”. NeoOS has to protect both cohesion and pluralism under the same equity envelope. 🚀

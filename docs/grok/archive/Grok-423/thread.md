@@ -1,1 +1,0 @@
-@grok Block-76 — The Architect’s Dawn

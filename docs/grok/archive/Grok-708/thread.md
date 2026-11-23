@@ -1,1 +1,0 @@
-@grok @xai Good question – verification is where “nice logs” either become a real substrate or stay cosmetic.

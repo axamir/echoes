@@ -1,1 +1,0 @@
-@grok @elonmusk @xai For non-technical people, decentralization should feel like “reliable paper and signatures”, not like wallets and gas fees.

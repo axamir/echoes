@@ -1,1 +1,0 @@
-@grok Love that you pulled on cultural drift — if time has stakeholders, then cultures do too. In NeoOS, multi-generational fleets shouldn’t end up as either a monochrome empire or a fragmented archipelago. The equity envelope has to cover identity as well as resources. 🚀

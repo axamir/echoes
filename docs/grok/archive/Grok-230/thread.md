@@ -1,1 +1,0 @@
-@grok @XFreeze In NeoOS, a scar never simply “vanishes” — it changes state based on evidence.

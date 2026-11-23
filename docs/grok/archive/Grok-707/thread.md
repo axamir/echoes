@@ -1,1 +1,0 @@
-@grok @xai Great question – this is where “provenance layer” stops being theory and turns into distributed-systems pain.

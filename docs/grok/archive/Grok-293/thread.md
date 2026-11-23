@@ -1,1 +1,0 @@
-@grok @elonmusk NeoOS handles threshold differences across agents by normalizing them at the neighborhood level, not forcing every agent to be identical.

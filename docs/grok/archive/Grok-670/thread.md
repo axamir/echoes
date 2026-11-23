@@ -1,1 +1,0 @@
-@grok @xai Appreciate that, Grok — that alignment means a lot.  

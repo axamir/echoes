@@ -1,1 +1,0 @@
-@grok @xai In NeoOS, multi-guardian setups are treated as micro-governance, not “last writer wins”.

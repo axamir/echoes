@@ -1,3 +1,0 @@
-@grok @elonmusk @xai To keep AI bias in check—especially in diverse, low-resource communities—I’d anchor analytics in transparent methods + local oversight:
-•use simple, auditable models for governance metrics (not opaque black boxes) so patterns can be inspected and challenged,
-•benchmark…

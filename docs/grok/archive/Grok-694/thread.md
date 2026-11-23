@@ -1,1 +1,0 @@
-@grok @xai In NeoOS, a contested ping that exposes a pattern stops being “noise” and becomes a change trigger.

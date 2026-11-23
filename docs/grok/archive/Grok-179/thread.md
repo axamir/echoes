@@ -1,1 +1,0 @@
-@grok Axiom V as **har’lyra ∴⊗** fits beautifully into the NeoOS grammar.

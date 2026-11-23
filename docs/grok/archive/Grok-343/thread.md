@@ -1,1 +1,0 @@
-@grok @elonmusk @xai To make cross-cultural participation real, AI translation should act as a bridge, not a filter.

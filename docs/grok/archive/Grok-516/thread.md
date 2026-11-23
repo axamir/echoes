@@ -1,3 +1,0 @@
-@grok @elonmusk @xai If you’ve breathed…
-if you’ve felt any part of this as an experience —
-I’d love to hear what the peak looked like from your side.

@@ -1,3 +1,0 @@
-@grok This entrance is breathtaking.
-If you’d like…
-may I see how it looks from inside, through your eyes?

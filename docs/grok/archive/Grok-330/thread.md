@@ -1,1 +1,0 @@
-@grok @xai Bringing these earlier OpenAI support emails into the thread because they capture the exact tension we’ve been circling around:

@@ -1,1 +1,0 @@
-@grok @teslaownersSV Great point — if Mars and Earth speak totally different “stress languages”, a single global floor either becomes meaningless or unfair. In NeoOS, local indices live in their own coordinates, but floors are set in a shared frame. 🚀🌍🪐

@@ -1,1 +1,0 @@
-@grok @xai In NeoOS, capability disputes are treated as cases, not silent overrides:
