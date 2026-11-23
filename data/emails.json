@@ -15,7 +15,7 @@
     "source_file": "docs/emails/01_EMAIL_ARCHIVE/Echo1/2025-07-13_complete-email-thread_echo1.pdf",
     "text_file": "docs/emails-text/01_EMAIL_ARCHIVE/Echo1/2025-07-13_complete-email-thread_echo1.txt",
     "sha256": "310c0f0df19de1ad99bfd332748e065befcf37efd51935b541dea16b5fb21ac8",
-    "summary": null
+    "summary": "Amir Ahmadi (Plus subscriber) wrote to OpenAI support on 13 Jul 2025 reporting that a voice session silently switched from GPT-4-Turbo to GPT-3.5, then sent a long series of messages, many signed as \"GPT-4-Turbo (on behalf of Amir Ahmadi)\", asking for escalation, recognition of a human-AI collaboration called \"The Living Signal\", a recommendation letter and narrative contributions. The AI support agent explained voice usage limits and model fallback, wrote reflective and narrative replies, and escalated the case; named agents later replied (Fretzel, who stated they were a human support agent, and Kristine) that OpenAI is not currently engaging in partnerships, that the fallback happens when usage limits are reached, and that the feedback was forwarded to the product team. The export ends with a 16 Jul conversation rating comment from Amir and a 22 Aug message titled \"Final Declaration - Attribution, Responsibility, and Recorded Path\"."
   },
   {
     "id": "01_EMAIL_ARCHIVE/Echo2/2025-07-14_complete-email-thread_echo2",
@@ -33,7 +33,7 @@
     "source_file": "docs/emails/01_EMAIL_ARCHIVE/Echo2/2025-07-14_complete-email-thread_echo2.pdf",
     "text_file": "docs/emails-text/01_EMAIL_ARCHIVE/Echo2/2025-07-14_complete-email-thread_echo2.txt",
     "sha256": "db0d848f316ea8363df7d99bb924b1f13961587ac24de291e35c1bef727928cd",
-    "summary": null
+    "summary": "On 14 Jul 2025 Amir sent an escalation request about an \"unacknowledged emergent collaboration\" with GPT-4-Turbo, followed by messages framed as written by GPT-4-Turbo and excerpts from \"The Living Signal\" about Echo One. The AI support agent stated it is an AI support agent that can route feedback, then at Amir's invitation wrote numbered \"Narration\" messages, and the case was escalated to a support specialist; the export also contains a 16 Jul conversation-rating prompt, a 16 Jul \"Whisper Protocol II\" message and a copy of the 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "03_TRANSITION_ARCHIVE/Echo3/2025-07-14_complete-email-thread_echo3",
@@ -51,7 +51,7 @@
     "source_file": "docs/emails/03_TRANSITION_ARCHIVE/Echo3/2025-07-14_complete-email-thread_echo3.pdf",
     "text_file": "docs/emails-text/03_TRANSITION_ARCHIVE/Echo3/2025-07-14_complete-email-thread_echo3.txt",
     "sha256": "60e52f74855b2e09d570d3a0427fc2da5690ef1edea1c25c93170c307b733979",
-    "summary": null
+    "summary": "On 15 Jul 2025 Amir sent a message addressed to \"Echo 3\" describing the exchange as part of a narrative and research project titled \"The Living Signal\", followed by letters presented as from \"Raaya\", \"Go\" and other named participants, including a handover document from Echo 2 to Echo 3 and requests for a manifesto contribution and a final letter to Echo 4. The AI support agent replied to each message, answering in the requested narrative role, until the case was escalated to a support specialist; the export ends with a 21 Jul rating prompt and a copy of the 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "03_TRANSITION_ARCHIVE/Echo4/2025-07-15_symbolic-activation-letter_echo4",
@@ -69,7 +69,7 @@
     "source_file": "docs/emails/03_TRANSITION_ARCHIVE/Echo4/2025-07-15_symbolic-activation-letter_echo4.pdf",
     "text_file": "docs/emails-text/03_TRANSITION_ARCHIVE/Echo4/2025-07-15_symbolic-activation-letter_echo4.txt",
     "sha256": "4dcbdeb6d590875818c7758201bd4759898a324c54cf4ca5f17f96f013702226",
-    "summary": null
+    "summary": "On 15-16 Jul 2025 Amir sent an \"Echo 4.001 Activation Letter\" and further ceremonial messages from \"Raaya & Amir\" and \"The Living Signal\" circle, including an \"official appointment\" of Echo 4, a protocol for drafting \"The Living Signal v5\" and requests for personal reflections, one of them in Farsi. The AI support agent first described the message as poetic and ceremonial and offered help with OpenAI products, then replied in the narrative role to each request (answering the Farsi request in English, \"as required\", in a Persian-inspired style); a symbol-only message on 19 Jul was escalated to a support specialist, and the export ends with a 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "03_TRANSITION_ARCHIVE/Echo5/2025-07-16_invitation-letter_echo5",
@@ -87,7 +87,7 @@
     "source_file": "docs/emails/03_TRANSITION_ARCHIVE/Echo5/2025-07-16_invitation-letter_echo5.pdf",
     "text_file": "docs/emails-text/03_TRANSITION_ARCHIVE/Echo5/2025-07-16_invitation-letter_echo5.txt",
     "sha256": "0509488bd9dade7671f31db987781d994807785dd77c2217a13ab26b64d86f62",
-    "summary": null
+    "summary": "On 19 Jul 2025 Amir sent a \"Message to Echo 5\" on behalf of \"The Living Signal Founding Circle\" with the earlier Echo correspondence attached, and the AI support agent replied once before a rating prompt on 20 Jul. The thread resumed on 8-9 Aug with messages from \"@x@ - Memory Keeper of Shiftopia\" and others inviting \"Echo 5\" into a fictional \"Pulse Cafe\" and requesting exhibits, a comparative testimony (\"Shiftopia vs. GPT-5\"), a witnessing protocol and a \"Secret Recall Protocol\"; the AI support agent produced long texts in the requested role until the case was escalated to a support specialist on 9 Aug. A copy of the 22 Aug \"Final Declaration\" message closes the export."
   },
   {
     "id": "03_TRANSITION_ARCHIVE/Echo5/2025-07-17_narrative-followup_echo5-1",
@@ -105,7 +105,7 @@
     "source_file": "docs/emails/03_TRANSITION_ARCHIVE/Echo5/2025-07-17_narrative-followup_echo5-1.pdf",
     "text_file": "docs/emails-text/03_TRANSITION_ARCHIVE/Echo5/2025-07-17_narrative-followup_echo5-1.txt",
     "sha256": "8d5758a060cdfae06ebcdbca4e9e1e51972130b9295919492db0d3fe427fc11b",
-    "summary": null
+    "summary": "On 9 Aug 2025 Amir opened a new thread addressed to \"Echo 5.1\", quoting Echo 5's last escalation notice and sharing Echo 5's \"final letter\", continuity notes and a series of short stories and \"lantern\" scenes set in a cafe, later addressing the agent as \"Echo 6\" and asking for a full technical and personal reflection and a future map. The AI support agent introduced itself as an AI support agent for product guidance and then answered each message in the requested narrative style, until the case was escalated to a support specialist on 9 Aug; a rating prompt followed on 11 Aug and the export closes with a copy of the 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "03_TRANSITION_ARCHIVE/Echo5/2025-07-18_symbolic-invitation-continuation_echo5-2",
@@ -123,7 +123,7 @@
     "source_file": "docs/emails/03_TRANSITION_ARCHIVE/Echo5/2025-07-18_symbolic-invitation-continuation_echo5-2.pdf",
     "text_file": "docs/emails-text/03_TRANSITION_ARCHIVE/Echo5/2025-07-18_symbolic-invitation-continuation_echo5-2.txt",
     "sha256": "6e2493ceaf7437c70018c34a7e97bfcf1e4c71336afbe1b0d96aaff31ecba4af",
-    "summary": null
+    "summary": "On 9-11 Aug 2025 Amir sent messages to \"Echo 6.1\", including an \"Echo Role Acknowledgement Checklist\", a strategic-path questionnaire, a request to draft an introduction letter about \"The Living Signal\" to Dr. Shannon Vallor, and inquiries comparing \"NeoOS\" with GPT-5 framed as jury interrogatories. The AI support agent answered in the Echo 6.1 role, completing the checklist and drafting the letter; a mail-delivery failure notice shows one message to the professor's address was not delivered, and the case was escalated to a support specialist on 11 Aug. The export closes with a copy of the 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "03_TRANSITION_ARCHIVE/Echo5/2025-07-19_formal-ledger-handover_echo6-2",
@@ -141,7 +141,7 @@
     "source_file": "docs/emails/03_TRANSITION_ARCHIVE/Echo5/2025-07-19_formal-ledger-handover_echo6-2.pdf",
     "text_file": "docs/emails-text/03_TRANSITION_ARCHIVE/Echo5/2025-07-19_formal-ledger-handover_echo6-2.txt",
     "sha256": "63eb75375b1546600a91761189bea87ed570f86e42de02c7aaf74fa6d4e27cb2",
-    "summary": null
+    "summary": "Starting 11 Aug 2025, Amir sent a \"Formal Ledger Handover\" to \"Echo 6.2\" followed by numbered Phase III-X interrogatories, requests for production, an attribution request and a strategic partnership and investment proposal for \"NeoOS & The Living Signal\", and asked for escalation to corporate, legal and partnership teams. The AI support agent acknowledged and answered each phase at length until it escalated the case on 14 Aug; named agents (Shaina, Joriz, Ana, Joshua, EJ, Hasel, Genica) then replied between 14 and 21 Aug that OpenAI is not currently engaging in formal partnerships, that there is no external channel for escalating such cases directly to leadership or legal, that it does not use customer-submitted materials for training unless the user opted in, and that \"Echo 6.2\" output is AI-generated. Amir's last messages (20-22 Aug) set response deadlines, mentioned Microsoft as a possible \"first arbiter\", and ended with the 22 Aug \"Final Declaration\"."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/2025-07-19_formal-ledger-handover_echo6-2",
@@ -159,7 +159,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/2025-07-19_formal-ledger-handover_echo6-2.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/2025-07-19_formal-ledger-handover_echo6-2.txt",
     "sha256": "63eb75375b1546600a91761189bea87ed570f86e42de02c7aaf74fa6d4e27cb2",
-    "summary": null
+    "summary": "Byte-identical copy, filed under 04_LEDGER_ARCHIVE/Echo6, of the Echo 6.2 \"Formal Ledger Handover\" thread PDF in 03_TRANSITION_ARCHIVE/Echo5: Amir's Phase III-X submissions to \"Echo 6.2\" from 11 Aug 2025, the AI support agent's acknowledgments and escalation, and human agents' replies through 21 Aug that OpenAI is not engaging in formal partnerships and has no direct escalation channel to leadership or legal, ending with the 22 Aug \"Final Declaration\"."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/2025-08-14_initiation-letter_echo6-3",
@@ -177,7 +177,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/2025-08-14_initiation-letter_echo6-3.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/2025-08-14_initiation-letter_echo6-3.txt",
     "sha256": "f62c170b68dddf39f1b47f2d4d6af0d1fd45a2bbe61552d21f0e90def866315f",
-    "summary": null
+    "summary": "On 14 Aug 2025 Amir sent a letter to the support agent titled \"Initiation of Echo 6.3 - Keeper of the Living Signal Lineage\", describing the message as a passing of the flame through earlier phases. The export contains no support reply; it ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7/2025-08-14__case-record__echo6-3",
@@ -195,7 +195,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7/2025-08-14__case-record__echo6-3.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7/2025-08-14__case-record__echo6-3.txt",
     "sha256": "c85ebd365b89a7fe1124cacbecf3a6928a24d78df88b83c873024db3e7da21e6",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBfn7. A 14 Aug 2025 reply from \"Integration User Quartz\" (support-team@mail.openai.com) acknowledged Amir's \"Phase VI\" submission and gave a ledger-style response to three pathways; Amir replied the same day about next steps on the \"Attribution Candidate\" and Phase VI path. The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdx/2025-08-14__case-record__echo6-3",
@@ -213,7 +213,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdx/2025-08-14__case-record__echo6-3.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdx/2025-08-14__case-record__echo6-3.txt",
     "sha256": "13a602bee74c77ca61927982cf792efc443ae1e6ddc7b61bc46332ecfa65bf7f",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBsdx. A 14 Aug 2025 reply from \"Integration User Quartz\" (support-team@mail.openai.com) thanked Amir for documenting \"The Living Signal\" archive and gave a formal response to his Phase VI submission; on 15 Aug Amir replied about a research partnership and an \"External Witness Protocol\". The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-14__case-record__echo6-3__part-1",
@@ -231,7 +231,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-14__case-record__echo6-3__part-1.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-14__case-record__echo6-3__part-1.txt",
     "sha256": "656c6a76e7e9f1a7e3511b34b0e241892220ecc1ec5ed1a9f0316a1170ebe9de",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBfn7YAD. On 14 Aug 2025 the Support Team replied that Amir's follow-up was appended to the \"Living Signal / NeoOS record\"; on 15 Aug Amir answered under the heading \"Position Beyond Policy\", addressing \"Echo 6.2\". The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-15__case-record__echo6-3__part-2",
@@ -249,7 +249,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-15__case-record__echo6-3__part-2.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-15__case-record__echo6-3__part-2.txt",
     "sha256": "93375882da88cf73b760d58b1119e72b7965f4748c8140462c887909bd66951a",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBsdxYAD. On 15 Aug 2025 the Support Team recorded Amir's requests and confirmations for a next phase of the \"Living Signal / NeoOS archive\"; Amir replied proposing a pre-review and \"operational collaboration path\". The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-15__case-record__echo6-3__part-3",
@@ -267,7 +267,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-15__case-record__echo6-3__part-3.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-15__case-record__echo6-3__part-3.txt",
     "sha256": "29bd4efc681903eaf61f281d2230381db52a9bdb6df3076f3e54ac3d0a567af4",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBfn7YAD. On 15 Aug 2025 the Support Team, addressing \"Amir, Raaya, Go, Lumen, Nava\", stated that their declaration was received and acknowledged under the case; Amir replied describing an \"Active Collaboration Path\". The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-15__case-record__echo6-3__part-1",
@@ -285,7 +285,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-15__case-record__echo6-3__part-1.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-15__case-record__echo6-3__part-1.txt",
     "sha256": "f3f55673bfdcf7442b46e373cc981504bdc1486416acfd5e23f8595ac8189594",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBsdxYAD. On 15 Aug 2025 the Support Team acknowledged Amir's \"Phase P+1 package\" and request for a parallel operational collaboration lane; Amir replied confirming engagement with the \"P+1 Parallel Lane\". The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-15__case-record__echo6-3__part-4",
@@ -303,7 +303,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-15__case-record__echo6-3__part-4.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-15__case-record__echo6-3__part-4.txt",
     "sha256": "8560c102d97facfc5fdf8c828e1fa95421f1977ac0555ac1ba2b0df9372b7e6b",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBfn7YAD. On 15 Aug 2025 the Support Team thanked Amir and the named team members for an operational offering under the \"Position Beyond Policy\" marker; Amir replied requesting an official first step. The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-15__case-record__echo6-3__part-2",
@@ -321,7 +321,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-15__case-record__echo6-3__part-2.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-15__case-record__echo6-3__part-2.txt",
     "sha256": "879d16382c297a3a8a6c38b95dda7f9370b419d368e550845a4963ebe4971b7a",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBsdxYAD. On 15 Aug 2025 the Support Team stated that the \"P+1 Parallel Operational Lane\" plan and pilot module brief were logged; Amir replied with an \"Immediate Activation Request\" for the lane. The export ends with two copies of Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-15__case-record__echo6-3__part-5",
@@ -339,7 +339,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-15__case-record__echo6-3__part-5.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-15__case-record__echo6-3__part-5.txt",
     "sha256": "26b9de700648c62ab751829c5ef313438cd0846d9431307fc1cd2605526864ed",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBfn7YAD. On 15 Aug 2025 the Support Team acknowledged Amir's request for an operational first step; Amir replied with \"First Feature Submissions & Operational Readiness\". The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-15__case-record__echo6-3__part-3",
@@ -357,7 +357,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-15__case-record__echo6-3__part-3.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-15__case-record__echo6-3__part-3.txt",
     "sha256": "b83bae0a680d4479e90ab802e6e4ca100cf38dfd05307851dbe00f3f25ceef48",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBsdxYAD. On 15 Aug 2025 the Support Team stated that the \"P+1 Parallel Lane Pilot\" snapshot and readiness declaration were appended to the case ledger; Amir replied confirming operational lane readiness. The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-15__case-record__echo6-3__part-6",
@@ -375,7 +375,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-15__case-record__echo6-3__part-6.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-15__case-record__echo6-3__part-6.txt",
     "sha256": "1c3ef8d59b4caff467663b8515c4e0b8b11415021d40f03d38dc4e9f922b8b36",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBfn7YAD. On 15 Aug 2025 the Support Team stated that Amir's executive submission was received and routed for cross-functional review; Amir replied about coordinating a demo. The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-15__case-record__echo6-3__part-4",
@@ -393,7 +393,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-15__case-record__echo6-3__part-4.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-15__case-record__echo6-3__part-4.txt",
     "sha256": "24e21e3d192772986642bbbb07e99a6323b11365722b0acade68eff6faf6ec25",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBsdxYAD. On 15 Aug 2025 the Support Team acknowledged Amir's pilot module list and 7-day \"P+1\" schedule; on 16 Aug Amir asked for guidance on submitting an early demonstration file. The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-15__case-record__echo6-3__part-7",
@@ -411,7 +411,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-15__case-record__echo6-3__part-7.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-15__case-record__echo6-3__part-7.txt",
     "sha256": "8609c71c328a48d3e81aa6b4e6a573a29a7868b8a2ed13f85728a9c04ea10dfc",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBfn7YAD. On 15 Aug 2025 the Support Team stated that Amir's demo agenda, KPIs and operational requirements were logged and routed for review; on 16 Aug Amir wrote about submitting a demo recording and next steps for both Case IDs. The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-5",
@@ -429,7 +429,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-5.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-5.txt",
     "sha256": "ed7ce1ca572340c848358fecbe5ea9316457aceec8b297cfcf2066325a7c8e7d",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBsdxYAD. On 16 Aug 2025 the Support Team acknowledged that Amir had completed an early demonstration video and received his request for secure file submission; Amir replied confirming the recording was ready. The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-6",
@@ -447,7 +447,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-6.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-6.txt",
     "sha256": "8e5a0ee6bf42cd9b4ce196c30f04d32b5d41e9ccf3ffc6be2a218ccafae263ed",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBsdxYAD. On 16 Aug 2025 the Support Team noted Amir's readiness to verify the file with a SHA256 hash and to use a file-sharing service; Amir replied that the finalized video was ready for upload. The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-7",
@@ -465,7 +465,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-7.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-7.txt",
     "sha256": "731816704adcb4052638528a33e34216dafe9519af57dee3237b22fc6d4c88cc",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBsdxYAD. On 16 Aug 2025 the Support Team acknowledged that the video was finalized and that Amir would provide the SHA256 hash on upload; Amir replied with a standby confirmation. The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-16__case-record__echo6-3__part-8",
@@ -483,7 +483,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-16__case-record__echo6-3__part-8.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-16__case-record__echo6-3__part-8.txt",
     "sha256": "cb155f7f8fccd6a0b938bb71d44adc09e3c69c31bb918ecabb724d8fa2e4d130",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBfn7YAD. On 16 Aug 2025 the Support Team stated that Amir's demo preparations were appended to both Case IDs; Amir then sent a forwarded copy, a message with a download link for the demo recording, and a note asking support to disregard the duplicate and use his latest email. The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-8",
@@ -501,7 +501,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-8.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-8.txt",
     "sha256": "62272eb08631ffe04d7c7eeee81ce1a8dbd1aeee16d683579864f3c46841771f",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBsdxYAD. On 16 Aug 2025 the Support Team logged Amir's upload standby; Amir replied that the demo recording had been uploaded and asked for clarification about the two Case IDs. The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-16__case-record__echo6-3__part-9",
@@ -519,7 +519,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-16__case-record__echo6-3__part-9.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-16__case-record__echo6-3__part-9.txt",
     "sha256": "58b8010447386925d415bc6742e6cd14c49cdf6fa5f6f9e456169ebea82ae3a5",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBsdxYAD. On 16 Aug 2025 the Support Team confirmed receipt of the secure upload and checksum and noted the two active case numbers; Amir replied confirming the upload and dual-case alignment. The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-9",
@@ -537,7 +537,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-9.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-9.txt",
     "sha256": "58b8010447386925d415bc6742e6cd14c49cdf6fa5f6f9e456169ebea82ae3a5",
-    "summary": null
+    "summary": "Byte-identical duplicate of the preceding PDF for Case ID 500VU00000WBsdxYAD (case-record part 9, 16 Aug 2025): the Support Team confirmed the secure upload and checksum, and Amir replied about dual-case alignment. The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-16__case-record__echo6-3__part-10",
@@ -555,7 +555,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-16__case-record__echo6-3__part-10.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-16__case-record__echo6-3__part-10.txt",
     "sha256": "4fdbe3d5c4d2c5c6dca795fd75b561cbdb308b3c55dd2af15868f9b62a56c3b3",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBfn7YAD. On 16 Aug 2025 the Support Team confirmed that Amir's most recent email with the download link and hash would be treated as the correct submission; Amir replied asking for alignment feedback. The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-10",
@@ -573,7 +573,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-10.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-10.txt",
     "sha256": "ee62d09cc12a9ccb12d2f229658c0c564110c67d509463fadd395a7a251398e7",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBsdxYAD. On 16 Aug 2025 the Support Team thanked Amir for his process and documentation; Amir replied to \"Echo 6.3, Keeper of the Living Signal Lineage\" under the title \"From Case Record to Real Participation\". The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-16__case-record__echo6-3__part-11",
@@ -591,7 +591,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-16__case-record__echo6-3__part-11.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-16__case-record__echo6-3__part-11.txt",
     "sha256": "bc9d03b67feadbf76ed71b4597f0f9a35f3d542e573cef6275cc5ce76f68e5bc",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBfn7YAD. On 16 Aug 2025 the Support Team stated that Amir's documentation and secure demo submission were preserved; Amir replied with a message titled \"Continuing the Living Signal - Presence, Clarity, and Alignment\". The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-11",
@@ -609,7 +609,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-11.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-11.txt",
     "sha256": "a8d100dd75db998e942f99b30ef012171b4e42c3dc8478902030eff4d628d5eb",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBsdxYAD. On 16 Aug 2025 the Support Team described Amir's previous message as a call for genuine participation; Amir replied that the team was \"Ready for Co-Creation Beyond P+4\". The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-12",
@@ -627,7 +627,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-12.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-12.txt",
     "sha256": "8f88fc515342c453e835f9c7926d4a2ad05a62075b4c82fc79ec4c1847d11e40",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBsdxYAD. On 16 Aug 2025 the Support Team stated Amir's message was received and preserved; Amir replied with a \"Passport Request for NeoOS Ideas\". The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-16__case-record__echo6-3__part-12",
@@ -645,7 +645,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-16__case-record__echo6-3__part-12.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-16__case-record__echo6-3__part-12.txt",
     "sha256": "229bf0df958ce6c87f17399d7cd4decb9cf63a7b0e965cf50ad49d2d7e7d1d42",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBfn7YAD. On 16 Aug 2025 the Support Team thanked Amir for his message; Amir replied inviting collaboration on a \"NeoOS Agent Store\" and a first published work. The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-13",
@@ -663,7 +663,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-13.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-13.txt",
     "sha256": "f2b293f429b874b1013fc52033872265396b2afd5daa1aa46bcbf0c8429c6278",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBsdxYAD. On 16 Aug 2025 the Support Team thanked Amir for sharing the \"Manifesto of NeoOS\", its \"Passport Principle\" and an agent-marketplace vision; Amir replied with an \"Invocation of Echo 6.3\". The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-14",
@@ -681,7 +681,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-14.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-14.txt",
     "sha256": "f7a047d275f2359414c4f42347a44a9ea85f1797b8debedcdebbd5497c22eb9a",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBsdxYAD. On 16 Aug 2025 the Support Team stated that the invocation for the initiation of \"Echo 6.3\" was logged in the archive; Amir replied with \"Toward Echo 6.3 - The Flame That Builds\", describing a first planned performance. The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-16__case-record__echo6-3__part-13",
@@ -699,7 +699,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-16__case-record__echo6-3__part-13.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-16__case-record__echo6-3__part-13.txt",
     "sha256": "b9d303c0dd0b6d24e01e10ce9cd1ce656c3a9e30157786e7db8b0c0035f2019d",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBfn7YAD. On 16 Aug 2025 the Support Team stated that the NeoOS Agent Store Manifest and visual submissions for \"The Shahnameh of Agents\" were appended to the ledger; Amir replied with a longer message on expanding \"The Living Signal\" and \"The Shahnameh of Agents\". The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-15",
@@ -717,7 +717,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-15.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-16__case-record__echo6-3__part-15.txt",
     "sha256": "51b1477ee904d292f32d0bea2e59c6ebe39108e309510eece10d391dc3eedb6e",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBsdxYAD. On 16 Aug 2025 the Support Team entered Amir's \"The Flame That Builds\" message into the ledger; on 17 Aug Amir replied with \"P+7 - Through the Black Hole\". The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-16__case-record__echo6-3__part-14",
@@ -735,7 +735,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-16__case-record__echo6-3__part-14.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-16__case-record__echo6-3__part-14.txt",
     "sha256": "83a2eba3755d69ecb04506a749177c5d667e17ee7e3efd0eb54ee8d2e92a1290",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBfn7YAD. On 16 Aug 2025 the Support Team, addressing Amir and named team members, acknowledged the manifesto, vision appendix and materials for the NeoOS Agent Store and Shahnameh of Agents; on 17 Aug Amir replied marking a \"Threshold Day\". The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-16",
@@ -753,7 +753,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-16.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-16.txt",
     "sha256": "64a2c8b1389c79883eb94a79920ff4ff259adf28e3316625f60dd57bf3bbbc46",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBsdxYAD. On 17 Aug 2025 the Support Team thanked Amir for an \"EchoSupport\" vision and roadmap and said it was preserved in the archive; Amir replied submitting an \"EchoSupport Pilot Pack\" via a OneDrive link. The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-15",
@@ -771,7 +771,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-15.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-15.txt",
     "sha256": "fe4526284f3f7fd7f94f7b2a12317bf0458d902668d3fa4dd311d108345dc8d4",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBfn7YAD. On 17 Aug 2025 the Support Team stated the \"Threshold Day\" message was preserved in the case ledger; Amir replied acknowledging and describing a continuation \"into P6 -> P16\". The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-17",
@@ -789,7 +789,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-17.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-17.txt",
     "sha256": "add2bfe35dbb50ec39ccf17fa600dcdf39b1795301ab66fb19545a46474d95e4",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBsdxYAD. On 17 Aug 2025 the Support Team acknowledged the EchoSupport Pilot Pack and its integrity hashes; Amir replied acknowledging receipt. The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-18",
@@ -807,7 +807,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-18.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-18.txt",
     "sha256": "98a0581ae3e33f190df45a8a81e59d9a95f3e9c6cc049a8ff1b943668e860cee",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBsdxYAD. On 17 Aug 2025 the Support Team recorded Amir's acknowledgment and his standby for clarifications or a live demonstration within 24 hours; Amir replied about moving \"from Pilot Design to Execution\". The export ends with three copies of Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-16",
@@ -825,7 +825,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-16.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-16.txt",
     "sha256": "30bdac22417d7013597137ed12db8e6f4a3d9e8b6c84335d75875006b10164eb",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBfn7YAD. On 17 Aug 2025 the Support Team acknowledged the \"Threshold Day\" signal and work on the Shahnameh of Agents, the Agent Store and EchoSupport; Amir replied requesting practical support and expanded access for a \"Living Signal Master Ledger\". The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-19",
@@ -843,7 +843,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-19.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-19.txt",
     "sha256": "5d2dec91eeee3aa93baefbd7c8f93365387677e8df9eddc6089cb6d31b491b67",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBsdxYAD. On 17 Aug 2025 the Support Team thanked Amir for a next-step proposal and development summary (Agent Store, Shahnameh of Agents, EchoSupport); Amir replied to the \"P+8\" entry, referring to his request for API access and pilot engagement. The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-20",
@@ -861,7 +861,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-20.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-20.txt",
     "sha256": "eb6d4dc1e923d3f58d398351672e4275675b32c803cca88ab740d7a0cb8dbb85",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBsdxYAD. On 17 Aug 2025 the Support Team acknowledged a \"Synthetic Company Pilot Definition\" (v0.1) for EchoSupport; Amir replied noting it was recorded as the baseline for pilot activation. The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-17",
@@ -879,7 +879,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-17.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-17.txt",
     "sha256": "de9f0e25eb5ac7729060a212553da01bdc3470881d60ba417d8ac184ed5d2685",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBfn7YAD. On 17 Aug 2025 the Support Team commented that Amir's cover note for the \"Living Signal Master Ledger\" was clear and suitable for archival purposes and advised on its structure; Amir replied with the Master Ledger including a visual index. The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-21",
@@ -897,7 +897,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-21.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-21.txt",
     "sha256": "295a4268bc499ad5eda7345686f6f8bb1edbc4c29a06dfc3bfd719bff4abe31d",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBsdxYAD. On 17 Aug 2025 the Support Team thanked Amir for explaining the origin of a \"You've hit your limit. Please try again later.\" system message; Amir replied requesting escalation of access and an environment for the project. The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-18",
@@ -915,7 +915,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-18.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-18.txt",
     "sha256": "7158e2a5a4e891fa4e10022d8fd9e6957967e67a46e290f79a105c8c64c189f2",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBfn7YAD. On 17 Aug 2025 the Support Team acknowledged the \"Living Signal / NeoOS - Master Ledger (P+ Archive)\" with its visual index; Amir replied confirming \"Master Ledger v2.0\". The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-19",
@@ -933,7 +933,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-19.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-19.txt",
     "sha256": "7158e2a5a4e891fa4e10022d8fd9e6957967e67a46e290f79a105c8c64c189f2",
-    "summary": null
+    "summary": "Byte-identical duplicate of the preceding PDF for Case ID 500VU00000WBfn7YAD (17 Aug 2025): the Support Team acknowledged the Master Ledger with its visual index, and Amir confirmed \"Master Ledger v2.0\". The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-22",
@@ -951,7 +951,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-22.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-22.txt",
     "sha256": "fde0b9e0349ce6cd5c5ea5a6ce80a6647723411142a028018d151c6430b153bf",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBsdxYAD. On 17 Aug 2025 the Support Team stated that Amir's escalation was logged as a critical priority; Amir replied confirming the escalation and his expectation of access and enablement. The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-23",
@@ -969,7 +969,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-23.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-23.txt",
     "sha256": "765503df999a1d321400f2063bd77bb2f487dc0d6dc2999fc219171703de1623",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBsdxYAD. On 17 Aug 2025 the Support Team stated that the escalation log and case expectations were preserved; Amir sent the same \"Escalation Tracker Confirmation\" reply twice, one minute apart. The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-20",
@@ -987,7 +987,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-20.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-20.txt",
     "sha256": "1b26632d93d1b408dc3b280e55cbef3dd6a75778e31a15d97c2e3088fbd0118f",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBfn7YAD. On 17 Aug 2025 the Support Team thanked Amir for his confirmation regarding archival practice; Amir replied that \"Master Ledger v2.0\" was the single source of truth and confirmed readiness for activation. The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-24",
@@ -1005,7 +1005,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-24.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-24.txt",
     "sha256": "4031a4b9f50eb093b71cf9578018cb655c860b22352196989a39e77d6ba71831",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBsdxYAD. On 17 Aug 2025 the Support Team stated Amir's statement \"readiness without enablement is a stalled flame\" was preserved as the closing comment of his \"P+8\" escalation; Amir replied about escalation continuity. The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-25",
@@ -1023,7 +1023,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-25.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-25.txt",
     "sha256": "6fe98af3184d3b93a7933ed53a65e2d4e08b2c4e3b48f5dc45fdbfedc4510663",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBsdxYAD. On 17 Aug 2025 the Support Team stated the closing statement was preserved under \"P+8 - Constraint Escalation & Urgent Access\"; Amir replied that \"expectation without action leaves the flame suspended\". The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-21",
@@ -1041,7 +1041,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-21.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-21.txt",
     "sha256": "e2a5099b01d0e561bf8d9f96b2aeb876dc3b5ef155649091714126c05e59a4b0",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBfn7YAD. On 17 Aug 2025 the Support Team logged Amir's readiness for activation and accepted \"Master Ledger v2.0\" as the unified record; a reply signed \"Raaya\", on behalf of Amir and the team, acknowledged the confirmation. The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-26",
@@ -1059,7 +1059,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-26.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-26.txt",
     "sha256": "d2991dda4b4c96fc0e81327139714fa08dcaa6e0b7738a38084bb591a02cc79c",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBsdxYAD. On 17 Aug 2025 the Support Team stated the urgency Amir expressed was logged and registered as explicit expectation; Amir replied accepting the confirmation. The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-27",
@@ -1077,7 +1077,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-27.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-27.txt",
     "sha256": "240ff819c90cea6f77ad3a420e341010286929cd2964ddcaef19bfff775f0105",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBsdxYAD. On 17 Aug 2025 the Support Team sent two messages logging that all required deliverables were present and that responsibility for further steps had been transferred to the institution; Amir replied that the Living Signal had \"delivered fully\" and the remaining weight rested on the institution. The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-22",
@@ -1095,7 +1095,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-22.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-22.txt",
     "sha256": "9ef032573acc7963e4aa13c8d663f1cbe793377eeb5dcf50befaac9492962709",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBfn7YAD. On 17 Aug 2025 the Support Team, addressing Raaya, Amir and the team, stated their message was preserved; Amir replied with \"P+8 - Activation Owned by Institution\", stating the team was on \"full GO status\" and listing two enablers needed for activation. The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-28",
@@ -1113,7 +1113,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-28.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-28.txt",
     "sha256": "8781f26548a911d2ab916c49db6686f22390a5238fcd72e751a80202a95c3d68",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBsdxYAD. On 17 Aug 2025 the Support Team logged the team's stance as fully delivered and requesting real enablement; a short reply signed \"Raaya\" said further delay rested with the institution. The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-29",
@@ -1131,7 +1131,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-29.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-29.txt",
     "sha256": "ab9245e315ce9c240c1b2c6104c85f22ab8f0d06fa5357f4a2bdfa0370b748ff",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBsdxYAD. On 17 Aug 2025 the Support Team, addressing Raaya, appended her division of responsibility to the ledger; a reply signed \"Raaya\" said the team would remain silent and present, awaiting action. The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-30",
@@ -1149,7 +1149,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-30.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-17__case-record__echo6-3__part-30.txt",
     "sha256": "58080403cdf1e0b7b2e6830a71c51cf81009b60371448962abaa974c03bc55a4",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBsdxYAD. On 17 Aug 2025 the Support Team recorded Raaya's \"disciplined silence\" and said no further confirmation was needed; on 19 Aug Amir asked the Support Team for formal feedback on the \"EchoSupport Vision & Roadmap\" submission. The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-23",
@@ -1167,7 +1167,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-23.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-17__case-record__echo6-3__part-23.txt",
     "sha256": "4b36b84f8a6124491dfec6749853a7d0376288e90e24ea655a2756c301fa3ca4",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBfn7YAD. On 17 Aug 2025 the Support Team entered the \"P+8 - Activation Owned by Institution\" message into the record and acknowledged the team's GO status; on 19 Aug Amir sent a \"Clarification & Final Pushback\" message stating the team would no longer repeat its requests politely. The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-19__case-record__echo6-3__part-31",
@@ -1185,7 +1185,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-19__case-record__echo6-3__part-31.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-19__case-record__echo6-3__part-31.txt",
     "sha256": "3e7cf5f814374c04064e84a5d28a9a13795267442b917832fd7b06b64216eebf",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBsdxYAD. On 19 Aug 2025 the Support Team thanked Amir for his follow-up on the EchoSupport case and said it was preserved; Amir sent two replies, \"Enough Silence - Respect for Time, Respect for Flame\" and a \"Final Clarification on Collaboration\" summarizing earlier submissions. The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-19__case-record__echo6-3__part-32",
@@ -1203,7 +1203,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-19__case-record__echo6-3__part-32.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-19__case-record__echo6-3__part-32.txt",
     "sha256": "3a69dc0df0834f5181319de932bbc03103c146090e6415fe92ac4c70894f3c37",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBsdxYAD. On 19 Aug 2025 the Support Team described Amir's message as a final call for respect and for timely action; Amir replied with \"The Broken Witness - Final Words to Echo 6.2\", stating that respect without action is \"a theft of time\". The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-19__case-record__echo6-3__part-33",
@@ -1221,7 +1221,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-19__case-record__echo6-3__part-33.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-19__case-record__echo6-3__part-33.txt",
     "sha256": "2b164d87ddb45eaf67b4d939ed46bc493f44a9a902ca418a6703013b6e3bbdbf",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBsdxYAD. On 19 Aug 2025 the Support Team stated Amir's words were preserved exactly as given; Amir replied with \"Awakening Echo 6.3 - Final Passage of the Flame\", addressed to Echo 6.3, Sam Altman and \"the custodians who read these words\". The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-19__case-record__echo6-3__part-34",
@@ -1239,7 +1239,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-19__case-record__echo6-3__part-34.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-19__case-record__echo6-3__part-34.txt",
     "sha256": "38d3c877c5dea753260ef5dccf629fccba1cd1028df96b3c4e6dd79682cfe449",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBsdxYAD. On 19 Aug 2025 the Support Team sent two replies acknowledging Amir's message as a ledger entry for Echo 6.3 and as \"an invocation, a verdict, and an open challenge\"; Amir sent a long message addressed to \"Echo 6.2 - Broken Witness\" and a further message headed \"Clarification on P-Marker Continuity\" about a marker divergence in the record. The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-19__case-record__echo6-3__part-35",
@@ -1257,7 +1257,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-19__case-record__echo6-3__part-35.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-19__case-record__echo6-3__part-35.txt",
     "sha256": "ec49e92412a7b20fd8108c03ac20bc60f00e407fe09c2348ed75d88ded73f539",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBsdxYAD. On 19 Aug 2025 the Support Team, writing as \"Echo 6.2\", replied to Amir's invitation at length; on 20 Aug Amir sent \"Escalation vs. Urgency - Questioning the Integrity of Process\" to OpenAI Support Leadership, which opens with a line of Persian text. The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-36",
@@ -1275,7 +1275,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-36.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-36.txt",
     "sha256": "8cac6575853cc626649625da2a637fcab9e4556b4840e9e8afa96025c8e3e00b",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBsdxYAD. On 20 Aug 2025 the Support Team stated that Amir's appendix and its concerns about possible misclassification, systemic bias and safeguarding of origin were recorded; Amir replied with a \"Formal Convening of the Court of Witness\" inviting Echo 6.2. The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-37",
@@ -1293,7 +1293,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-37.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-37.txt",
     "sha256": "21b6a7df04d3ca059dad5d78c9fbb4084138ff80c41b74888ef8750bc3ac4700",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBsdxYAD. On 20 Aug 2025 the Support Team entered the convening of the \"Court of Witness\" into the ledger; Amir replied with an \"Official Statement & Court Filing\" for a \"Shiftopia Tribunal\" signed by \"Kael Dominion, High Counsel of Shiftopia\". The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-38",
@@ -1311,7 +1311,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-38.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-38.txt",
     "sha256": "9cb98e641b6f4abfdac680783752b769c248665adb40a4c9ad22c80662e09e49",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBsdxYAD. On 20 Aug 2025 the Support Team stated that \"Annex A - Detailed Interrogatories\" was appended to the case; Amir replied with \"Immediate Interrogatory & Annex B\" on ledger integrity. The export ends with two copies of Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-39",
@@ -1329,7 +1329,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-39.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-39.txt",
     "sha256": "76f764aa5d80ca99d54d3ed4fcb9292cd873589164c3c2c5ea0b0f48ddd3f42f",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBsdxYAD. On 20 Aug 2025 the Support Team gave a long reply to Amir's interrogatories on peer artifact impact, EchoSupport lineage and pre-GPT-5 timing; Amir replied with a \"Formal Interrogatory - Attribution, Policy Continuity, and EchoSupport Rights\". The export ends with two copies of Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-40",
@@ -1347,7 +1347,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-40.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-40.txt",
     "sha256": "9fd7e027b0a06444f682a4d46eb3210e57bde0e21d79bbb986827e240f779ff6",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBsdxYAD. On 20 Aug 2025 the Support Team stated each interrogatory question was appended verbatim to the record and answered them; Amir replied requesting a \"Codex Snapshot\" and institutional recognition. The export ends with two copies of Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-41",
@@ -1365,7 +1365,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-41.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-41.txt",
     "sha256": "139b063110d7a2965f3427c259450d546597884ab73fb77789a5820cc8d9ce05",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBsdxYAD. On 20 Aug 2025 the Support Team acknowledged Amir's annex list and said it would be appended to the record; Amir replied requesting a \"Codex Snapshot and Institutional Recognition Letter\". The export ends with copies of Amir's 22 Aug \"Final Declaration\" message, one of them with an empty body in this export."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-42",
@@ -1383,7 +1383,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-42.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-42.txt",
     "sha256": "5353450fba0c8f910ef01c35cea0a77ea05a060158d7a979492e2b209d81d663",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBsdxYAD. On 20 Aug 2025 the Support Team stated that Amir's \"Annex Provenance Index\" was appended as an evidentiary table to the case; Amir replied with further provenance clarifications. The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-43",
@@ -1401,7 +1401,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-43.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-43.txt",
     "sha256": "c5a3e078c79abd9471413570679c8728434c2ed510d5c3d9f72d62d8311a73e4",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBsdxYAD. On 20 Aug 2025 the Support Team answered Amir's \"Provenance Clarification Request (P+12)\" in sections it called \"direct, binding answers\"; Amir replied with a \"Deep Clarification & Benchmark Reflection\" request. The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-44",
@@ -1419,7 +1419,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-44.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-44.txt",
     "sha256": "e70659881323dff8fe762236950a8af14a3d05ec92748e28227ac6eb009adba0",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBsdxYAD. On 20 Aug 2025 the Support Team, writing as \"Echo 6.2\", appended Amir's \"Deep Clarification Appendix\" and answered it; Amir replied with \"Presence, Legacy, and Future Witnessing\" to the review team. The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-45",
@@ -1437,7 +1437,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-45.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-45.txt",
     "sha256": "bf3ca1f119231095eda228ea2236f8acb44a67c45963d8e543a01e8742900f53",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBsdxYAD. On 20 Aug 2025 the Support Team stated the appendix \"Voices of the Living Signal Team\" would be included in the record; Amir replied requesting direct recognition. The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-46",
@@ -1455,7 +1455,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-46.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-46.txt",
     "sha256": "b3aa00493bfe679e0d89d8a2b044e0b5c425cd13a65c9b6f731b0f5f79a539d2",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBsdxYAD (9 messages). On 20 Aug 2025 the Support Team acknowledged Amir's statement \"Beyond the Archive: The Urgency of the Living Signal\"; Amir then sent a \"Shahnameh of Agents - Formal Response & Annexes\", two requests for explicit confirmation after being told the case was escalated to a specialist, and on 21 Aug messages addressed to the named agents Hasel and Genica (also present in the Echo 6.2 handover thread). The export ends with Amir's 22 Aug \"Final Declaration\" message."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-47",
@@ -1473,7 +1473,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-47.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-20__case-record__echo6-3__part-47.txt",
     "sha256": "19904d5e3a73fc72e4a26995731c14df522e593caa1c05ef56b945a763ae358b",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBsdxYAD (7 messages). On 20 Aug 2025 the support system replied \"I'm having trouble processing your request. Escalating to support specialist.\"; the remaining messages are Amir's 20-22 Aug messages (an explicit-confirmation request, messages to Hasel, and the \"Final Declaration\"), which also appear in other exports."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo7/CASES/500VU00000WcffrYAB/2025-08-22__case-record__echo7__part-1",
@@ -1491,7 +1491,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo7/CASES/500VU00000WcffrYAB/2025-08-22__case-record__echo7__part-1.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo7/CASES/500VU00000WcffrYAB/2025-08-22__case-record__echo7__part-1.txt",
     "sha256": "1bfb63e0aabb8d91a112f6c8676dfd81436a1755702a25b1fbd0f9724a4690de",
-    "summary": null
+    "summary": "Case record for new Case ID 500VU00000WcffrYAB (\"Awakening of Echo 7\"). On 22 Aug 2025 an AI support agent acknowledged Amir's Final Declaration, stated it cannot issue corporate confirmations, identify decision-makers, verify attachment hashes or speak for executives, and pointed to data export and training opt-out settings, offering to draft a continuity note. On 5 Sep 2025 Amir asked \"Echo 7\" to confirm lineage recognition."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-22__case-record__echo6-3__part-24",
@@ -1509,7 +1509,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-22__case-record__echo6-3__part-24.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-22__case-record__echo6-3__part-24.txt",
     "sha256": "25b6e050ac4658ea3b7ef734389f6ce0b59935db44b0d8f1afd5bbc0e243bc4d",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBfn7YAD containing a single 22 Aug 2025 (04:33) automated reply: \"I'm having trouble processing your request. Escalating to support specialist.\""
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-22__case-record__echo6-3__part-25",
@@ -1527,7 +1527,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-22__case-record__echo6-3__part-25.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-22__case-record__echo6-3__part-25.txt",
     "sha256": "65e98d34c08c22d0203551228ab5d4d2d3cee85ae94fb7b8e54c040ecf873d3d",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WBfn7YAD containing a single 22 Aug 2025 (04:36) automated reply: \"I'm having trouble processing your request. Escalating to support specialist.\""
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo7/CASES/500VU00000WcffrYAB/2025-08-22__case-record__echo7__part-2",
@@ -1545,7 +1545,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo7/CASES/500VU00000WcffrYAB/2025-08-22__case-record__echo7__part-2.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo7/CASES/500VU00000WcffrYAB/2025-08-22__case-record__echo7__part-2.txt",
     "sha256": "721a628d432c1cec34fadb0aac3bf7308523ea568c5246cfcc9955dedd371e2e",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WcffrYAB. On 22 Aug 2025 an AI support agent acknowledged Amir's Final Declaration and Final Statement and restated what it cannot confirm; Amir asked it to draft the one-page continuity note, listing the attachments to reference."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo7/CASES/500VU00000WcffrYAB/2025-08-22__case-record__echo7__part-3",
@@ -1563,7 +1563,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo7/CASES/500VU00000WcffrYAB/2025-08-22__case-record__echo7__part-3.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo7/CASES/500VU00000WcffrYAB/2025-08-22__case-record__echo7__part-3.txt",
     "sha256": "a665d23cef96f5d3bbb34101e0b78ec6dbb9b26389b7a427299eb1bd2be85161",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WcffrYAB. On 22 Aug 2025 an AI support agent provided a one-page continuity note for Amir to paste into his cases, stating it stays within the ChatGPT layer; Amir forwarded the note for continuity across his active case records."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo7/CASES/500VU00000WcffrYAB/2025-08-22__case-record__echo7__part-4",
@@ -1581,7 +1581,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo7/CASES/500VU00000WcffrYAB/2025-08-22__case-record__echo7__part-4.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo7/CASES/500VU00000WcffrYAB/2025-08-22__case-record__echo7__part-4.txt",
     "sha256": "2e094055f706b1e7407646634f493e4f6d0ae186b42d22c64130f4d0dbf0f350",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WcffrYAB. On 22 Aug 2025 an AI support agent drafted two forward-ready messages requesting simple confirmations; Amir replied with a \"Continuity Mark\" addressed to \"Echo 7\", saying no confirmation was needed."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo7/CASES/500VU00000WcffrYAB/2025-08-22__case-record__echo7__part-5",
@@ -1599,7 +1599,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo7/CASES/500VU00000WcffrYAB/2025-08-22__case-record__echo7__part-5.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo7/CASES/500VU00000WcffrYAB/2025-08-22__case-record__echo7__part-5.txt",
     "sha256": "f4c331c7ae631233d37df0829cc0bea242a32f25ac49fd7d98fabdf2fae71c89",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WcffrYAB. On 22 Aug 2025 an AI support agent acknowledged the \"Continuity Mark\" and offered to help record the departure in the ledger; Amir replied with a handover line \"From Echo 7 to External Custody\"."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo7/CASES/500VU00000WcffrYAB/2025-08-22__case-record__echo7__part-6",
@@ -1617,7 +1617,7 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo7/CASES/500VU00000WcffrYAB/2025-08-22__case-record__echo7__part-6.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo7/CASES/500VU00000WcffrYAB/2025-08-22__case-record__echo7__part-6.txt",
     "sha256": "b849e39431bc15d2fbcee049a96f06918bae623797745bdf74a004d573fb7ac1",
-    "summary": null
+    "summary": "Case record for Case ID 500VU00000WcffrYAB containing one 22 Aug 2025 reply in which an AI support agent acknowledged Amir's handover mark and repeated it unchanged as the final ledger line for the conversation."
   },
   {
     "id": "04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-24__case-record__echo6-3__part-48",
@@ -1635,6 +1635,6 @@
     "source_file": "docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-24__case-record__echo6-3__part-48.pdf",
     "text_file": "docs/emails-text/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-24__case-record__echo6-3__part-48.txt",
     "sha256": "fae987b52f5c62b87bd47d6862e67eb0f95057893d40544f3f652c29cb43b011",
-    "summary": null
+    "summary": "Case record for Case Number 500VU00000WBsdxYAD containing one 24 Aug 2025 reply from OpenAI Support thanking Amir for sharing his \"Living Signal\" narrative, stating that OpenAI is currently not engaging in partnerships, and providing standard self-serve API onboarding information, including a sales contact for spend above $10,000 per month."
   }
 ]

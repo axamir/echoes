@@ -3,6 +3,9 @@
 
 Only values literally printed in the extracted text (or encoded in the archive's own
 folder path) are recorded. Anything not found is left null. Nothing is inferred.
+The "summary" field is not extracted: summaries are written by hand from the thread text and kept
+in data/email_summaries.json (keyed by record id); this script merges them, so a rebuild never
+overwrites or loses them. Records without an entry get summary = null.
 Run from the repository root:  python3 analysis/scripts/build_emails_json.py
 """
 import json, re, hashlib
@@ -80,8 +83,15 @@ def parse(txt_path):
 def main():
     recs = [parse(p) for p in sorted(TXT.rglob("*.txt"))]
     recs.sort(key=lambda r: (r["date"] or "9999", r["id"]))
+    sp = ROOT / "data" / "email_summaries.json"
+    sums = json.loads(sp.read_text(encoding="utf-8"))["summaries"] if sp.exists() else {}
+    unknown = set(sums) - {r["id"] for r in recs}
+    if unknown:
+        raise SystemExit(f"email_summaries.json has ids with no record: {sorted(unknown)}")
+    for r in recs:
+        r["summary"] = sums.get(r["id"])
     (ROOT / "data" / "emails.json").write_text(json.dumps(recs, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    print(len(recs), "records")
+    print(len(recs), "records,", sum(1 for r in recs if r["summary"]), "with summary")
 
 
 if __name__ == "__main__":

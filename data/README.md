@@ -4,6 +4,7 @@ Derived structured data for the Echoes project.
 
 - [`emails.schema.json`](emails.schema.json) — JSON Schema for one email-thread record
 - [`emails.json`](emails.json) — 91 records, one per archived thread PDF in [`../docs/emails/`](../docs/emails/)
+- [`email_summaries.json`](email_summaries.json) — the `summary` text for each record, keyed by record `id`; merged into `emails.json` by the build script
 - [`official_announcements.json`](official_announcements.json) — 34 dated official AI announcements (Jun–Sep 2025) with primary source URLs; built by [`../analysis/scripts/build_timeline.py`](../analysis/scripts/build_timeline.py). Method and caveats: [`../timeline/README.md`](../timeline/README.md)
 
 ## How `emails.json` is built
@@ -25,9 +26,13 @@ Each export is a whole Gmail thread, so the record describes the thread: its pri
 | `archive_case_folder` | 81/91 | The source archive's `CASES/<id>/` folder |
 | `echo_label` | 91/91 | The source archive's `EchoN` folder |
 | `sha256` | 91/91 | Computed from the PDF; matches `docs/emails/SHA256SUMS.txt` |
-| `summary` | 0/91 | Left `null` on purpose. Write summaries by hand from the source. |
+| `summary` | 91/91 | Not extracted. Written from the thread text and stored in [`email_summaries.json`](email_summaries.json); the build script copies it in, so rebuilding never overwrites it. |
 
 Do not invent values. If a field is not printed in the source, it stays `null`.
+
+### Summaries
+
+Each summary is 1–3 neutral, factual English sentences based only on that thread's text: who wrote, what was asked or claimed, and what support replied. Phrases in quotation marks are copied from the thread. Summaries do not interpret intent or add facts from outside the thread. Where an export is a byte-identical copy of another PDF, the summary says so. To change a summary, edit `email_summaries.json` and rerun the build script.
 
 ### Known differences you will see in the data
 
