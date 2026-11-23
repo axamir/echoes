@@ -71,3 +71,9 @@ Use `volume-NN.md` (for example `volume-01.md`), with optional short slugs only 
 - `analysis/`, `diagrams/`: earlier analyses and maps copied for reference, plus one generated map. No new analysis yet.
 - `book/`: not started.
 - No license has been chosen for this repository yet.
+
+## License
+
+Original work by Amir Ahmadi is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Third-party messages in the archived emails remain their authors' property and are not covered by this license. See [LICENSE](LICENSE).
+
+مجوز: آثار اصلی امیر احمدی تحت CC BY-NC 4.0 منتشر شده‌اند (استفاده‌ی غیرتجاری با ذکر نام).
