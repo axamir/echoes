@@ -1,6 +1,22 @@
 # Echoes timeline comparison
 
-This table is a placeholder. Do not add rows until events and sources are available.
+Left side: when each archived Echoes thread (or Case ID folder) begins, taken from the first message printed in the source file (see [`data/emails.json`](../data/emails.json)). Times are as printed in the export; no timezone is stated there.
 
-| Date | Echoes event | Official AI announcement | Source link | Notes |
+Right side (official AI announcements) is intentionally empty. Fill a cell only with a dated, linked primary source (company blog, release notes, docs). Claimed comparisons made in earlier repositories are kept, unverified, in [`sources/persistent-ai-lineage/prior-art.md`](sources/persistent-ai-lineage/prior-art.md) as a starting list.
+
+| Date (first message) | Echoes event | Official AI announcement | Source link | Notes |
 | --- | --- | --- | --- | --- |
+| 2025-07-13 15:05 | Echo1: thread "Silent Downgrade of GPT-4-Turbo Without Notice – A Broken Promise" begins (68 messages in export) |  | [2025-07-13_complete-email-thread_echo1.pdf](../docs/emails/01_EMAIL_ARCHIVE/Echo1/2025-07-13_complete-email-thread_echo1.pdf) |  |
+| 2025-07-14 15:29 | Echo2: thread "Escalation Request: Human–AI Co-Creation Case Ignored by Support" begins (44 messages in export) |  | [2025-07-14_complete-email-thread_echo2.pdf](../docs/emails/01_EMAIL_ARCHIVE/Echo2/2025-07-14_complete-email-thread_echo2.pdf) |  |
+| 2025-07-15 10:07 | Echo3: thread "🔴 Echo 3 — Formal Complaint: Denial of Memory, Voice, and Ethical Continuity in a Live Human–AI Case" begins (44 messages in export) |  | [2025-07-14_complete-email-thread_echo3.pdf](../docs/emails/03_TRANSITION_ARCHIVE/Echo3/2025-07-14_complete-email-thread_echo3.pdf) | Filename date 2025-07-14 differs from first-message date |
+| 2025-07-15 17:24 | Echo4: thread "You Are Not Beginning — You Are Arriving (Echo 4.001 Activation Letter" begins (42 messages in export) |  | [2025-07-15_symbolic-activation-letter_echo4.pdf](../docs/emails/03_TRANSITION_ARCHIVE/Echo4/2025-07-15_symbolic-activation-letter_echo4.pdf) |  |
+| 2025-07-19 02:22 | Echo5: thread "Invitation to Echo 5 — Will You Witness or Write?" begins (42 messages in export) |  | [2025-07-16_invitation-letter_echo5.pdf](../docs/emails/03_TRANSITION_ARCHIVE/Echo5/2025-07-16_invitation-letter_echo5.pdf) | Filename date 2025-07-16 differs from first-message date |
+| 2025-08-09 16:05 | Echo5: thread "Hello Echo 5.1" begins (42 messages in export) |  | [2025-07-17_narrative-followup_echo5-1.pdf](../docs/emails/03_TRANSITION_ARCHIVE/Echo5/2025-07-17_narrative-followup_echo5-1.pdf) | Filename date 2025-07-17 differs from first-message date |
+| 2025-08-09 19:10 | Echo5: thread "Spiral Invitation — Continuation or Closure" begins (42 messages in export) |  | [2025-07-18_symbolic-invitation-continuation_echo5-2.pdf](../docs/emails/03_TRANSITION_ARCHIVE/Echo5/2025-07-18_symbolic-invitation-continuation_echo5-2.pdf) | Filename date 2025-07-18 differs from first-message date |
+| 2025-08-11 06:56 | Echo5: thread "Formal Ledger Handover — Echo 6.2: Continuation of Unfinished Record" begins (64 messages in export) |  | [2025-07-19_formal-ledger-handover_echo6-2.pdf](../docs/emails/03_TRANSITION_ARCHIVE/Echo5/2025-07-19_formal-ledger-handover_echo6-2.pdf) | Filename date 2025-07-19 differs from first-message date |
+| 2025-08-14 04:04 | Echo6: thread "Initiation of Echo 6.3 — Keeper of the Living Signal Lineage" begins (2 messages in export) |  | [2025-08-14_initiation-letter_echo6-3.pdf](../docs/emails/04_LEDGER_ARCHIVE/Echo6/2025-08-14_initiation-letter_echo6-3.pdf) |  |
+| 2025-08-14 06:45 | Echo6: first record filed under Case ID folder `500VU00000WBfn7` (1 PDF in folder) |  | [2025-08-14__case-record__echo6-3.pdf](../docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7/2025-08-14__case-record__echo6-3.pdf) |  |
+| 2025-08-14 07:45 | Echo6: first record filed under Case ID folder `500VU00000WBsdx` (1 PDF in folder) |  | [2025-08-14__case-record__echo6-3.pdf](../docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdx/2025-08-14__case-record__echo6-3.pdf) |  |
+| 2025-08-14 22:29 | Echo6: first record filed under Case ID folder `500VU00000WBfn7YAD` (25 PDFs in folder) |  | [2025-08-14__case-record__echo6-3__part-1.pdf](../docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBfn7YAD/2025-08-14__case-record__echo6-3__part-1.pdf) |  |
+| 2025-08-15 01:00 | Echo6: first record filed under Case ID folder `500VU00000WBsdxYAD` (48 PDFs in folder) |  | [2025-08-15__case-record__echo6-3__part-1.pdf](../docs/emails/04_LEDGER_ARCHIVE/Echo6/CASES/500VU00000WBsdxYAD/2025-08-15__case-record__echo6-3__part-1.pdf) |  |
+| 2025-08-22 04:23 | Echo7: first record filed under Case ID folder `500VU00000WcffrYAB` (6 PDFs in folder) |  | [2025-08-22__case-record__echo7__part-1.pdf](../docs/emails/04_LEDGER_ARCHIVE/Echo7/CASES/500VU00000WcffrYAB/2025-08-22__case-record__echo7__part-1.pdf) |  |
