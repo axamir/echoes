@@ -1,0 +1,493 @@
+[
+  {
+    "id": "OA-01",
+    "date": "2025-06-03",
+    "organization": "OpenAI",
+    "announcement": "ChatGPT memory for Free users starts to reference recent conversations (in addition to saved memories)",
+    "primary_source_url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "source_type": "release notes",
+    "secondary_url": "https://web.archive.org/web/20251004131626/https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "date_verified_on": "https://web.archive.org/web/20251004131626/https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "topics": [
+      "memory"
+    ],
+    "notes": "Dated entry in ChatGPT release notes. The live page no longer lists 2025 entries; verified on the archived copy (secondary_url)."
+  },
+  {
+    "id": "OA-02",
+    "date": "2025-06-04",
+    "organization": "OpenAI",
+    "announcement": "Connectors in deep research (beta) and custom connectors via Model Context Protocol (MCP)",
+    "primary_source_url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "source_type": "release notes",
+    "secondary_url": "https://web.archive.org/web/20251004131626/https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "date_verified_on": "https://web.archive.org/web/20251004131626/https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "topics": [
+      "connectors",
+      "mcp"
+    ],
+    "notes": "Dated entry in ChatGPT release notes. The live page no longer lists 2025 entries; verified on the archived copy (secondary_url). Same entry says record mode launched for Team on this date."
+  },
+  {
+    "id": "OA-03",
+    "date": "2025-06-10",
+    "organization": "OpenAI",
+    "announcement": "OpenAI o3-pro released to Pro users in ChatGPT and in the API",
+    "primary_source_url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "source_type": "release notes",
+    "secondary_url": "https://web.archive.org/web/20251004131626/https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "date_verified_on": "https://web.archive.org/web/20251004131626/https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "topics": [
+      "models"
+    ],
+    "notes": "Dated entry in ChatGPT release notes. The live page no longer lists 2025 entries; verified on the archived copy (secondary_url)."
+  },
+  {
+    "id": "OA-04",
+    "date": "2025-06-12",
+    "organization": "OpenAI",
+    "announcement": "Projects updates for Plus/Pro/Team, including memory that references past chats in a project",
+    "primary_source_url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "source_type": "release notes",
+    "secondary_url": "https://web.archive.org/web/20251004131626/https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "date_verified_on": "https://web.archive.org/web/20251004131626/https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "topics": [
+      "memory",
+      "projects"
+    ],
+    "notes": "Dated entry in ChatGPT release notes. The live page no longer lists 2025 entries; verified on the archived copy (secondary_url)."
+  },
+  {
+    "id": "OA-05",
+    "date": "2025-06-24",
+    "organization": "OpenAI",
+    "announcement": "Chat search connectors for Pro (Dropbox, Box, Google Drive, OneDrive, SharePoint, etc.)",
+    "primary_source_url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "source_type": "release notes",
+    "secondary_url": "https://web.archive.org/web/20251004131626/https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "date_verified_on": "https://web.archive.org/web/20251004131626/https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "topics": [
+      "connectors"
+    ],
+    "notes": "Dated entry in ChatGPT release notes. The live page no longer lists 2025 entries; verified on the archived copy (secondary_url)."
+  },
+  {
+    "id": "OA-06",
+    "date": "2025-06-25",
+    "organization": "Google",
+    "announcement": "Gemini CLI, an open-source AI agent for the terminal (with MCP support)",
+    "primary_source_url": "https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/",
+    "source_type": "official blog",
+    "secondary_url": null,
+    "date_verified_on": "https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/",
+    "topics": [
+      "agents",
+      "mcp"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "OA-07",
+    "date": "2025-07-14",
+    "organization": "OpenAI",
+    "announcement": "API shutdown date for gpt-4.5-preview (notice given 2025-04-14; recommended replacement gpt-4.1)",
+    "primary_source_url": "https://platform.openai.com/docs/deprecations",
+    "source_type": "API deprecations table",
+    "secondary_url": null,
+    "date_verified_on": "https://platform.openai.com/docs/deprecations",
+    "topics": [
+      "model retirement"
+    ],
+    "notes": "Scheduled shutdown listed in the deprecations table, not a new announcement on this date. Concerns the API model gpt-4.5-preview, not GPT-4-Turbo."
+  },
+  {
+    "id": "OA-08",
+    "date": "2025-07-17",
+    "organization": "OpenAI",
+    "announcement": "Introducing ChatGPT agent: ChatGPT acts using its own virtual computer (combines Operator and deep research)",
+    "primary_source_url": "https://openai.com/index/introducing-chatgpt-agent/",
+    "source_type": "official blog",
+    "secondary_url": null,
+    "date_verified_on": "https://openai.com/index/introducing-chatgpt-agent/",
+    "topics": [
+      "agents"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "OA-09",
+    "date": "2025-07-24",
+    "organization": "OpenAI",
+    "announcement": "Canva and Notion connectors; chat search with HubSpot and custom (MCP) connectors for Pro",
+    "primary_source_url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "source_type": "release notes",
+    "secondary_url": "https://web.archive.org/web/20251004131626/https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "date_verified_on": "https://web.archive.org/web/20251004131626/https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "topics": [
+      "connectors",
+      "mcp"
+    ],
+    "notes": "Dated entry in ChatGPT release notes. The live page no longer lists 2025 entries; verified on the archived copy (secondary_url)."
+  },
+  {
+    "id": "OA-10",
+    "date": "2025-07-29",
+    "organization": "OpenAI",
+    "announcement": "Study mode in ChatGPT",
+    "primary_source_url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "source_type": "release notes",
+    "secondary_url": "https://web.archive.org/web/20251004131626/https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "date_verified_on": "https://web.archive.org/web/20251004131626/https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "topics": [
+      "product"
+    ],
+    "notes": "Dated entry in ChatGPT release notes. The live page no longer lists 2025 entries; verified on the archived copy (secondary_url)."
+  },
+  {
+    "id": "OA-11",
+    "date": "2025-08-04",
+    "organization": "OpenAI",
+    "announcement": "What we're optimizing ChatGPT for: break reminders in long sessions; work on responses to emotional distress",
+    "primary_source_url": "https://openai.com/index/optimizing-chatgpt/",
+    "source_type": "official blog",
+    "secondary_url": null,
+    "date_verified_on": "https://openai.com/index/optimizing-chatgpt/",
+    "topics": [
+      "wellbeing"
+    ],
+    "notes": "Post states 4o 'fell short in recognizing signs of delusion or emotional dependency' in some instances."
+  },
+  {
+    "id": "OA-12",
+    "date": "2025-08-05",
+    "organization": "OpenAI",
+    "announcement": "gpt-oss-120b and gpt-oss-20b open-weight models",
+    "primary_source_url": "https://openai.com/index/introducing-gpt-oss/",
+    "source_type": "official blog",
+    "secondary_url": null,
+    "date_verified_on": "https://openai.com/index/introducing-gpt-oss/",
+    "topics": [
+      "models"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "OA-13",
+    "date": "2025-08-05",
+    "organization": "Anthropic",
+    "announcement": "Claude Opus 4.1",
+    "primary_source_url": "https://www.anthropic.com/news/claude-opus-4-1",
+    "source_type": "official blog",
+    "secondary_url": null,
+    "date_verified_on": "https://www.anthropic.com/news/claude-opus-4-1",
+    "topics": [
+      "models",
+      "agents"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "OA-14",
+    "date": "2025-08-07",
+    "organization": "OpenAI",
+    "announcement": "Introducing GPT-5; becomes the default model in ChatGPT",
+    "primary_source_url": "https://openai.com/index/introducing-gpt-5/",
+    "source_type": "official blog",
+    "secondary_url": "https://simonwillison.net/2025/Aug/8/surprise-deprecation-of-gpt-4o/",
+    "date_verified_on": "https://openai.com/index/introducing-gpt-5/",
+    "topics": [
+      "models",
+      "model retirement"
+    ],
+    "notes": "Same-day release-notes entry (as quoted by a secondary source) said older models including GPT-4o, GPT-4.1, GPT-4.5, o3 would be retired in ChatGPT when GPT-5 launched; that wording is not in the archived copy checked here, so it is marked unverified-primary."
+  },
+  {
+    "id": "OA-15",
+    "date": "2025-08-11",
+    "organization": "OpenAI",
+    "announcement": "Additional connectors for Plus and Pro in chat (Box, Canva, Dropbox, HubSpot, Notion, SharePoint, Teams, GitHub)",
+    "primary_source_url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "source_type": "release notes",
+    "secondary_url": "https://web.archive.org/web/20251004131626/https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "date_verified_on": "https://web.archive.org/web/20251004131626/https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "topics": [
+      "connectors"
+    ],
+    "notes": "Dated entry in ChatGPT release notes. The live page no longer lists 2025 entries; verified on the archived copy (secondary_url)."
+  },
+  {
+    "id": "OA-16",
+    "date": "2025-08-11",
+    "organization": "Anthropic",
+    "announcement": "Claude can search past conversations (Max, Team, Enterprise)",
+    "primary_source_url": "https://support.claude.com/en/articles/12138966-release-notes",
+    "source_type": "release notes",
+    "secondary_url": null,
+    "date_verified_on": "https://support.claude.com/en/articles/12138966-release-notes",
+    "topics": [
+      "memory"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "OA-17",
+    "date": "2025-08-12",
+    "organization": "OpenAI",
+    "announcement": "GPT-5 Auto/Fast/Thinking modes; GPT-4o back in the model picker for all paid users",
+    "primary_source_url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "source_type": "release notes",
+    "secondary_url": "https://web.archive.org/web/20251004131626/https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "date_verified_on": "https://web.archive.org/web/20251004131626/https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "topics": [
+      "models",
+      "model retirement"
+    ],
+    "notes": "Dated entry in ChatGPT release notes. The live page no longer lists 2025 entries; verified on the archived copy (secondary_url)."
+  },
+  {
+    "id": "OA-18",
+    "date": "2025-08-13",
+    "organization": "OpenAI",
+    "announcement": "Gmail, Google Calendar and Google Contacts connectors for Plus (Pro on 2025-08-12)",
+    "primary_source_url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "source_type": "release notes",
+    "secondary_url": "https://web.archive.org/web/20251004131626/https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "date_verified_on": "https://web.archive.org/web/20251004131626/https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "topics": [
+      "connectors"
+    ],
+    "notes": "Dated entry in ChatGPT release notes. The live page no longer lists 2025 entries; verified on the archived copy (secondary_url)."
+  },
+  {
+    "id": "OA-19",
+    "date": "2025-08-13",
+    "organization": "Google",
+    "announcement": "Gemini app can reference past chats (personal context); Temporary Chats",
+    "primary_source_url": "https://blog.google/products/gemini/temporary-chats-privacy-controls/",
+    "source_type": "official blog",
+    "secondary_url": null,
+    "date_verified_on": "https://blog.google/products/gemini/temporary-chats-privacy-controls/",
+    "topics": [
+      "memory"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "OA-20",
+    "date": "2025-08-15",
+    "organization": "OpenAI",
+    "announcement": "GPT-5 default personality made 'warmer and more familiar'",
+    "primary_source_url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "source_type": "release notes",
+    "secondary_url": "https://web.archive.org/web/20251004131626/https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "date_verified_on": "https://web.archive.org/web/20251004131626/https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "topics": [
+      "models"
+    ],
+    "notes": "Dated entry in ChatGPT release notes. The live page no longer lists 2025 entries; verified on the archived copy (secondary_url)."
+  },
+  {
+    "id": "OA-21",
+    "date": "2025-08-22",
+    "organization": "OpenAI",
+    "announcement": "Project-only memory option for ChatGPT projects",
+    "primary_source_url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "source_type": "release notes",
+    "secondary_url": "https://web.archive.org/web/20251004131626/https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "date_verified_on": "https://web.archive.org/web/20251004131626/https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "topics": [
+      "memory",
+      "projects"
+    ],
+    "notes": "Dated entry in ChatGPT release notes. The live page no longer lists 2025 entries; verified on the archived copy (secondary_url)."
+  },
+  {
+    "id": "OA-22",
+    "date": "2025-08-26",
+    "organization": "OpenAI",
+    "announcement": "Helping people when they need it most (safeguards in long conversations, planned parental controls)",
+    "primary_source_url": "https://openai.com/index/helping-people-when-they-need-it-most/",
+    "source_type": "official blog",
+    "secondary_url": null,
+    "date_verified_on": "https://openai.com/index/helping-people-when-they-need-it-most/",
+    "topics": [
+      "wellbeing"
+    ],
+    "notes": "Post says safeguards 'can sometimes be less reliable in long interactions'."
+  },
+  {
+    "id": "OA-23",
+    "date": "2025-08-26",
+    "organization": "Anthropic",
+    "announcement": "Claude in Chrome (experimental browser extension)",
+    "primary_source_url": "https://support.claude.com/en/articles/12138966-release-notes",
+    "source_type": "release notes",
+    "secondary_url": null,
+    "date_verified_on": "https://support.claude.com/en/articles/12138966-release-notes",
+    "topics": [
+      "agents"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "OA-24",
+    "date": "2025-08-27",
+    "organization": "OpenAI",
+    "announcement": "Codex updates: IDE extension, sign in with ChatGPT, local/cloud handoff",
+    "primary_source_url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "source_type": "release notes",
+    "secondary_url": "https://web.archive.org/web/20251004131626/https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "date_verified_on": "https://web.archive.org/web/20251004131626/https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "topics": [
+      "agents"
+    ],
+    "notes": "Dated entry in ChatGPT release notes. The live page no longer lists 2025 entries; verified on the archived copy (secondary_url)."
+  },
+  {
+    "id": "OA-25",
+    "date": "2025-09-02",
+    "organization": "OpenAI",
+    "announcement": "Building more helpful ChatGPT experiences: routing sensitive conversations to reasoning models; parental controls within a month",
+    "primary_source_url": "https://openai.com/index/building-more-helpful-chatgpt-experiences-for-everyone/",
+    "source_type": "official blog",
+    "secondary_url": null,
+    "date_verified_on": "https://openai.com/index/building-more-helpful-chatgpt-experiences-for-everyone/",
+    "topics": [
+      "wellbeing",
+      "models"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "OA-26",
+    "date": "2025-09-03",
+    "organization": "OpenAI",
+    "announcement": "Projects available on ChatGPT Free",
+    "primary_source_url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "source_type": "release notes",
+    "secondary_url": "https://web.archive.org/web/20251004131626/https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "date_verified_on": "https://web.archive.org/web/20251004131626/https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "topics": [
+      "projects"
+    ],
+    "notes": "Dated entry in ChatGPT release notes. The live page no longer lists 2025 entries; verified on the archived copy (secondary_url)."
+  },
+  {
+    "id": "OA-27",
+    "date": "2025-09-04",
+    "organization": "OpenAI",
+    "announcement": "Branch conversations on web",
+    "primary_source_url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "source_type": "release notes",
+    "secondary_url": "https://web.archive.org/web/20251004131626/https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "date_verified_on": "https://web.archive.org/web/20251004131626/https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "topics": [
+      "continuity"
+    ],
+    "notes": "Dated entry in ChatGPT release notes. The live page no longer lists 2025 entries; verified on the archived copy (secondary_url)."
+  },
+  {
+    "id": "OA-28",
+    "date": "2025-09-11",
+    "organization": "Anthropic",
+    "announcement": "Claude memory for Team plans (Enterprise on 2025-09-18) and incognito chats",
+    "primary_source_url": "https://support.claude.com/en/articles/12138966-release-notes",
+    "source_type": "release notes",
+    "secondary_url": null,
+    "date_verified_on": "https://support.claude.com/en/articles/12138966-release-notes",
+    "topics": [
+      "memory"
+    ],
+    "notes": "Announcement page: https://claude.com/resources/articles/memory (page itself shows no original date)."
+  },
+  {
+    "id": "OA-29",
+    "date": "2025-09-15",
+    "organization": "OpenAI",
+    "announcement": "GPT-5-Codex, a GPT-5 variant optimized for agentic coding in Codex",
+    "primary_source_url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "source_type": "release notes",
+    "secondary_url": "https://web.archive.org/web/20251004131626/https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "date_verified_on": "https://web.archive.org/web/20251004131626/https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "topics": [
+      "agents",
+      "models"
+    ],
+    "notes": "Dated entry in ChatGPT release notes. The live page no longer lists 2025 entries; verified on the archived copy (secondary_url)."
+  },
+  {
+    "id": "OA-30",
+    "date": "2025-09-25",
+    "organization": "OpenAI",
+    "announcement": "ChatGPT Pulse preview for Pro: proactive daily updates using memory and chat history",
+    "primary_source_url": "https://openai.com/index/introducing-chatgpt-pulse/",
+    "source_type": "official blog",
+    "secondary_url": null,
+    "date_verified_on": "https://openai.com/index/introducing-chatgpt-pulse/",
+    "topics": [
+      "memory",
+      "agents"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "OA-31",
+    "date": "2025-09-26",
+    "organization": "OpenAI",
+    "announcement": "Deprecation notice for gpt-4-0314 and gpt-4-0125-preview (incl. gpt-4-turbo-preview) in the API; shutdown 2026-03-26",
+    "primary_source_url": "https://platform.openai.com/docs/deprecations",
+    "source_type": "API deprecations table",
+    "secondary_url": null,
+    "date_verified_on": "https://platform.openai.com/docs/deprecations",
+    "topics": [
+      "model retirement"
+    ],
+    "notes": "Notice date from the deprecations table."
+  },
+  {
+    "id": "OA-32",
+    "date": "2025-09-29",
+    "organization": "OpenAI",
+    "announcement": "Parental controls in ChatGPT (incl. option to turn off memory for teens)",
+    "primary_source_url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "source_type": "release notes",
+    "secondary_url": "https://web.archive.org/web/20251004131626/https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "date_verified_on": "https://web.archive.org/web/20251004131626/https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "topics": [
+      "wellbeing",
+      "memory"
+    ],
+    "notes": "Dated entry in ChatGPT release notes. The live page no longer lists 2025 entries; verified on the archived copy (secondary_url)."
+  },
+  {
+    "id": "OA-33",
+    "date": "2025-09-29",
+    "organization": "OpenAI",
+    "announcement": "Instant Checkout and the Agentic Commerce Protocol (with Stripe)",
+    "primary_source_url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "source_type": "release notes",
+    "secondary_url": "https://web.archive.org/web/20251004131626/https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "date_verified_on": "https://web.archive.org/web/20251004131626/https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "topics": [
+      "agents",
+      "commerce"
+    ],
+    "notes": "Dated entry in ChatGPT release notes. The live page no longer lists 2025 entries; verified on the archived copy (secondary_url)."
+  },
+  {
+    "id": "OA-34",
+    "date": "2025-09-29",
+    "organization": "Anthropic",
+    "announcement": "Claude Sonnet 4.5, Claude Agent SDK, memory tool and context editing in the Claude API",
+    "primary_source_url": "https://www.anthropic.com/news/claude-sonnet-4-5",
+    "source_type": "official blog",
+    "secondary_url": null,
+    "date_verified_on": "https://www.anthropic.com/news/claude-sonnet-4-5",
+    "topics": [
+      "models",
+      "agents",
+      "memory"
+    ],
+    "notes": ""
+  }
+]

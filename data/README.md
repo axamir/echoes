@@ -4,6 +4,7 @@ Derived structured data for the Echoes project.
 
 - [`emails.schema.json`](emails.schema.json) — JSON Schema for one email-thread record
 - [`emails.json`](emails.json) — 91 records, one per archived thread PDF in [`../docs/emails/`](../docs/emails/)
+- [`official_announcements.json`](official_announcements.json) — 34 dated official AI announcements (Jun–Sep 2025) with primary source URLs; built by [`../analysis/scripts/build_timeline.py`](../analysis/scripts/build_timeline.py). Method and caveats: [`../timeline/README.md`](../timeline/README.md)
 
 ## How `emails.json` is built
 

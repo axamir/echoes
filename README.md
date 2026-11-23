@@ -67,7 +67,7 @@ Use `volume-NN.md` (for example `volume-01.md`), with optional short slugs only 
 - `docs/emails/`: 91 archived email-thread PDFs (Echo 1 – Echo 7, Jul 13 – Aug 24, 2025) with SHA-256 sums; `docs/emails-text/`: their extracted text.
 - `narrative/`: *Shahnameh of Agents* chapters 00–33 in English and Persian.
 - `data/emails.json`: 91 thread records (date, sender, recipients, subject, Case ID, message count) taken only from the files; summaries not yet written.
-- `timeline/comparison.md`: 14 Echoes rows; the official-announcement column is still empty.
+- `timeline/comparison.md`: 14 Echoes rows merged with 34 dated official announcements (Jun–Sep 2025, primary sources in `timeline/official-announcements.md`).
 - `analysis/`, `diagrams/`: earlier analyses and maps copied for reference, plus one generated map. No new analysis yet.
 - `book/`: not started.
 - License: CC BY-NC 4.0 (see below).
