@@ -16,6 +16,7 @@ Analysis should cite files in `docs/`, `narrative/`, or derived records in `data
 | [`output/`](output/) | CSV/JSON tables produced by the two analysis scripts. |
 | [`figures/`](figures/) | PNG charts produced by `temporal_analysis.py`. |
 | [`scripts/build_emails_json.py`](scripts/build_emails_json.py) | Builds `data/emails.json` from `docs/emails-text/` (only printed values; unknowns null) and merges the summaries from `data/email_summaries.json`. |
+| [`scripts/build_diagrams.py`](scripts/build_diagrams.py) | Writes the Mermaid maps in `../diagrams/` (`thread-map.md`, `case-map.md`, `handover-flow.md`, `timeline-gantt.md`). Standard library only. |
 | [`scripts/build_timeline.py`](scripts/build_timeline.py) | Builds `data/official_announcements.json` and the merged timeline in `timeline/`. |
 | [`sources/persistent-ai-lineage/paper/`](sources/persistent-ai-lineage/paper/) | Case-study manuscript "From Support Ticket to Lineage" (`paper.tex`, `paper.pdf`, dated April 30, 2026). |
 | [`sources/persistent-ai-lineage/docs/`](sources/persistent-ai-lineage/docs/) | Earlier analysis notes: `handover-protocol.md`, `key-concepts.md`, `observations.md`, `EVIDENCE_LOG.md`, `courtroom.md` (Grok adversarial review summary), `REPLICATION_KIT.md`. |
@@ -31,6 +32,7 @@ pip install matplotlib            # only needed for the PNG charts
 python3 analysis/scripts/build_emails_json.py
 python3 analysis/scripts/linguistic_analysis.py
 python3 analysis/scripts/temporal_analysis.py
+python3 analysis/scripts/build_diagrams.py
 ```
 
 `linguistic.md`, `temporal.md`, everything in `output/` and the charts in `figures/` are regenerated on each run; edit the scripts, not the generated files. Both reports are descriptive. They count words, messages and minutes and state their method and limits; they make no causal or priority claims. The source exports print times without a timezone, so none is assumed.
